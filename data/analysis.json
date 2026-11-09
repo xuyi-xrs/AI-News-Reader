@@ -1,28 +1,26 @@
 {
-  "temperature_score": 48.33,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比9/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 58.33,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Nvidia's Troubles, AMD's Boost, Nasdaq Futures | Barron's Da...",
-    "✗ 股市动态: Nvidia shares slide as it probes alleged Chinese spy scandal...",
-    "✗ 综合财经: Government's EV targets expected to be reduced this week...",
-    "✗ 股市动态: Global stocks steady after AI rout...",
-    "✓ 综合财经: Restaurant chains refocus on food quality to bring back dine..."
+    "✓ 综合财经: Boeing to cut 5% of commercial airplane workers as productio...",
+    "✓ 股市动态: Millions of dollars poured into prediction markets on electi...",
+    "✓ 股市动态: Goldman CEO Solomon says AI financing remains strong despite...",
+    "✗ 股市动态: Nvidia shares tumble over investigation into Huang's affair ...",
+    "✓ 股市动态: Stocks Climb as Buyers Step In Despite Nvidia Woes: Markets ..."
   ],
   "positive_count": 8,
-  "negative_count": 9,
-  "neutral_count": 13,
+  "negative_count": 3,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-09T12:48:23.974125",
+  "analyzed_at": "2026-11-09T18:39:37.860896",
   "categories_distribution": {
+    "综合财经": 21,
+    "股市动态": 18,
+    "货币政策": 4,
     "大宗商品": 1,
-    "股市动态": 17,
-    "综合财经": 20,
-    "经济数据": 4,
-    "外汇市场": 1,
-    "国际贸易": 1,
-    "货币政策": 1
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
