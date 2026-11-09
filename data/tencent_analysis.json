@@ -6,7 +6,7 @@
     "overall_rating": "谨慎看空",
     "risk_level": "高风险",
     "recommendation": "建议减持",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较大挑战（消极新闻6条，占比20.0%）。多项负面因素叠加，市场情绪悲观，建议谨慎对待，适度降低仓位。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较大挑战（消极新闻7条，占比23.3%）。多项负面因素叠加，市场情绪悲观，建议谨慎对待，适度降低仓位。",
     "key_opportunities": [
       "估值可能已经反映部分负面因素",
       "危机中可能孕育转机"
@@ -29,7 +29,7 @@
     {
       "type": "positive",
       "category": "AI技术",
-      "title": "Tencent Stocks Slip 2.46% After Hunyuan AI Rally as Hong Kong Tech Cools - Yahoo"
+      "title": "Alibaba QwenWork Rises as ByteDance & Tencent Axe AI Portals - AI Magazine"
     },
     {
       "type": "negative",
@@ -39,12 +39,22 @@
     {
       "type": "negative",
       "category": "AI技术",
-      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy "
+      "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Ch"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters"
     },
     {
       "type": "negative",
       "category": "AI技术",
-      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alle"
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy "
     },
     {
       "type": "negative",
@@ -55,52 +65,32 @@
       "type": "negative",
       "category": "AI技术",
       "title": "Read Huang's email to his staff and statement from Nvidia's board of directors"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup"
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trad"
     }
   ],
-  "positive_count": 2,
-  "negative_count": 6,
-  "neutral_count": 22,
-  "analyzed_news_count": 54,
-  "analyzed_at": "2026-11-09T12:58:22.955078",
+  "positive_count": 3,
+  "negative_count": 7,
+  "neutral_count": 20,
+  "analyzed_news_count": 52,
+  "analyzed_at": "2026-11-09T18:46:21.731413",
   "categories_distribution": {
-    "云服务": 2,
-    "AI技术": 38,
+    "AI技术": 41,
     "金融科技": 2,
-    "元宇宙": 9,
     "综合动态": 1,
+    "云服务": 1,
+    "元宇宙": 5,
     "政策监管": 1,
     "游戏业务": 1
   },
   "category_sentiment": {
-    "云服务": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
     "AI技术": {
-      "positive": 2,
-      "negative": 6,
+      "positive": 3,
+      "negative": 7,
       "neutral": 17
     },
     "金融科技": {
       "positive": 0,
       "negative": 0,
       "neutral": 2
-    },
-    "元宇宙": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
     },
     "综合动态": {
       "positive": 0,
