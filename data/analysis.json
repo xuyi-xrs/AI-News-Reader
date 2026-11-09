@@ -1,24 +1,26 @@
 {
-  "temperature_score": 68.5,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前市场呈现复杂的中性格局，整体投资环境在积极因素与风险挑战间保持平衡。从积极面看，伯克希尔哈撒韦运营收益大幅增长34%，现金储备达3810亿美元，显示传统行业稳健；基础材料板块表现良好，玉米大豆等农产品价格走强；AI领域持续火热，微软、OpenAI等公司加大招聘力度，数字广告业务推动科技股增长；伦敦量化交易中心地位巩固，显示金融创新活力。然而风险因素同样显著：Meta因AI支出争议股价大跌，反映市场对科技公司过度投资的担忧；Nexperia芯片危机持续威胁全球汽车生产；EQT警告私人资本僵尸企业可能在未来十年激增；欧盟扩大对股票和加密货币交易所监管可能带来政策不确定性。就业市场虽保持韧性，但大规模裁员事件仍引发担忧。地缘政治方面，中美欧芯片争端及美元全球化推进值得关注。整体而言，市场处于结构性机会与系统性风险并存的阶段，需要精挑细选投资标的。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 传统行业稳健：伯克希尔业绩增长34%显示价值投资标的依然可靠",
-    "✗ 科技股分化：Meta股价大跌反映市场对AI过度投资担忧",
-    "✓ 农产品走强：玉米大豆价格表现良好支撑基础材料板块",
-    "✗ 监管收紧：欧盟扩大对股票和加密货币交易所监管带来不确定性",
-    "✓ AI长期趋势：微软等公司持续投入显示技术革新方向明确"
+    "✗ 综合财经: Government's EV targets expected to be reduced this week...",
+    "✗ 股市动态: Asian stocks rebound after AI rout...",
+    "✗ 股市动态: UK Stock Market Today: FTSE 100 Futures Slip On Housing Weak...",
+    "✓ 股市动态: Democrat triumph offers China ‘window to catch up’ on AI...",
+    "✓ 股市动态: From supermarket fridges to passenger flights, a wave of thr..."
   ],
-  "positive_count": 12,
-  "negative_count": 10,
-  "neutral_count": 8,
-  "investment_advice": {
-    "short_term": "建议关注防御性较强的消费必需品和农产品板块，适度配置现金等待科技股调整后的入场机会，规避受芯片危机影响的汽车产业链",
-    "medium_term": "可分批布局AI基础设施、数字广告等确定性较高的科技子行业，同时配置伯克希尔等现金流充裕的价值股，关注大麻政策变化带来的主题机会",
-    "risk_warning": "需警惕科技股估值回调风险、地缘政治对芯片供应链的持续冲击、监管政策变化对加密货币和量化交易的影响，以及全球经济放缓可能引发的连锁反应"
-  },
-  "analyzed_at": "2025-11-02T06:11:13.904663",
+  "positive_count": 6,
+  "negative_count": 6,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "ai_provider": "deepseek"
+  "analyzed_at": "2026-11-09T07:39:36.552458",
+  "categories_distribution": {
+    "股市动态": 16,
+    "综合财经": 20,
+    "货币政策": 2,
+    "经济数据": 5,
+    "国际贸易": 1
+  },
+  "ai_provider": "fallback_rules"
 }
