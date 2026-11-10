@@ -1,26 +1,27 @@
 {
-  "temperature_score": 70.0,
-  "sentiment": "乐观",
-  "sentiment_emoji": "😊",
-  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比13/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
+  "temperature_score": 60.0,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Anthropic sets price range of $70 to $78 in upcoming IPO as ...",
-    "✓ 股市动态: Anthropic targets valuation of up to $1.4tn in IPO...",
-    "✓ 综合财经: Jensen Huang's affair with alleged Chinese spy further compl...",
-    "✓ 综合财经: Trump is taking the Alamo route...",
-    "✓ 综合财经: Sales of tinned food and bottled water  jump after 'Be Ready..."
+    "✓ 经济数据: 10-year Treasury yield races back to 5% as inflation data, W...",
+    "✓ 货币政策: Credit card debt climbs to a record $1.29 trillion, New York...",
+    "✓ 经济数据: Inflation runs hotter than expected as higher prices extend ...",
+    "✗ 股市动态: Anthropic set for $1.3tn stock market debut despite 'catastr...",
+    "✗ 货币政策: Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets W..."
   ],
   "positive_count": 13,
-  "negative_count": 1,
-  "neutral_count": 16,
+  "negative_count": 7,
+  "neutral_count": 10,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-10T12:44:17.024119",
+  "analyzed_at": "2026-11-10T18:31:54.620258",
   "categories_distribution": {
-    "股市动态": 21,
-    "综合财经": 18,
-    "国际贸易": 1,
-    "货币政策": 3,
-    "经济数据": 2
+    "经济数据": 8,
+    "综合财经": 16,
+    "股市动态": 13,
+    "货币政策": 6,
+    "大宗商品": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
