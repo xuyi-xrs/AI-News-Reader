@@ -1,25 +1,26 @@
 {
-  "temperature_score": 66.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 70.0,
+  "sentiment": "乐观",
+  "sentiment_emoji": "😊",
+  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比13/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
   "key_factors": [
-    "✓ 综合财经: Trump’s C-SPAN call marks latest surprise post-midterm appea...",
-    "✓ 综合财经: TSMC's October sales jump as global chip boom rolls on\n...",
-    "✓ 国际贸易: China’s monthly imports grow at fastest pace in five years a...",
-    "✗ 综合财经: No, Brits have not fallen out of love with work...",
-    "✓ 股市动态: Investors pile into defensive stocks amid fears AI bull mark..."
+    "✓ 股市动态: Anthropic sets price range of $70 to $78 in upcoming IPO as ...",
+    "✓ 股市动态: Anthropic targets valuation of up to $1.4tn in IPO...",
+    "✓ 综合财经: Jensen Huang's affair with alleged Chinese spy further compl...",
+    "✓ 综合财经: Trump is taking the Alamo route...",
+    "✓ 综合财经: Sales of tinned food and bottled water  jump after 'Be Ready..."
   ],
-  "positive_count": 12,
-  "negative_count": 2,
+  "positive_count": 13,
+  "negative_count": 1,
   "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-10T06:46:01.313075",
+  "analyzed_at": "2026-11-10T12:44:17.024119",
   "categories_distribution": {
-    "综合财经": 21,
-    "国际贸易": 3,
-    "股市动态": 18,
-    "经济数据": 3
+    "股市动态": 21,
+    "综合财经": 18,
+    "国际贸易": 1,
+    "货币政策": 3,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
