@@ -27,6 +27,11 @@
   "key_factors": [
     {
       "type": "positive",
+      "category": "股市表现",
+      "title": "Tencent Shares Slid Even Though Profit Rose - Yahoo Finance Singapore"
+    },
+    {
+      "type": "positive",
       "category": "AI技术",
       "title": "Alibaba QwenWork Rises as ByteDance & Tencent Axe AI Portals - AI Magazine"
     },
@@ -36,9 +41,9 @@
       "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports - Re"
     },
     {
-      "type": "positive",
+      "type": "negative",
       "category": "AI技术",
-      "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches towar"
+      "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning"
     },
     {
       "type": "positive",
@@ -49,11 +54,6 @@
       "type": "positive",
       "category": "AI技术",
       "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into a"
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Ch"
     },
     {
       "type": "negative",
@@ -69,29 +69,35 @@
   "positive_count": 5,
   "negative_count": 5,
   "neutral_count": 20,
-  "analyzed_news_count": 51,
-  "analyzed_at": "2026-11-10T12:52:56.389318",
+  "analyzed_news_count": 50,
+  "analyzed_at": "2026-11-10T18:40:45.570258",
   "categories_distribution": {
-    "AI技术": 39,
+    "AI技术": 34,
+    "股市表现": 3,
+    "金融科技": 1,
     "综合动态": 1,
-    "股市表现": 2,
-    "元宇宙": 6,
+    "元宇宙": 8,
     "云服务": 1,
     "政策监管": 1,
     "游戏业务": 1
   },
   "category_sentiment": {
     "AI技术": {
-      "positive": 5,
+      "positive": 4,
       "negative": 5,
-      "neutral": 18
+      "neutral": 17
     },
-    "综合动态": {
+    "股市表现": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "金融科技": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "股市表现": {
+    "综合动态": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
