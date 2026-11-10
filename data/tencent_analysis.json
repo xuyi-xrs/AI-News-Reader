@@ -1,28 +1,27 @@
 {
-  "temperature_score": 43.3,
+  "temperature_score": 46.7,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
   "investment_advice": {
-    "overall_rating": "谨慎看空",
-    "risk_level": "高风险",
-    "recommendation": "建议减持",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较大挑战（消极新闻7条，占比23.3%）。多项负面因素叠加，市场情绪悲观，建议谨慎对待，适度降低仓位。",
+    "overall_rating": "中性观望",
+    "risk_level": "中高风险",
+    "recommendation": "建议观望",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻4条，消极新闻6条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
-      "估值可能已经反映部分负面因素",
-      "危机中可能孕育转机"
+      "估值处于相对合理区间",
+      "长期基本面仍然稳固"
     ],
     "key_risks": [
-      "监管压力持续加大",
-      "核心业务增长受阻",
-      "市场份额流失风险",
-      "投资者信心不足",
-      "股价可能继续承压"
+      "短期业绩压力较大",
+      "监管政策影响持续",
+      "市场竞争加剧",
+      "宏观经济环境不确定"
     ],
     "action_items": [
-      "建议减持至3-5%以下仓位或清仓",
-      "避免抄底，等待明确的底部信号",
-      "关注政策面和基本面的重大变化",
-      "可考虑转向其他更稳健的投资标的"
+      "建议暂时观望，不建议新增仓位",
+      "已持有者可考虑减持至5-10%仓位",
+      "设置严格止损，建议在下跌10%时止损",
+      "等待明确的转机信号再考虑入场"
     ]
   },
   "key_factors": [
@@ -37,9 +36,24 @@
       "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports - Re"
     },
     {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into a"
+    },
+    {
       "type": "negative",
       "category": "AI技术",
       "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Ch"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese"
     },
     {
       "type": "positive",
@@ -49,50 +63,34 @@
     {
       "type": "negative",
       "category": "AI技术",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese"
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
       "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy "
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Nasdaq defies Nvidia impact as Huang faces espionage affair probe"
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Read Huang's email to his staff and statement from Nvidia's board of directors"
     }
   ],
-  "positive_count": 3,
-  "negative_count": 7,
+  "positive_count": 4,
+  "negative_count": 6,
   "neutral_count": 20,
   "analyzed_news_count": 52,
-  "analyzed_at": "2026-11-09T18:46:21.731413",
+  "analyzed_at": "2026-11-10T00:47:19.436384",
   "categories_distribution": {
-    "AI技术": 41,
-    "金融科技": 2,
-    "综合动态": 1,
+    "AI技术": 40,
+    "游戏业务": 2,
+    "金融科技": 1,
+    "元宇宙": 7,
     "云服务": 1,
-    "元宇宙": 5,
-    "政策监管": 1,
-    "游戏业务": 1
+    "政策监管": 1
   },
   "category_sentiment": {
     "AI技术": {
-      "positive": 3,
-      "negative": 7,
-      "neutral": 17
+      "positive": 4,
+      "negative": 6,
+      "neutral": 18
     },
-    "金融科技": {
+    "游戏业务": {
       "positive": 0,
       "negative": 0,
-      "neutral": 2
+      "neutral": 1
     },
-    "综合动态": {
+    "金融科技": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
