@@ -1,26 +1,25 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvid...",
-    "✓ 股市动态: CNBC's The China Connection newsletter: Wall Street dips in ...",
-    "✓ 综合财经: Hegseth impeachment articles introduced by Rep. Massie...",
-    "✓ 股市动态: Stock Market Today, Nov. 9: Plug Power Rises 3.45% on Positi...",
-    "✓ 综合财经: 3 unexpected reasons the October jobs report was so strong..."
+    "✓ 综合财经: Trump’s C-SPAN call marks latest surprise post-midterm appea...",
+    "✓ 综合财经: TSMC's October sales jump as global chip boom rolls on\n...",
+    "✓ 国际贸易: China’s monthly imports grow at fastest pace in five years a...",
+    "✗ 综合财经: No, Brits have not fallen out of love with work...",
+    "✓ 股市动态: Investors pile into defensive stocks amid fears AI bull mark..."
   ],
-  "positive_count": 9,
-  "negative_count": 1,
-  "neutral_count": 20,
+  "positive_count": 12,
+  "negative_count": 2,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-10T00:29:10.999886",
+  "analyzed_at": "2026-11-10T06:46:01.313075",
   "categories_distribution": {
-    "综合财经": 22,
+    "综合财经": 21,
+    "国际贸易": 3,
     "股市动态": 18,
-    "经济数据": 3,
-    "大宗商品": 1,
-    "货币政策": 1
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
