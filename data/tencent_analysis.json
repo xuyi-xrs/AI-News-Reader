@@ -1,12 +1,12 @@
 {
-  "temperature_score": 46.7,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
+  "temperature_score": 50.0,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻5条，消极新闻7条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻5条，消极新闻5条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -31,14 +31,14 @@
       "title": "Alibaba QwenWork Rises as ByteDance & Tencent Axe AI Portals - AI Magazine"
     },
     {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Tencent Stocks Slip 2.46% After Hunyuan AI Rally as Hong Kong Tech Cools - Yahoo"
-    },
-    {
       "type": "negative",
       "category": "AI技术",
       "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports - Re"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches towar"
     },
     {
       "type": "positive",
@@ -67,30 +67,31 @@
     }
   ],
   "positive_count": 5,
-  "negative_count": 7,
-  "neutral_count": 18,
+  "negative_count": 5,
+  "neutral_count": 20,
   "analyzed_news_count": 51,
-  "analyzed_at": "2026-11-10T06:55:02.504680",
+  "analyzed_at": "2026-11-10T12:52:56.389318",
   "categories_distribution": {
     "AI技术": 39,
-    "游戏业务": 2,
-    "金融科技": 1,
-    "元宇宙": 7,
+    "综合动态": 1,
+    "股市表现": 2,
+    "元宇宙": 6,
     "云服务": 1,
-    "政策监管": 1
+    "政策监管": 1,
+    "游戏业务": 1
   },
   "category_sentiment": {
     "AI技术": {
       "positive": 5,
-      "negative": 7,
-      "neutral": 16
+      "negative": 5,
+      "neutral": 18
     },
-    "游戏业务": {
+    "综合动态": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "金融科技": {
+    "股市表现": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
