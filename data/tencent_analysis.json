@@ -1,12 +1,12 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 51.7,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻5条，消极新闻5条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻5条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -27,13 +27,18 @@
   "key_factors": [
     {
       "type": "positive",
-      "category": "股市表现",
-      "title": "Tencent Shares Slid Even Though Profit Rose - Yahoo Finance Singapore"
+      "category": "数字内容",
+      "title": "Tencent Music Entertainment Group (TME) Could Be Worth Nearly 90% More: Here’s t"
     },
     {
       "type": "positive",
       "category": "AI技术",
-      "title": "Alibaba QwenWork Rises as ByteDance & Tencent Axe AI Portals - AI Magazine"
+      "title": "Bittensor gains 3% after Tencent’s AI launch – Can subnet fees lift TAO? - AMBCr"
+    },
+    {
+      "type": "positive",
+      "category": "股市表现",
+      "title": "Tencent Shares Slid Even Though Profit Rose - Yahoo Finance Singapore"
     },
     {
       "type": "negative",
@@ -43,12 +48,12 @@
     {
       "type": "negative",
       "category": "AI技术",
-      "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning"
+      "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of"
     },
     {
-      "type": "positive",
+      "type": "negative",
       "category": "AI技术",
-      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the"
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI"
     },
     {
       "type": "positive",
@@ -59,32 +64,33 @@
       "type": "negative",
       "category": "AI技术",
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters"
     }
   ],
   "positive_count": 5,
-  "negative_count": 5,
-  "neutral_count": 20,
-  "analyzed_news_count": 50,
-  "analyzed_at": "2026-11-10T18:40:45.570258",
+  "negative_count": 4,
+  "neutral_count": 21,
+  "analyzed_news_count": 49,
+  "analyzed_at": "2026-11-11T00:47:16.450165",
   "categories_distribution": {
+    "数字内容": 1,
     "AI技术": 34,
     "股市表现": 3,
     "金融科技": 1,
     "综合动态": 1,
-    "元宇宙": 8,
     "云服务": 1,
+    "元宇宙": 6,
     "政策监管": 1,
     "游戏业务": 1
   },
   "category_sentiment": {
+    "数字内容": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
     "AI技术": {
-      "positive": 4,
-      "negative": 5,
+      "positive": 3,
+      "negative": 4,
       "neutral": 17
     },
     "股市表现": {
@@ -98,6 +104,11 @@
       "neutral": 1
     },
     "综合动态": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "云服务": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
