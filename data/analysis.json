@@ -1,26 +1,28 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Investors pivot to defensive stocks as markets enter a ‘stat...",
-    "✓ 股市动态: Dow Jones Futures Rise As CoreWave Jumps, Lifts AI Stocks; L...",
-    "✓ 经济数据: CPI Live Updates: Inflation Persists in U.S. Economy - The N...",
-    "✓ 经济数据: Singapore wants a bigger slice of the global gold market. Is...",
-    "✓ 综合财经: Anthropic bankers prepare to increase IPO valuation to $1.5t..."
+    "✓ 经济数据: Mortgage rates jump sharply higher, after easing for four st...",
+    "✓ 外汇市场: Hundreds of schools across Italy, Scotland and Ireland recei...",
+    "✓ 股市动态: US tech stocks set to extend rebound ...",
+    "✓ 大宗商品: Spain roiled by first general strike in 14 years...",
+    "✗ 经济数据: Could the Latest Inflation Data Trigger a Stock Market Crash..."
   ],
-  "positive_count": 7,
+  "positive_count": 6,
   "negative_count": 1,
-  "neutral_count": 22,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-11T06:50:54.068278",
+  "analyzed_at": "2026-11-11T12:47:00.319738",
   "categories_distribution": {
-    "股市动态": 14,
-    "综合财经": 17,
-    "国际贸易": 4,
-    "经济数据": 8,
-    "货币政策": 2
+    "综合财经": 20,
+    "经济数据": 4,
+    "外汇市场": 1,
+    "股市动态": 16,
+    "大宗商品": 1,
+    "货币政策": 1,
+    "国际贸易": 2
   },
   "ai_provider": "fallback_rules"
 }
