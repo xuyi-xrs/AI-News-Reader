@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-11T01:19:44.371254",
+  "updated_at": "2026-11-11T02:21:19.483486",
   "analysis": [
     {
       "code": "159770",
       "name": "机器人ETF",
       "sentiment": {
-        "score": 57,
-        "sentiment": "偏多",
-        "emoji": "😊"
+        "score": 90,
+        "sentiment": "强烈看多",
+        "emoji": "🚀"
       },
       "signal": {
         "action": "建议买入",
@@ -18,97 +18,102 @@
       },
       "risks": [
         {
-          "level": "high",
-          "type": "波动风险",
-          "description": "当日涨跌幅达-100.00%，市场波动剧烈，需谨慎操作"
+          "level": "medium",
+          "type": "流动性风险",
+          "description": "成交量萎缩66.7%，市场观望情绪浓厚"
+        },
+        {
+          "level": "medium",
+          "type": "情绪过热",
+          "description": "市场情绪过于乐观，需警惕情绪反转带来的风险"
         }
       ],
       "realtime": {
         "code": "159770",
         "name": "机器人AI",
-        "open": 0.0,
+        "open": 0.921,
         "pre_close": 0.924,
-        "current": 0.0,
-        "high": 0.0,
-        "low": 0.0,
-        "volume": 0,
-        "amount": 0.0,
+        "current": 0.928,
+        "high": 0.937,
+        "low": 0.918,
+        "volume": 49352250,
+        "amount": 45890455.15,
         "date": "2026-11-11",
-        "time": "09:19:21",
-        "change": -0.924,
-        "change_percent": -100.0
+        "time": "10:20:57",
+        "change": 0.004,
+        "change_percent": 0.43
       },
       "indicators": {
-        "ma5": 0.911,
-        "ma10": 0.897,
-        "ma20": 0.881,
-        "rsi": 57.78,
+        "ma5": 0.916,
+        "ma10": 0.898,
+        "ma20": 0.885,
+        "rsi": 59.55,
         "macd": {
-          "dif": 0.0024,
-          "dea": 0.0019,
-          "macd": 0.001
+          "dif": 0.0076,
+          "dea": 0.0061,
+          "macd": 0.003
         },
         "bollinger": {
-          "upper": 0.946,
-          "middle": 0.881,
-          "lower": 0.816
+          "upper": 0.95,
+          "middle": 0.885,
+          "lower": 0.82
         },
-        "volume_change": 6.08
+        "volume_change": -66.73
       }
     },
     {
       "code": "515860",
       "name": "信创ETF",
       "sentiment": {
-        "score": 32,
-        "sentiment": "偏空",
-        "emoji": "😟"
+        "score": 49,
+        "sentiment": "中性",
+        "emoji": "😐"
       },
       "signal": {
-        "action": "建议减仓",
-        "action_code": "reduce",
-        "confidence": 70,
-        "buy_signals": 2,
-        "sell_signals": 4
+        "action": "建议持有",
+        "action_code": "hold",
+        "confidence": 60,
+        "buy_signals": 0,
+        "sell_signals": 2
       },
       "risks": [
         {
-          "level": "high",
-          "type": "波动风险",
-          "description": "当日涨跌幅达-100.00%，市场波动剧烈，需谨慎操作"
+          "level": "medium",
+          "type": "流动性风险",
+          "description": "成交量萎缩52.2%，市场观望情绪浓厚"
         }
       ],
       "realtime": {
         "code": "515860",
         "name": "科技ETF嘉实",
-        "open": 0.0,
+        "open": 1.696,
         "pre_close": 1.696,
-        "current": 0.0,
-        "high": 0.0,
-        "low": 0.0,
-        "volume": 0,
-        "amount": 0.0,
+        "current": 1.694,
+        "high": 1.708,
+        "low": 1.694,
+        "volume": 927200,
+        "amount": 1578624.0,
         "date": "2026-11-11",
-        "time": "09:19:23",
-        "change": -1.696,
-        "change_percent": -100.0
+        "time": "10:21:08",
+        "change": -0.002,
+        "change_percent": -0.12
       },
       "indicators": {
-        "ma5": 1.698,
-        "ma10": 1.693,
-        "ma20": 1.743,
-        "rsi": 39.73,
+        "ma5": 1.693,
+        "ma10": 1.686,
+        "ma20": 1.736,
+        "rsi": 43.66,
         "macd": {
-          "dif": -0.0896,
-          "dea": -0.0717,
-          "macd": -0.0359
+          "dif": -0.0796,
+          "dea": -0.0637,
+          "macd": -0.0319
         },
         "bollinger": {
-          "upper": 1.866,
-          "middle": 1.743,
+          "upper": 1.85,
+          "middle": 1.736,
           "lower": 1.621
         },
-        "volume_change": 22.54
+        "volume_change": -52.17
       }
     }
   ],
@@ -116,7 +121,7 @@
   "summary": {
     "total_etfs": 2,
     "buy_count": 1,
-    "hold_count": 0,
-    "sell_count": 1
+    "hold_count": 1,
+    "sell_count": 0
   }
 }

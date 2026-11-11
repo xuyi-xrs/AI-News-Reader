@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T01:19:44.214489",
+  "updated_at": "2026-11-11T02:21:19.357109",
   "etfs": [
     {
       "code": "159770",
@@ -8,29 +8,19 @@
       "realtime": {
         "code": "159770",
         "name": "机器人AI",
-        "open": 0.0,
+        "open": 0.921,
         "pre_close": 0.924,
-        "current": 0.0,
-        "high": 0.0,
-        "low": 0.0,
-        "volume": 0,
-        "amount": 0.0,
+        "current": 0.928,
+        "high": 0.937,
+        "low": 0.918,
+        "volume": 49352250,
+        "amount": 45890455.15,
         "date": "2026-11-11",
-        "time": "09:19:21",
-        "change": -0.924,
-        "change_percent": -100.0
+        "time": "10:20:57",
+        "change": 0.004,
+        "change_percent": 0.43
       },
       "historical": [
-        {
-          "date": "2026-10-28",
-          "open": 0.883,
-          "close": 0.924,
-          "high": 0.942,
-          "low": 0.883,
-          "volume": 2659414,
-          "amount": 244176210.244,
-          "change_percent": 4.64
-        },
         {
           "date": "2026-10-29",
           "open": 0.91,
@@ -120,27 +110,37 @@
           "volume": 1483445,
           "amount": 137791152.0,
           "change_percent": 1.76
+        },
+        {
+          "date": "2026-11-11",
+          "open": 0.921,
+          "close": 0.928,
+          "high": 0.937,
+          "low": 0.918,
+          "volume": 493523,
+          "amount": 45890455.15,
+          "change_percent": 0.43
         }
       ],
       "indicators": {
-        "ma5": 0.911,
-        "ma10": 0.897,
-        "ma20": 0.881,
-        "rsi": 57.78,
+        "ma5": 0.916,
+        "ma10": 0.898,
+        "ma20": 0.885,
+        "rsi": 59.55,
         "macd": {
-          "dif": 0.0024,
-          "dea": 0.0019,
-          "macd": 0.001
+          "dif": 0.0076,
+          "dea": 0.0061,
+          "macd": 0.003
         },
         "bollinger": {
-          "upper": 0.946,
-          "middle": 0.881,
-          "lower": 0.816
+          "upper": 0.95,
+          "middle": 0.885,
+          "lower": 0.82
         },
-        "volume_change": 6.08
+        "volume_change": -66.73
       },
       "news": [],
-      "updated_at": "2026-11-11T01:19:37.418749"
+      "updated_at": "2026-11-11T02:21:10.557791"
     },
     {
       "code": "515860",
@@ -149,29 +149,19 @@
       "realtime": {
         "code": "515860",
         "name": "科技ETF嘉实",
-        "open": 0.0,
+        "open": 1.696,
         "pre_close": 1.696,
-        "current": 0.0,
-        "high": 0.0,
-        "low": 0.0,
-        "volume": 0,
-        "amount": 0.0,
+        "current": 1.694,
+        "high": 1.708,
+        "low": 1.694,
+        "volume": 927200,
+        "amount": 1578624.0,
         "date": "2026-11-11",
-        "time": "09:19:23",
-        "change": -1.696,
-        "change_percent": -100.0
+        "time": "10:21:08",
+        "change": -0.002,
+        "change_percent": -0.12
       },
       "historical": [
-        {
-          "date": "2026-10-28",
-          "open": 1.759,
-          "close": 1.763,
-          "high": 1.775,
-          "low": 1.733,
-          "volume": 42981,
-          "amount": 7537977.0,
-          "change_percent": 2.44
-        },
         {
           "date": "2026-10-29",
           "open": 1.744,
@@ -261,27 +251,37 @@
           "volume": 19385,
           "amount": 3291727.0,
           "change_percent": 1.31
+        },
+        {
+          "date": "2026-11-11",
+          "open": 1.696,
+          "close": 1.694,
+          "high": 1.708,
+          "low": 1.694,
+          "volume": 9272,
+          "amount": 1578624.0,
+          "change_percent": -0.12
         }
       ],
       "indicators": {
-        "ma5": 1.698,
-        "ma10": 1.693,
-        "ma20": 1.743,
-        "rsi": 39.73,
+        "ma5": 1.693,
+        "ma10": 1.686,
+        "ma20": 1.736,
+        "rsi": 43.66,
         "macd": {
-          "dif": -0.0896,
-          "dea": -0.0717,
-          "macd": -0.0359
+          "dif": -0.0796,
+          "dea": -0.0637,
+          "macd": -0.0319
         },
         "bollinger": {
-          "upper": 1.866,
-          "middle": 1.743,
+          "upper": 1.85,
+          "middle": 1.736,
           "lower": 1.621
         },
-        "volume_change": 22.54
+        "volume_change": -52.17
       },
       "news": [],
-      "updated_at": "2026-11-11T01:19:44.214352"
+      "updated_at": "2026-11-11T02:21:19.356774"
     }
   ]
 }
