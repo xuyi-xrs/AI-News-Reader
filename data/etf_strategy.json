@@ -1,66 +1,66 @@
 {
-  "updated_at": "2025-11-04T03:46:31.175002",
+  "updated_at": "2026-11-11T01:19:44.371254",
   "analysis": [
     {
       "code": "159770",
       "name": "机器人ETF",
       "sentiment": {
-        "score": 37,
-        "sentiment": "偏空",
-        "emoji": "😟"
+        "score": 57,
+        "sentiment": "偏多",
+        "emoji": "😊"
       },
       "signal": {
-        "action": "建议减仓",
-        "action_code": "reduce",
-        "confidence": 70,
-        "buy_signals": 0,
-        "sell_signals": 3
+        "action": "建议买入",
+        "action_code": "buy",
+        "confidence": 75,
+        "buy_signals": 4,
+        "sell_signals": 0
       },
       "risks": [
         {
-          "level": "low",
-          "type": "常规风险",
-          "description": "当前无明显技术风险，但仍需关注市场整体走势和政策变化"
+          "level": "high",
+          "type": "波动风险",
+          "description": "当日涨跌幅达-100.00%，市场波动剧烈，需谨慎操作"
         }
       ],
       "realtime": {
         "code": "159770",
         "name": "机器人AI",
-        "open": 1.062,
-        "pre_close": 1.065,
-        "current": 1.042,
-        "high": 1.063,
-        "low": 1.038,
-        "volume": 207470000,
-        "amount": 217486091.8,
-        "date": "2025-11-04",
-        "time": "11:30:00",
-        "change": -0.023,
-        "change_percent": -2.16
+        "open": 0.0,
+        "pre_close": 0.924,
+        "current": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "volume": 0,
+        "amount": 0.0,
+        "date": "2026-11-11",
+        "time": "09:19:21",
+        "change": -0.924,
+        "change_percent": -100.0
       },
       "indicators": {
-        "ma5": 1.065,
-        "ma10": 1.063,
-        "ma20": 1.069,
-        "rsi": 42.41,
+        "ma5": 0.911,
+        "ma10": 0.897,
+        "ma20": 0.881,
+        "rsi": 57.78,
         "macd": {
-          "dif": -0.0195,
-          "dea": -0.0156,
-          "macd": -0.0078
+          "dif": 0.0024,
+          "dea": 0.0019,
+          "macd": 0.001
         },
         "bollinger": {
-          "upper": 1.135,
-          "middle": 1.069,
-          "lower": 1.003
+          "upper": 0.946,
+          "middle": 0.881,
+          "lower": 0.816
         },
-        "volume_change": -25.76
+        "volume_change": 6.08
       }
     },
     {
       "code": "515860",
       "name": "信创ETF",
       "sentiment": {
-        "score": 39,
+        "score": 32,
         "sentiment": "偏空",
         "emoji": "😟"
       },
@@ -68,59 +68,55 @@
         "action": "建议减仓",
         "action_code": "reduce",
         "confidence": 70,
-        "buy_signals": 0,
-        "sell_signals": 3
+        "buy_signals": 2,
+        "sell_signals": 4
       },
       "risks": [
         {
-          "level": "low",
-          "type": "常规风险",
-          "description": "当前无明显技术风险，但仍需关注市场整体走势和政策变化"
+          "level": "high",
+          "type": "波动风险",
+          "description": "当日涨跌幅达-100.00%，市场波动剧烈，需谨慎操作"
         }
       ],
       "realtime": {
         "code": "515860",
         "name": "科技ETF嘉实",
-        "open": 1.68,
-        "pre_close": 1.679,
-        "current": 1.662,
-        "high": 1.688,
-        "low": 1.661,
-        "volume": 1700700,
-        "amount": 2853901.0,
-        "date": "2025-11-04",
-        "time": "11:30:00",
-        "change": -0.017,
-        "change_percent": -1.01
+        "open": 0.0,
+        "pre_close": 1.696,
+        "current": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "volume": 0,
+        "amount": 0.0,
+        "date": "2026-11-11",
+        "time": "09:19:23",
+        "change": -1.696,
+        "change_percent": -100.0
       },
       "indicators": {
-        "ma5": 1.712,
-        "ma10": 1.717,
-        "ma20": 1.713,
-        "rsi": 45.02,
+        "ma5": 1.698,
+        "ma10": 1.693,
+        "ma20": 1.743,
+        "rsi": 39.73,
         "macd": {
-          "dif": -0.0061,
-          "dea": -0.0049,
-          "macd": -0.0024
+          "dif": -0.0896,
+          "dea": -0.0717,
+          "macd": -0.0359
         },
         "bollinger": {
-          "upper": 1.806,
-          "middle": 1.713,
-          "lower": 1.62
+          "upper": 1.866,
+          "middle": 1.743,
+          "lower": 1.621
         },
-        "volume_change": -10.12
+        "volume_change": 22.54
       }
     }
   ],
-  "ai_analysis": {
-    "analysis_text": "### 机器人ETF(159770)投资分析\n\n#### 1. 市场情绪分析：**看空**\n- 当前价格1.042元跌破所有主要均线（MA5=1.065，MA20=1.069），呈现空头排列\n- RSI(14)为42.41处于弱势区间但未超卖\n- MACD双线位于零轴下方且DIF<DEA，下跌动能持续\n- 同板块ETF普遍下跌2%以上，板块整体情绪悲观\n\n#### 2. 投资建议：**持有/观望**\n**理由：**\n- 当前价接近布林带下轨1.003，短期可能存在技术性反弹机会\n- 成交量大幅萎缩25.76%，显示抛压有所减缓\n- 但趋势尚未扭转，不建议盲目抄底\n\n#### 3. 关键风险提示\n- 板块整体走弱，行业基本面可能面临压力\n- 若跌破布林带下轨1.003，可能开启新一轮下跌\n- 成交量持续萎缩可能预示流动性风险\n\n#### 4. 操作策略建议\n- 现有持仓者可设置止损位1.035（近期低点下方）\n- 空仓投资者建议等待RSI进入超卖区域（<30）再考虑分批建仓\n- 突破MA5(1.065)可视为短期转强信号\n\n---\n\n### 信创ETF(515860)投资分析\n\n#### 1. 市场情绪分析：**中性偏空**\n- 价格1.662元略低于主要均线，但偏离幅度有限\n- RSI(14)为45.02显示中性偏弱\n- MACD位于零轴附近震荡，方向不明\n- 跌幅(-1.01%)小于大盘指数，显示相对抗跌\n\n#### 2. 投资建议：**持有/谨慎买入**\n**理由：**\n- 当前价接近布林带中轨1.713，技术面相对稳健\n- 成交量降幅(-10.12%)小于机器人ETF，流动性保持较好\n- 在科技板块中表现相对抗跌\n\n#### 3. 关键风险提示\n- 科技板块整体承压，受市场风险偏好影响较大\n- 需关注能否有效站稳布林带中轨1.713\n- 行业政策变化可能带来不确定性\n\n#### 4. 操作策略建议\n- 现有持仓者可继续持有，止损位设1.65\n- 看好信创长期前景的投资者可考虑在1.66附近分批建仓\n- 向上突破MA20(1.713)可加仓，向下跌破1.65应考虑减仓\n\n---\n\n### 总体配置建议\n在当前市场环境下，建议：\n1. 控制单只ETF仓位不超过总资金的15%\n2. 优先考虑信创ETF的配置机会，因其技术面相对稳健\n3. 密切关注大盘走势，创业板指下跌1.51%显示成长股承压\n4. 等待明确的止跌信号后再加大配置力度\n\n**风险提示：** 以上分析基于当前市场数据，投资有风险，入市需谨慎。建议结合个人风险承受能力做出投资决策。",
-    "provider": "deepseek",
-    "model": "deepseek-chat"
-  },
+  "ai_analysis": null,
   "summary": {
     "total_etfs": 2,
-    "buy_count": 0,
+    "buy_count": 1,
     "hold_count": 0,
-    "sell_count": 2
+    "sell_count": 1
   }
 }
