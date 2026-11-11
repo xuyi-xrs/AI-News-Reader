@@ -1,27 +1,27 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: 10-year Treasury yield races back to 5% as inflation data, W...",
-    "✓ 货币政策: Credit card debt climbs to a record $1.29 trillion, New York...",
-    "✓ 经济数据: Inflation runs hotter than expected as higher prices extend ...",
-    "✗ 股市动态: Anthropic set for $1.3tn stock market debut despite 'catastr...",
-    "✗ 货币政策: Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets W..."
+    "✓ 外汇市场: CoreWeave plans multibillion-dollar chip-backed debt deal...",
+    "✗ 股市动态: CoreWeave beats on revenue and lifts guidance, easing AI slo...",
+    "✓ 经济数据: Fossil CEO says turnaround is ahead of plan as sales return ...",
+    "✗ 综合财经: Nvidia sells off for second day in fallout from Jensen Huang...",
+    "✗ 经济数据: Mississippi Senate: Scott Colom extends tight lead over Hyde..."
   ],
-  "positive_count": 13,
-  "negative_count": 7,
-  "neutral_count": 10,
+  "positive_count": 7,
+  "negative_count": 5,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-10T18:31:54.620258",
+  "analyzed_at": "2026-11-11T00:30:30.312326",
   "categories_distribution": {
-    "经济数据": 8,
     "综合财经": 16,
-    "股市动态": 13,
-    "货币政策": 6,
-    "大宗商品": 1,
-    "国际贸易": 1
+    "外汇市场": 1,
+    "股市动态": 12,
+    "经济数据": 9,
+    "国际贸易": 3,
+    "货币政策": 4
   },
   "ai_provider": "fallback_rules"
 }
