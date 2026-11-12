@@ -1,27 +1,28 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Bouncing Wynn Shares might be primed for the 'wheel strategy...",
-    "✓ 股市动态: US tech stocks surge as AI trade revives...",
-    "✓ 综合财经: CoreWeave CEO Intrator tells CNBC he has canceled his planne...",
-    "✗ 经济数据: Mississippi Senate: Scott Colom leads Hyde-Smith by more tha...",
-    "✓ 外汇市场: Thousands of schools in Italy, Scotland and Ireland receive ..."
+    "✗ 经济数据: Scott Colom wins historic Senate race in Mississippi ...",
+    "✗ 股市动态: Nvidia prepares to oust Jensen Huang, WSJ reports — stock si...",
+    "✓ 综合财经: Can India clean up Delhi’s deadly smog?...",
+    "✓ 综合财经: From Paris to DC - why offices are being turned into apartme...",
+    "✗ 经济数据: Scott Colom wins Mississippi Senate election over incumbent ..."
   ],
-  "positive_count": 7,
-  "negative_count": 1,
-  "neutral_count": 22,
+  "positive_count": 11,
+  "negative_count": 6,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-11T18:39:45.194183",
+  "analyzed_at": "2026-11-12T00:46:05.854765",
   "categories_distribution": {
-    "股市动态": 19,
-    "综合财经": 16,
-    "货币政策": 3,
-    "经济数据": 3,
-    "外汇市场": 2,
-    "国际贸易": 2
+    "经济数据": 6,
+    "股市动态": 16,
+    "综合财经": 13,
+    "货币政策": 2,
+    "国际贸易": 3,
+    "大宗商品": 2,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
