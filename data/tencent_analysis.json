@@ -1,12 +1,12 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 53.3,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻7条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻7条，消极新闻5条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -38,17 +38,22 @@
     {
       "type": "positive",
       "category": "AI技术",
-      "title": "Alibaba QwenWork Rises as ByteDance & Tencent Axe AI Portals - AI Magazine"
+      "title": "Tencent's Pony Ma says half of staff will move to AI-native work - Startup Fortu"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "Alibaba, Tencent shares fall on report U.S. weighs curbs on remote AI chip acces"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "Alibaba, Tencent Slide as U.S. Moves to Close Offshore AI Chip Loophole - BigGo "
     },
     {
       "type": "negative",
       "category": "AI技术",
       "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports - Re"
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks "
     },
     {
       "type": "positive",
@@ -59,29 +64,30 @@
       "type": "positive",
       "category": "AI技术",
       "title": "Jim Cramer: This is the bet you're making if you buy the Anthropic IPO"
-    },
-    {
-      "type": "positive",
-      "category": "云服务",
-      "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 repo"
     }
   ],
   "positive_count": 7,
-  "negative_count": 4,
-  "neutral_count": 19,
-  "analyzed_news_count": 50,
-  "analyzed_at": "2026-11-12T00:57:30.218875",
+  "negative_count": 5,
+  "neutral_count": 18,
+  "analyzed_news_count": 51,
+  "analyzed_at": "2026-11-12T07:00:38.863488",
   "categories_distribution": {
+    "社交平台": 1,
     "数字内容": 1,
     "云服务": 5,
-    "游戏业务": 2,
-    "AI技术": 36,
+    "AI技术": 37,
     "金融科技": 1,
-    "股市表现": 2,
+    "元宇宙": 3,
+    "股市表现": 1,
     "政策监管": 1,
-    "元宇宙": 2
+    "游戏业务": 1
   },
   "category_sentiment": {
+    "社交平台": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
     "数字内容": {
       "positive": 1,
       "negative": 0,
@@ -92,22 +98,12 @@
       "negative": 0,
       "neutral": 1
     },
-    "游戏业务": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
     "AI技术": {
       "positive": 4,
-      "negative": 4,
+      "negative": 5,
       "neutral": 15
     },
     "金融科技": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "股市表现": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
