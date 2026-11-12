@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T02:27:17.960912",
+  "updated_at": "2026-11-12T04:28:27.552304",
   "analysis": [
     {
       "code": "159770",
@@ -18,9 +18,9 @@
       },
       "risks": [
         {
-          "level": "medium",
-          "type": "流动性风险",
-          "description": "成交量萎缩51.9%，市场观望情绪浓厚"
+          "level": "low",
+          "type": "常规风险",
+          "description": "当前无明显技术风险，但仍需关注市场整体走势和政策变化"
         }
       ],
       "realtime": {
@@ -28,39 +28,39 @@
         "name": "机器人AI",
         "open": 0.938,
         "pre_close": 0.938,
-        "current": 0.925,
+        "current": 0.923,
         "high": 0.938,
         "low": 0.92,
-        "volume": 70333500,
-        "amount": 65208193.2,
+        "volume": 94734200,
+        "amount": 87799262.6,
         "date": "2026-11-12",
-        "time": "10:26:51",
-        "change": -0.013,
-        "change_percent": -1.39
+        "time": "11:30:00",
+        "change": -0.015,
+        "change_percent": -1.6
       },
       "indicators": {
         "ma5": 0.918,
         "ma10": 0.902,
         "ma20": 0.891,
-        "rsi": 51.09,
+        "rsi": 50.77,
         "macd": {
-          "dif": 0.0115,
-          "dea": 0.0092,
-          "macd": 0.0046
+          "dif": 0.0113,
+          "dea": 0.009,
+          "macd": 0.0045
         },
         "bollinger": {
-          "upper": 0.952,
+          "upper": 0.951,
           "middle": 0.891,
           "lower": 0.83
         },
-        "volume_change": -51.85
+        "volume_change": -35.14
       }
     },
     {
       "code": "515860",
       "name": "信创ETF",
       "sentiment": {
-        "score": 65,
+        "score": 60,
         "sentiment": "看多",
         "emoji": "📈"
       },
@@ -68,14 +68,14 @@
         "action": "建议持有",
         "action_code": "hold",
         "confidence": 60,
-        "buy_signals": 2,
-        "sell_signals": 2
+        "buy_signals": 1,
+        "sell_signals": 1
       },
       "risks": [
         {
-          "level": "low",
-          "type": "常规风险",
-          "description": "当前无明显技术风险，但仍需关注市场整体走势和政策变化"
+          "level": "medium",
+          "type": "估值风险",
+          "description": "价格突破布林带上轨，短期涨幅过大，注意回调风险"
         }
       ],
       "realtime": {
@@ -83,33 +83,17 @@
         "name": "科技ETF嘉实",
         "open": 1.731,
         "pre_close": 1.731,
-        "current": 1.753,
+        "current": 1.74,
         "high": 1.763,
         "low": 1.73,
-        "volume": 3523700,
-        "amount": 6166640.0,
+        "volume": 3887400,
+        "amount": 6802462.0,
         "date": "2026-11-12",
-        "time": "10:27:01",
-        "change": 0.022,
-        "change_percent": 1.27
+        "time": "11:30:00",
+        "change": 0.009,
+        "change_percent": 0.52
       },
-      "indicators": {
-        "ma5": 1.705,
-        "ma10": 1.694,
-        "ma20": 1.735,
-        "rsi": 43.82,
-        "macd": {
-          "dif": -0.0644,
-          "dea": -0.0515,
-          "macd": -0.0258
-        },
-        "bollinger": {
-          "upper": 1.844,
-          "middle": 1.735,
-          "lower": 1.626
-        },
-        "volume_change": 10.38
-      }
+      "indicators": {}
     }
   ],
   "ai_analysis": null,
