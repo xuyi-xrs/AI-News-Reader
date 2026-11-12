@@ -1,28 +1,28 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 经济数据: Scott Colom wins historic Senate race in Mississippi ...",
-    "✗ 股市动态: Nvidia prepares to oust Jensen Huang, WSJ reports — stock si...",
-    "✓ 综合财经: Can India clean up Delhi’s deadly smog?...",
-    "✓ 综合财经: From Paris to DC - why offices are being turned into apartme...",
-    "✗ 经济数据: Scott Colom wins Mississippi Senate election over incumbent ..."
+    "✓ 货币政策: France signals support for Spain’s ECB presidential candidat...",
+    "✓ 经济数据: Growth investing or gambling?...",
+    "✗ 综合财经: State dinners to scrutiny: Nvidia’s Huang falls out of favou...",
+    "✗ 综合财经: Tech Futures Fall; Nvidia Dives, Mulls Ousting CEO Huang - I...",
+    "✗ 股市动态: Nvidia shares tumble in after-market trading..."
   ],
-  "positive_count": 11,
+  "positive_count": 8,
   "negative_count": 6,
-  "neutral_count": 13,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-12T00:46:05.854765",
+  "analyzed_at": "2026-11-12T06:52:12.447001",
   "categories_distribution": {
-    "经济数据": 6,
-    "股市动态": 16,
-    "综合财经": 13,
-    "货币政策": 2,
-    "国际贸易": 3,
-    "大宗商品": 2,
-    "外汇市场": 1
+    "综合财经": 17,
+    "股市动态": 14,
+    "外汇市场": 1,
+    "货币政策": 3,
+    "经济数据": 5,
+    "国际贸易": 2,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
