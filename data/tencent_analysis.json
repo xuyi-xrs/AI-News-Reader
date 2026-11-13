@@ -1,34 +1,39 @@
 {
-  "temperature_score": 61.7,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
-    "overall_rating": "谨慎看好",
-    "risk_level": "中等风险",
-    "recommendation": "建议持有",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻9条，消极新闻2条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
+    "overall_rating": "中性观望",
+    "risk_level": "中高风险",
+    "recommendation": "建议观望",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻7条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
-      "核心业务保持稳定增长",
-      "新业务布局逐步显现成效",
-      "技术创新持续推进"
+      "估值处于相对合理区间",
+      "长期基本面仍然稳固"
     ],
     "key_risks": [
-      "行业竞争压力增大",
-      "监管环境存在不确定性",
-      "部分业务增长放缓"
+      "短期业绩压力较大",
+      "监管政策影响持续",
+      "市场竞争加剧",
+      "宏观经济环境不确定"
     ],
     "action_items": [
-      "建议维持当前仓位，观察后续发展",
-      "密切关注政策动向和竞争格局变化",
-      "设置止损点，建议在下跌15%时考虑减仓",
-      "等待更明确的投资信号再做调整"
+      "建议暂时观望，不建议新增仓位",
+      "已持有者可考虑减持至5-10%仓位",
+      "设置严格止损，建议在下跌10%时止损",
+      "等待明确的转机信号再考虑入场"
     ]
   },
   "key_factors": [
     {
       "type": "positive",
       "category": "云服务",
-      "title": "Tencent Cloud and Teleport Collaborate to Advance AI-Powered Cross-Border Logist"
+      "title": "Tencent Cloud doubles overseas customers as AI demand soars - IT Brief UK"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "Alibaba and Tencent Lose $75B as Nvidia Crisis Sends Chinese AI Stocks Down Near"
     },
     {
       "type": "negative",
@@ -41,9 +46,9 @@
       "title": "IDreamSky Technology Unit Renews Contract with Tencent Subsidiary; Shares Surge "
     },
     {
-      "type": "positive",
+      "type": "negative",
       "category": "AI技术",
-      "title": "What we know about the global Microsoft outage"
+      "title": "Nvidia stock sinks 4% in fallout from Jensen Huang resignation"
     },
     {
       "type": "negative",
@@ -53,48 +58,37 @@
     {
       "type": "positive",
       "category": "AI技术",
-      "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departu"
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal "
     },
     {
       "type": "positive",
       "category": "AI技术",
       "title": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?\n"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with"
     }
   ],
-  "positive_count": 9,
-  "negative_count": 2,
+  "positive_count": 7,
+  "negative_count": 4,
   "neutral_count": 19,
   "analyzed_news_count": 46,
-  "analyzed_at": "2026-11-13T12:54:42.702487",
+  "analyzed_at": "2026-11-13T18:43:27.154533",
   "categories_distribution": {
-    "云服务": 4,
-    "游戏业务": 1,
-    "AI技术": 32,
+    "云服务": 3,
+    "AI技术": 33,
     "股市表现": 2,
     "综合动态": 1,
-    "元宇宙": 5,
-    "政策监管": 1
+    "政策监管": 2,
+    "元宇宙": 5
   },
   "category_sentiment": {
     "云服务": {
       "positive": 1,
       "negative": 0,
-      "neutral": 2
-    },
-    "游戏业务": {
-      "positive": 0,
-      "negative": 0,
       "neutral": 1
     },
     "AI技术": {
-      "positive": 7,
-      "negative": 2,
-      "neutral": 15
+      "positive": 5,
+      "negative": 4,
+      "neutral": 17
     },
     "股市表现": {
       "positive": 1,
