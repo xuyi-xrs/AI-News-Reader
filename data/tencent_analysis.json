@@ -1,12 +1,12 @@
 {
-  "temperature_score": 53.3,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻5条，消极新闻3条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻3条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -36,14 +36,24 @@
       "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports - Re"
     },
     {
-      "type": "negative",
-      "category": "股市表现",
-      "title": "Why is Tencent stock falling today? - Investing.com"
+      "type": "positive",
+      "category": "AI技术",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?"
     },
     {
       "type": "positive",
       "category": "AI技术",
-      "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions"
+      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal "
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "How AI visionary Jensen Huang was undone by his own bad decisions"
     },
     {
       "type": "positive",
@@ -54,30 +64,20 @@
       "type": "positive",
       "category": "AI技术",
       "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on bat"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Jim Cramer says investors need to pay attention to CoreWeave. Here's why"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Jim Cramer: This is the bet you're making if you buy the Anthropic IPO"
     }
   ],
-  "positive_count": 5,
+  "positive_count": 6,
   "negative_count": 3,
-  "neutral_count": 22,
-  "analyzed_news_count": 52,
-  "analyzed_at": "2026-11-12T18:45:35.313776",
+  "neutral_count": 21,
+  "analyzed_news_count": 46,
+  "analyzed_at": "2026-11-13T00:53:07.917999",
   "categories_distribution": {
     "社交平台": 1,
-    "AI技术": 38,
     "游戏业务": 1,
-    "股市表现": 2,
-    "元宇宙": 9,
-    "云服务": 1
+    "AI技术": 33,
+    "金融科技": 1,
+    "云服务": 2,
+    "元宇宙": 8
   },
   "category_sentiment": {
     "社交平台": {
@@ -85,20 +85,20 @@
       "negative": 0,
       "neutral": 1
     },
-    "AI技术": {
-      "positive": 5,
-      "negative": 2,
-      "neutral": 20
-    },
     "游戏业务": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "股市表现": {
+    "AI技术": {
+      "positive": 6,
+      "negative": 3,
+      "neutral": 18
+    },
+    "金融科技": {
       "positive": 0,
-      "negative": 1,
-      "neutral": 0
+      "negative": 0,
+      "neutral": 1
     }
   }
 }
