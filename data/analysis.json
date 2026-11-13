@@ -1,26 +1,27 @@
 {
-  "temperature_score": 46.67,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比9/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 58.33,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Widespread Microsoft outage takes down Outlook and other 365...",
-    "✓ 综合财经: Why Singapore keeps turning up in the fight over Nvidia chip...",
-    "✗ 股市动态: Nvidia on track for longest weekly losing streak since 2012 ...",
-    "✗ 股市动态: Nvidia on track for longest weekly losing streak since 2012 ...",
-    "✓ 股市动态: Dow Futures Rise After Resilient Session; AMD, Arista Are Bu..."
+    "✓ 综合财经: Trump says he wants to ‘get Cuba done’ before leaving office...",
+    "✗ 经济数据: Stock Futures Lower as Investors Look to U.S. Inflation Data...",
+    "✓ 综合财经: Outlook outage continues as Microsoft flags 'encouraging rec...",
+    "✓ 股市动态: Russian crude production rebounds after Trump diesel deal, I...",
+    "✓ 外汇市场: U.S. seizes $1.2 billion in cryptocurrency stolen from Binan..."
   ],
-  "positive_count": 7,
-  "negative_count": 9,
-  "neutral_count": 14,
+  "positive_count": 10,
+  "negative_count": 5,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-13T06:50:53.993104",
+  "analyzed_at": "2026-11-13T12:46:26.529262",
   "categories_distribution": {
-    "股市动态": 16,
-    "综合财经": 25,
-    "货币政策": 1,
+    "股市动态": 19,
+    "综合财经": 17,
+    "经济数据": 2,
     "外汇市场": 1,
-    "经济数据": 2
+    "货币政策": 4,
+    "国际贸易": 2
   },
   "ai_provider": "fallback_rules"
 }
