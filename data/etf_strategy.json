@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T02:21:44.018070",
+  "updated_at": "2026-11-13T04:28:07.515392",
   "analysis": [
     {
       "code": "159770",
@@ -28,15 +28,15 @@
         "name": "机器人AI",
         "open": 0.9,
         "pre_close": 0.9,
-        "current": 0.904,
+        "current": 0.905,
         "high": 0.912,
         "low": 0.899,
-        "volume": 50073100,
-        "amount": 45369350.3,
+        "volume": 66306100,
+        "amount": 60079188.0,
         "date": "2026-11-13",
-        "time": "10:21:21",
-        "change": 0.004,
-        "change_percent": 0.44
+        "time": "11:30:00",
+        "change": 0.005,
+        "change_percent": 0.56
       },
       "indicators": {}
     },
@@ -67,15 +67,15 @@
         "name": "科技ETF嘉实",
         "open": 1.704,
         "pre_close": 1.704,
-        "current": 1.689,
+        "current": 1.684,
         "high": 1.781,
         "low": 1.623,
-        "volume": 905900,
-        "amount": 1535166.0,
+        "volume": 1031400,
+        "amount": 1746848.0,
         "date": "2026-11-13",
-        "time": "10:21:33",
-        "change": -0.015,
-        "change_percent": -0.88
+        "time": "11:30:00",
+        "change": -0.02,
+        "change_percent": -1.17
       },
       "indicators": {}
     }
