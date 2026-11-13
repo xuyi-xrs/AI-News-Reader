@@ -1,26 +1,26 @@
 {
-  "temperature_score": 40.0,
+  "temperature_score": 46.67,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比11/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比9/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✓ 综合财经: The rise of 'housefishing' - when does using AI go from enha...",
-    "✗ 股市动态: Stock Market Today, November 12, 2026: Dow, S&P 500 and Nasd...",
-    "✓ 股市动态: AI boom will lift Nvidia even after Huang’s exit, investors ...",
-    "✓ 综合财经: Cramer says Jensen Huang betrayed Nvidia shareholders. How t...",
-    "✗ 股市动态: The Stock Market Is Surviving Nvidia’s Drop. Now Comes the H..."
+    "✗ 股市动态: Widespread Microsoft outage takes down Outlook and other 365...",
+    "✓ 综合财经: Why Singapore keeps turning up in the fight over Nvidia chip...",
+    "✗ 股市动态: Nvidia on track for longest weekly losing streak since 2012 ...",
+    "✗ 股市动态: Nvidia on track for longest weekly losing streak since 2012 ...",
+    "✓ 股市动态: Dow Futures Rise After Resilient Session; AMD, Arista Are Bu..."
   ],
-  "positive_count": 5,
-  "negative_count": 11,
+  "positive_count": 7,
+  "negative_count": 9,
   "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-13T00:37:08.916823",
+  "analyzed_at": "2026-11-13T06:50:53.993104",
   "categories_distribution": {
-    "综合财经": 23,
-    "股市动态": 19,
+    "股市动态": 16,
+    "综合财经": 25,
+    "货币政策": 1,
     "外汇市场": 1,
-    "大宗商品": 1,
-    "经济数据": 1
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
