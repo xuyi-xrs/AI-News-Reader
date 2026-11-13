@@ -1,12 +1,12 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 58.3,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻3条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻7条，消极新闻2条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -26,14 +26,19 @@
   },
   "key_factors": [
     {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Chart Preview | The earnings season for Chinese internet stocks has begun! Tence"
+    },
+    {
       "type": "negative",
       "category": "AI技术",
       "title": "Alibaba, Tencent shares fall on report U.S. weighs curbs on remote AI chip acces"
     },
     {
-      "type": "negative",
+      "type": "positive",
       "category": "AI技术",
-      "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports - Re"
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with"
     },
     {
       "type": "positive",
@@ -59,43 +64,33 @@
       "type": "positive",
       "category": "AI技术",
       "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow fo"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on bat"
     }
   ],
-  "positive_count": 6,
-  "negative_count": 3,
+  "positive_count": 7,
+  "negative_count": 2,
   "neutral_count": 21,
-  "analyzed_news_count": 46,
-  "analyzed_at": "2026-11-13T00:53:07.917999",
+  "analyzed_news_count": 47,
+  "analyzed_at": "2026-11-13T06:59:45.859669",
   "categories_distribution": {
-    "社交平台": 1,
+    "AI技术": 35,
     "游戏业务": 1,
-    "AI技术": 33,
-    "金融科技": 1,
+    "综合动态": 1,
+    "股市表现": 1,
     "云服务": 2,
-    "元宇宙": 8
+    "元宇宙": 7
   },
   "category_sentiment": {
-    "社交平台": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
+    "AI技术": {
+      "positive": 7,
+      "negative": 2,
+      "neutral": 19
     },
     "游戏业务": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "AI技术": {
-      "positive": 6,
-      "negative": 3,
-      "neutral": 18
-    },
-    "金融科技": {
+    "综合动态": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
