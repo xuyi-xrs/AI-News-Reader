@@ -1,27 +1,26 @@
 {
-  "temperature_score": 51.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 40.0,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比11/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✓ 货币政策: In a policy switch, the Fed says its October 2027 meeting wi...",
-    "✓ 综合财经: Scout Motors has 212,000 vehicle reservations as $2 billion ...",
-    "✗ 股市动态: Nvidia stock pares morning losses after CEO Jensen Huang ann...",
-    "✓ 综合财经: IRS announces 2027 401(k) contribution limits, raises saving...",
-    "✓ 综合财经: The rise and fall of Jensen Huang - how the tech superstar b..."
+    "✓ 综合财经: The rise of 'housefishing' - when does using AI go from enha...",
+    "✗ 股市动态: Stock Market Today, November 12, 2026: Dow, S&P 500 and Nasd...",
+    "✓ 股市动态: AI boom will lift Nvidia even after Huang’s exit, investors ...",
+    "✓ 综合财经: Cramer says Jensen Huang betrayed Nvidia shareholders. How t...",
+    "✗ 股市动态: The Stock Market Is Surviving Nvidia’s Drop. Now Comes the H..."
   ],
-  "positive_count": 7,
-  "negative_count": 6,
-  "neutral_count": 17,
+  "positive_count": 5,
+  "negative_count": 11,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-12T18:39:04.709141",
+  "analyzed_at": "2026-11-13T00:37:08.916823",
   "categories_distribution": {
-    "综合财经": 22,
-    "货币政策": 2,
-    "股市动态": 14,
+    "综合财经": 23,
+    "股市动态": 19,
     "外汇市场": 1,
     "大宗商品": 1,
-    "经济数据": 4
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
