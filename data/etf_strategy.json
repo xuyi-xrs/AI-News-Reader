@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-12T07:48:45.163287",
+  "updated_at": "2026-11-13T02:21:44.018070",
   "analysis": [
     {
       "code": "159770",
       "name": "机器人ETF",
       "sentiment": {
-        "score": 37,
-        "sentiment": "偏空",
-        "emoji": "😟"
+        "score": 60,
+        "sentiment": "看多",
+        "emoji": "📈"
       },
       "signal": {
         "action": "建议持有",
         "action_code": "hold",
         "confidence": 60,
-        "buy_signals": 0,
-        "sell_signals": 2
+        "buy_signals": 1,
+        "sell_signals": 1
       },
       "risks": [
         {
@@ -26,17 +26,17 @@
       "realtime": {
         "code": "159770",
         "name": "机器人AI",
-        "open": 0.938,
-        "pre_close": 0.938,
-        "current": 0.9,
-        "high": 0.938,
-        "low": 0.897,
-        "volume": 181754200,
-        "amount": 166666379.6,
-        "date": "2026-11-12",
-        "time": "15:35:00",
-        "change": -0.038,
-        "change_percent": -4.05
+        "open": 0.9,
+        "pre_close": 0.9,
+        "current": 0.904,
+        "high": 0.912,
+        "low": 0.899,
+        "volume": 50073100,
+        "amount": 45369350.3,
+        "date": "2026-11-13",
+        "time": "10:21:21",
+        "change": 0.004,
+        "change_percent": 0.44
       },
       "indicators": {}
     },
@@ -65,17 +65,17 @@
       "realtime": {
         "code": "515860",
         "name": "科技ETF嘉实",
-        "open": 1.731,
-        "pre_close": 1.731,
-        "current": 1.704,
-        "high": 1.763,
-        "low": 1.703,
-        "volume": 4285800,
-        "amount": 7488234.0,
-        "date": "2026-11-12",
-        "time": "15:00:01",
-        "change": -0.027,
-        "change_percent": -1.56
+        "open": 1.704,
+        "pre_close": 1.704,
+        "current": 1.689,
+        "high": 1.781,
+        "low": 1.623,
+        "volume": 905900,
+        "amount": 1535166.0,
+        "date": "2026-11-13",
+        "time": "10:21:33",
+        "change": -0.015,
+        "change_percent": -0.88
       },
       "indicators": {}
     }
