@@ -1,27 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Trump says he wants to ‘get Cuba done’ before leaving office...",
-    "✗ 经济数据: Stock Futures Lower as Investors Look to U.S. Inflation Data...",
-    "✓ 综合财经: Outlook outage continues as Microsoft flags 'encouraging rec...",
-    "✓ 股市动态: Russian crude production rebounds after Trump diesel deal, I...",
-    "✓ 外汇市场: U.S. seizes $1.2 billion in cryptocurrency stolen from Binan..."
+    "✓ 综合财经: Microsoft says services experiencing ‘broad recovery’ after ...",
+    "✗ 股市动态: Microsoft apologizes for massive outage that took down Outlo...",
+    "✓ 外汇市场: Moscow tells Europe to pick an envoy if it wants a seat at t...",
+    "✓ 综合财经: Arm boss Rene Haas approached in Nvidia CEO search...",
+    "✗ 股市动态: Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmo..."
   ],
   "positive_count": 10,
-  "negative_count": 5,
-  "neutral_count": 15,
+  "negative_count": 6,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-13T12:46:26.529262",
+  "analyzed_at": "2026-11-13T18:36:21.063071",
   "categories_distribution": {
-    "股市动态": 19,
-    "综合财经": 17,
-    "经济数据": 2,
+    "综合财经": 19,
+    "股市动态": 16,
     "外汇市场": 1,
-    "货币政策": 4,
-    "国际贸易": 2
+    "货币政策": 5,
+    "经济数据": 3,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
