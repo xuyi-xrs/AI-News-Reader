@@ -1,27 +1,27 @@
 {
-  "temperature_score": 56.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 43.33,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比10/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✓ 综合财经: Microsoft says services experiencing ‘broad recovery’ after ...",
-    "✗ 股市动态: Microsoft apologizes for massive outage that took down Outlo...",
-    "✓ 外汇市场: Moscow tells Europe to pick an envoy if it wants a seat at t...",
-    "✓ 综合财经: Arm boss Rene Haas approached in Nvidia CEO search...",
-    "✗ 股市动态: Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmo..."
+    "✗ 综合财经: Nvidia is done with Jensen Huang. The fallout in Washington ...",
+    "✗ 外汇市场: Sam Bankman-Fried would have made nearly $40bn in Anthropic ...",
+    "✗ 股市动态: Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-C...",
+    "✗ 股市动态: Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgr...",
+    "✗ 股市动态: Nvidia stock suffers longest weekly losing streak since 2012..."
   ],
-  "positive_count": 10,
-  "negative_count": 6,
+  "positive_count": 6,
+  "negative_count": 10,
   "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-13T18:36:21.063071",
+  "analyzed_at": "2026-11-14T00:30:56.415594",
   "categories_distribution": {
-    "综合财经": 19,
-    "股市动态": 16,
-    "外汇市场": 1,
     "货币政策": 5,
-    "经济数据": 3,
-    "国际贸易": 1
+    "综合财经": 16,
+    "外汇市场": 1,
+    "股市动态": 19,
+    "国际贸易": 2,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
