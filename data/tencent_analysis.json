@@ -1,12 +1,12 @@
 {
-  "temperature_score": 48.3,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
+  "temperature_score": 50.0,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻3条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻4条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -26,9 +26,19 @@
   },
   "key_factors": [
     {
+      "type": "positive",
+      "category": "数字内容",
+      "title": "Tencent Music Entertainment Group (TME) Could Be Worth Nearly 90% More: Here’s t"
+    },
+    {
       "type": "negative",
       "category": "AI技术",
       "title": "Alibaba, Tencent shares fall on report U.S. weighs curbs on remote AI chip acces"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Alibaba QwenWork Rises as ByteDance & Tencent Axe AI Portals - AI Magazine"
     },
     {
       "type": "negative",
@@ -54,36 +64,32 @@
       "type": "positive",
       "category": "AI技术",
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces"
     }
   ],
-  "positive_count": 3,
+  "positive_count": 4,
   "negative_count": 4,
-  "neutral_count": 23,
-  "analyzed_news_count": 49,
-  "analyzed_at": "2026-11-14T06:49:01.429871",
+  "neutral_count": 22,
+  "analyzed_news_count": 50,
+  "analyzed_at": "2026-11-14T12:38:11.040112",
   "categories_distribution": {
+    "数字内容": 1,
     "AI技术": 32,
-    "游戏业务": 2,
     "综合动态": 2,
-    "元宇宙": 10,
+    "元宇宙": 11,
+    "游戏业务": 1,
     "股市表现": 1,
     "政策监管": 2
   },
   "category_sentiment": {
+    "数字内容": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
     "AI技术": {
       "positive": 3,
       "negative": 4,
       "neutral": 19
-    },
-    "游戏业务": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
     },
     "综合动态": {
       "positive": 0,
