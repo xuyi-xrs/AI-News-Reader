@@ -1,27 +1,28 @@
 {
-  "temperature_score": 43.33,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比10/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 51.67,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: Nvidia is done with Jensen Huang. The fallout in Washington ...",
-    "✗ 外汇市场: Sam Bankman-Fried would have made nearly $40bn in Anthropic ...",
-    "✗ 股市动态: Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-C...",
-    "✗ 股市动态: Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgr...",
-    "✗ 股市动态: Nvidia stock suffers longest weekly losing streak since 2012..."
+    "✓ 货币政策: FAA lifts ground stop after more than four hours, but flight...",
+    "✓ 综合财经: SpaceX launches Starship in key test flight of massive rocke...",
+    "✗ 股市动态: Stock Market Today, November 13, 2026: Tech Stocks Fall as N...",
+    "✓ 综合财经: SpaceX aborts attempt to catch Starship booster rocket...",
+    "✗ 外汇市场: Sam Bankman-Fried would have made nearly $40bn in Anthropic ..."
   ],
-  "positive_count": 6,
-  "negative_count": 10,
-  "neutral_count": 14,
+  "positive_count": 8,
+  "negative_count": 7,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-14T00:30:56.415594",
+  "analyzed_at": "2026-11-14T06:39:25.377604",
   "categories_distribution": {
-    "货币政策": 5,
-    "综合财经": 16,
+    "大宗商品": 1,
+    "货币政策": 3,
+    "综合财经": 21,
+    "股市动态": 17,
     "外汇市场": 1,
-    "股市动态": 19,
-    "国际贸易": 2,
-    "经济数据": 2
+    "国际贸易": 1,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
