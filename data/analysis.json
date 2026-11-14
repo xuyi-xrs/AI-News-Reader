@@ -1,28 +1,27 @@
 {
-  "temperature_score": 51.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 48.33,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比7/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✓ 货币政策: FAA lifts ground stop after more than four hours, but flight...",
-    "✓ 综合财经: SpaceX launches Starship in key test flight of massive rocke...",
-    "✗ 股市动态: Stock Market Today, November 13, 2026: Tech Stocks Fall as N...",
-    "✓ 综合财经: SpaceX aborts attempt to catch Starship booster rocket...",
-    "✗ 外汇市场: Sam Bankman-Fried would have made nearly $40bn in Anthropic ..."
+    "✓ 综合财经: Passengers face widespread disruption after US air traffic c...",
+    "✓ 综合财经: Flight disruptions continue after FAA lifts ground stop, som...",
+    "✗ 股市动态: Nvidia exposed to possible lawsuits after Jensen Huang’s dow...",
+    "✗ 股市动态: Microsoft apologizes for massive outage that took down Outlo...",
+    "✗ 股市动态: Record polar vortex breakdown raises cold weather risk..."
   ],
-  "positive_count": 8,
+  "positive_count": 6,
   "negative_count": 7,
-  "neutral_count": 15,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-14T06:39:25.377604",
+  "analyzed_at": "2026-11-14T12:29:11.297953",
   "categories_distribution": {
-    "大宗商品": 1,
-    "货币政策": 3,
-    "综合财经": 21,
+    "综合财经": 23,
     "股市动态": 17,
+    "经济数据": 2,
     "外汇市场": 1,
-    "国际贸易": 1,
-    "经济数据": 1
+    "货币政策": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
