@@ -1,12 +1,12 @@
 {
-  "temperature_score": 53.3,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
+  "temperature_score": 48.3,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻3条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -26,24 +26,14 @@
   },
   "key_factors": [
     {
-      "type": "positive",
-      "category": "云服务",
-      "title": "Tencent Cloud doubles overseas customers as AI demand soars - IT Brief UK"
-    },
-    {
-      "type": "positive",
-      "category": "数字内容",
-      "title": "Tencent Music Entertainment Group (TME) Could Be Worth Nearly 90% More: Here’s t"
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Alibaba and Tencent Lose $75B as Nvidia Crisis Sends Chinese AI Stocks Down Near"
-    },
-    {
       "type": "negative",
       "category": "AI技术",
       "title": "Alibaba, Tencent shares fall on report U.S. weighs curbs on remote AI chip acces"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "Tech Now"
     },
     {
       "type": "negative",
@@ -58,51 +48,49 @@
     {
       "type": "positive",
       "category": "AI技术",
-      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal "
+      "title": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?\n"
     },
     {
       "type": "positive",
       "category": "AI技术",
-      "title": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?\n"
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces"
     }
   ],
-  "positive_count": 6,
+  "positive_count": 3,
   "negative_count": 4,
-  "neutral_count": 20,
-  "analyzed_news_count": 48,
-  "analyzed_at": "2026-11-14T00:47:43.744149",
+  "neutral_count": 23,
+  "analyzed_news_count": 49,
+  "analyzed_at": "2026-11-14T06:49:01.429871",
   "categories_distribution": {
-    "云服务": 1,
-    "数字内容": 1,
-    "AI技术": 31,
+    "AI技术": 32,
+    "游戏业务": 2,
     "综合动态": 2,
-    "游戏业务": 1,
-    "元宇宙": 9,
+    "元宇宙": 10,
     "股市表现": 1,
     "政策监管": 2
   },
   "category_sentiment": {
-    "云服务": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "数字内容": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
     "AI技术": {
-      "positive": 4,
+      "positive": 3,
       "negative": 4,
-      "neutral": 17
+      "neutral": 19
+    },
+    "游戏业务": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
     },
     "综合动态": {
       "positive": 0,
       "negative": 0,
       "neutral": 2
     },
-    "游戏业务": {
+    "元宇宙": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
