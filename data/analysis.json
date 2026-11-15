@@ -1,26 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 国际贸易: Anthropic’s IPO lands as the embattled AI trade looks for a ...",
-    "✗ 股市动态: What might come first: a stock market crash or boom? - Yahoo...",
-    "✓ 股市动态: State Street, Pictet Call Time on Europe’s Stock Market Rall...",
-    "✓ 综合财经: How Infantino flew his way out of a Fifa rebellion...",
-    "✓ 综合财经: When human judgment is not all it’s cracked up to be ..."
+    "✓ 货币政策: 'We slept here': Flight delays linger but schedule is back o...",
+    "✓ 综合财经: Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outsid...",
+    "✓ 综合财经: US and allies sign accord to protect AI supply chains from C...",
+    "✓ 国际贸易: Bessent says Nvidia needs ‘shake-up’ with external CEO ...",
+    "✓ 综合财经: Trump breaks silence about FAA nationwide ground stop, blame..."
   ],
-  "positive_count": 6,
-  "negative_count": 1,
-  "neutral_count": 23,
+  "positive_count": 11,
+  "negative_count": 4,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-15T12:30:08.056424",
+  "analyzed_at": "2026-11-15T18:26:24.857260",
   "categories_distribution": {
-    "国际贸易": 3,
-    "综合财经": 22,
-    "股市动态": 17,
-    "经济数据": 2,
-    "货币政策": 1
+    "货币政策": 2,
+    "综合财经": 21,
+    "股市动态": 16,
+    "国际贸易": 4,
+    "数字货币": 1,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
