@@ -4,23 +4,23 @@
   "sentiment_emoji": "😐",
   "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Nationwide ground stop followed contractor upgrade to L3Harr...",
     "✓ 综合财经: Passengers face widespread disruption after US air traffic c...",
-    "✓ 经济数据: Heating oil prices are up 59% from last winter. The spike is...",
-    "✓ 股市动态: Berkshire breaks out to record high with fourth-quarter rall...",
-    "✓ 经济数据: Opinion: Buy This Growth Stock to Beat the S&P 500 in 2027 -..."
+    "✓ 综合财经: Nationwide ground stop followed contractor upgrade to L3Harr...",
+    "✓ 综合财经: SpaceX catches upper stage of Starship rocket in historic fi...",
+    "✓ 股市动态: Rally Shaky, But Many Stocks Are Setting Up. What Should You...",
+    "✓ 经济数据: Heating oil prices are up 59% from last winter. The spike is..."
   ],
   "positive_count": 7,
   "negative_count": 4,
   "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-14T18:25:06.919374",
+  "analyzed_at": "2026-11-15T00:29:49.431659",
   "categories_distribution": {
-    "综合财经": 18,
-    "股市动态": 19,
-    "经济数据": 4,
-    "外汇市场": 1,
-    "国际贸易": 1
+    "综合财经": 19,
+    "股市动态": 18,
+    "经济数据": 3,
+    "国际贸易": 2,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
