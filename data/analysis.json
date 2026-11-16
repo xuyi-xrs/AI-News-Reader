@@ -1,27 +1,26 @@
 {
-  "temperature_score": 43.33,
+  "temperature_score": 40.0,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比9/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比11/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✗ 股市动态: Nvidia fallout: Commerce cracks down on third-country loopho...",
-    "✗ 数字货币: Bitcoin slides to $62,000 following liquidation cascade, the...",
-    "✓ 货币政策: 'We slept here': Flight delays linger as airlines recover fr...",
-    "✗ 股市动态: US tech stocks set to open lower amid Nvidia fallout...",
-    "✗ 股市动态: A major NFT marketplace is shutting down—5 years after the b..."
+    "✓ 国际贸易: OpenAI inks agreements with four independent evaluators to b...",
+    "✓ 股市动态: Prediction: Nvidia Stock Will Beat the Market Over the Next ...",
+    "✗ 股市动态: The Stock Market’s Biggest Risk Isn’t a Crash. It’s What Inv...",
+    "✗ 股市动态: Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street ...",
+    "✗ 股市动态: US tech stocks slide amid Nvidia fallout..."
   ],
   "positive_count": 5,
-  "negative_count": 9,
-  "neutral_count": 16,
+  "negative_count": 11,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-16T14:41:09.337184",
+  "analyzed_at": "2026-11-16T18:41:13.395117",
   "categories_distribution": {
+    "综合财经": 23,
+    "国际贸易": 3,
     "股市动态": 17,
-    "数字货币": 1,
-    "货币政策": 2,
-    "综合财经": 20,
-    "经济数据": 2,
-    "国际贸易": 3
+    "经济数据": 1,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
