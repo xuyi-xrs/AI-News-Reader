@@ -1,12 +1,12 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 56.7,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻7条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻2条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -27,33 +27,18 @@
   "key_factors": [
     {
       "type": "positive",
+      "category": "数字内容",
+      "title": "Tencent Music, TVB team up on ‘Greater Bay Area Jade Solid Gold’ to elevate cant"
+    },
+    {
+      "type": "positive",
       "category": "云服务",
       "title": "Tencent Cloud and Teleport Collaborate to Advance AI-Powered Cross-Border Logist"
     },
     {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Alibaba and Tencent Lose $75B as Nvidia Crisis Sends Chinese AI Stocks Down Near"
-    },
-    {
       "type": "positive",
       "category": "AI技术",
-      "title": "Tencent's Pony Ma says half of staff will move to AI-native work - Startup Fortu"
-    },
-    {
-      "type": "positive",
-      "category": "股市表现",
-      "title": "Tencent Shares Slid Even Though Profit Rose - Yahoo Finance"
-    },
-    {
-      "type": "negative",
-      "category": "综合动态",
-      "title": "What Investors Got Wrong About Tencent Before The Drop - Simply Wall St"
-    },
-    {
-      "type": "negative",
-      "category": "股市表现",
-      "title": "Why is Tencent stock falling today? - Investing.com"
+      "title": "Snapshot Outlook | Tencent's Q3 results are set to be released; its core busines"
     },
     {
       "type": "negative",
@@ -61,24 +46,38 @@
       "title": "Tech Now"
     },
     {
+      "type": "negative",
+      "category": "股市表现",
+      "title": "Investors sue chip giant Intel after 29% stock plunge"
+    },
+    {
       "type": "positive",
       "category": "AI技术",
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says "
+    },
+    {
+      "type": "positive",
+      "category": "元宇宙",
+      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright s"
     }
   ],
-  "positive_count": 7,
-  "negative_count": 4,
-  "neutral_count": 19,
+  "positive_count": 6,
+  "negative_count": 2,
+  "neutral_count": 22,
   "analyzed_news_count": 52,
-  "analyzed_at": "2026-11-16T01:04:44.885517",
+  "analyzed_at": "2026-11-16T08:26:34.033024",
   "categories_distribution": {
-    "云服务": 2,
-    "AI技术": 26,
+    "云服务": 5,
+    "数字内容": 1,
+    "AI技术": 24,
+    "元宇宙": 14,
     "游戏业务": 2,
     "股市表现": 3,
-    "金融科技": 1,
-    "综合动态": 2,
-    "元宇宙": 13,
     "社交平台": 1,
     "政策监管": 2
   },
@@ -86,12 +85,22 @@
     "云服务": {
       "positive": 1,
       "negative": 0,
-      "neutral": 1
+      "neutral": 4
+    },
+    "数字内容": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
     },
     "AI技术": {
       "positive": 3,
-      "negative": 2,
-      "neutral": 14
+      "negative": 1,
+      "neutral": 13
+    },
+    "元宇宙": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 3
     },
     "游戏业务": {
       "positive": 0,
@@ -99,23 +108,8 @@
       "neutral": 1
     },
     "股市表现": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 0
-    },
-    "金融科技": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "综合动态": {
       "positive": 0,
       "negative": 1,
-      "neutral": 1
-    },
-    "元宇宙": {
-      "positive": 2,
-      "negative": 0,
       "neutral": 1
     }
   }
