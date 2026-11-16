@@ -1,12 +1,12 @@
 {
-  "temperature_score": 51.7,
+  "temperature_score": 53.3,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻5条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -27,13 +27,13 @@
   "key_factors": [
     {
       "type": "positive",
-      "category": "数字内容",
-      "title": "Tencent Music, TVB team up on ‘Greater Bay Area Jade Solid Gold’ to elevate cant"
+      "category": "云服务",
+      "title": "Tencent Cloud and Teleport Collaborate to Advance AI-Powered Cross-Border Logist"
     },
     {
       "type": "positive",
-      "category": "云服务",
-      "title": "Tencent Cloud and Teleport Collaborate to Advance AI-Powered Cross-Border Logist"
+      "category": "AI技术",
+      "title": "Tencent Marks 28th Anniversary With Internal Letter, Casting AI Transformation a"
     },
     {
       "type": "negative",
@@ -62,31 +62,31 @@
     },
     {
       "type": "positive",
-      "category": "股市表现",
-      "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Je"
+      "category": "AI技术",
+      "title": "OpenAI inks agreements with four independent evaluators to boost company's safet"
     }
   ],
-  "positive_count": 5,
+  "positive_count": 6,
   "negative_count": 4,
-  "neutral_count": 21,
-  "analyzed_news_count": 52,
-  "analyzed_at": "2026-11-16T14:52:36.883107",
+  "neutral_count": 20,
+  "analyzed_news_count": 49,
+  "analyzed_at": "2026-11-16T18:48:00.173022",
   "categories_distribution": {
     "数字内容": 1,
     "云服务": 3,
-    "AI技术": 24,
-    "游戏业务": 3,
-    "元宇宙": 13,
+    "AI技术": 27,
     "综合动态": 1,
+    "游戏业务": 2,
+    "元宇宙": 8,
     "股市表现": 4,
     "社交平台": 1,
     "政策监管": 2
   },
   "category_sentiment": {
     "数字内容": {
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
-      "neutral": 0
+      "neutral": 1
     },
     "云服务": {
       "positive": 1,
@@ -94,29 +94,29 @@
       "neutral": 1
     },
     "AI技术": {
-      "positive": 1,
+      "positive": 3,
       "negative": 4,
       "neutral": 13
-    },
-    "游戏业务": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 2
-    },
-    "元宇宙": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 3
     },
     "综合动态": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
+    "游戏业务": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "元宇宙": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3
+    },
     "股市表现": {
       "positive": 1,
       "negative": 0,
-      "neutral": 2
+      "neutral": 1
     }
   }
 }
