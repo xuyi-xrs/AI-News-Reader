@@ -1,21 +1,165 @@
 {
-  "updated_at": "2026-11-15T18:26:24.857534",
+  "updated_at": "2026-11-16T00:44:34.724973",
   "total_count": 45,
   "news": [
     {
-      "id": -7313179772564861234,
+      "id": -3901773132904241301,
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "description": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+      "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "source": "CNBC",
+      "published_at": "2026-11-16T00:11:25",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:31.318098"
+    },
+    {
+      "id": 4495346582281116170,
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite - CNBC",
+      "description": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite  CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51ZGpUMGRueFdhOHZwSVZsV0NKaDRHbzgwUWZkODNQN3V0Y2w3Z2kzQjRlTVNleXdJaW1LVmloeGFDamJLdUhfUk1ESXhRT1Jfc19KWkxhZElZa0hldTJtdUI2OUREaHNzR2NNQ1YwYXNPSUVSa3fSAXtBVV95cUxONng3eHcteEVaaVZBOUlKa3ZYaHdiTUZPSVhJel9mTDN4RFhPUU5QR3BRSjZXWEtYSHlqbjYtc1pCQV9YV1lxTzJPU3FtLWt3UXlSMkZLd1dwVWJNc0Rnc3RUX0lua1pWSW1Qa1V3TEpsTW43ejZXUm9ZUHM?oc=5",
+      "source": "Google News",
+      "published_at": "2026-11-15T23:57:19",
+      "category": "综合财经",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-11-16T00:44:26.024183"
+    },
+    {
+      "id": 5785878546554839208,
+      "title": "Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn",
+      "description": "Drugmaker’s potential acquisition of Ollin Biosciences is latest in glut of deals in biotechnology sector",
+      "url": "https://www.ft.com/content/450100ba-074c-46a6-b962-89dbef146135?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-11-15T23:54:31",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-11-16T00:44:32.568219"
+    },
+    {
+      "id": 3568121571823373113,
+      "title": "Dow Jones Futures Due; How Will Nvidia React As Jensen Huang Mulls Return? - Investor's Business Daily",
+      "description": "Dow Jones Futures Due; How Will Nvidia React As Jensen Huang Mulls Return?  Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
+      "source": "Google News",
+      "published_at": "2026-11-15T22:58:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:26.023725"
+    },
+    {
+      "id": 6224665711501436491,
       "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
       "description": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
       "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
       "source": "CNBC",
-      "published_at": "2026-11-15T18:22:23",
+      "published_at": "2026-11-15T22:33:26",
       "category": "货币政策",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:21.075102"
+      "fetched_at": "2026-11-16T00:44:31.318317"
     },
     {
-      "id": 9028260309635576979,
+      "id": 706627501234887241,
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "description": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-11-15T22:30:03",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-11-16T00:44:30.171839"
+    },
+    {
+      "id": 8812835124290700918,
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
+      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-11-15T22:24:20",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:30.171899"
+    },
+    {
+      "id": -2466018814691051107,
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-11-15T22:00:24",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:30.171763"
+    },
+    {
+      "id": 8989582918063932997,
+      "title": "The Stock Market Is Sending a Rare Warning. Here's Warren Buffett's Best Bear Market Advice. - Yahoo Finance",
+      "description": "The Stock Market Is Sending a Rare Warning. Here's Warren Buffett's Best Bear Market Advice.  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXpWWmwyYjBfOVJkVGZvdXJkdHMxMFlZYkFZTjE3Y0dHVTFXamhOX1l6UUJZcTlPbFl3Vm41WXRRZXo2bmI5Q1FtS3Y4UlZNLWFnU0hQd21JdXhDR1RPMDVEcmJEZHg0T3ZCR2dRb1FQR2VBNUpNaElPR1ZIZEdUXzlWLUhNRHg3UmphMGtvcXVqMUswbmlnNzgyOGg3a2M?oc=5",
+      "source": "Google News",
+      "published_at": "2026-11-15T21:35:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:26.023382"
+    },
+    {
+      "id": 4898481626410071271,
+      "title": "Jensen Huang Reportedly Wants Back In As Nvidia CEO. How Will Stock React? - Yahoo Finance",
+      "description": "Jensen Huang Reportedly Wants Back In As Nvidia CEO. How Will Stock React?  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhPNUFLeEpOMmNseG40aV9MMzVpTlhDNUxqOGo2b2lkUjVrUTlqRkQ4QTNxWDJGcTZuM3I5OUJGZzdSLU4yVnVsNkltdUxTQmRFeGNTaUctYUVFNkJ2cFJ4MEkyTHN6Tk9EQXVwcDdEV0RCaUZpaTJDTmVDYjdOdERVVVQ2ZWNLa2d5ZjdvTjRyRVJTZ19lYVoyUHlZYjZ5?oc=5",
+      "source": "Google News",
+      "published_at": "2026-11-15T19:23:49",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:26.024949"
+    },
+    {
+      "id": 822371893087010119,
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "description": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+      "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-11-15T19:03:41",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:32.567722"
+    },
+    {
+      "id": -7970781798034947703,
+      "title": "Viktor Orbán’s party reels from $20mn hidden cash discovery",
+      "description": "Hungarian police said money was recovered in forests, barns and warehouses as part of investigation into former prime minister’s ally",
+      "url": "https://www.ft.com/content/f05cfe6d-758e-4b14-b150-acc9f3fc9321?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-11-15T18:44:15",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:32.568164"
+    },
+    {
+      "id": 1799791990950173408,
+      "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO ",
+      "description": "US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China",
+      "url": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-11-15T18:28:25",
+      "category": "国际贸易",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-11-16T00:44:32.567798"
+    },
+    {
+      "id": 7470638331088194139,
       "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
       "description": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
       "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
@@ -23,11 +167,11 @@
       "published_at": "2026-11-15T18:10:18",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-11-15T18:26:21.074827"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-11-16T00:44:31.318020"
     },
     {
-      "id": 8142277586235671619,
+      "id": -8929511891089609918,
       "title": "Opinion | Rational Investing and Stock-Market Bubbles - WSJ",
       "description": "Opinion | Rational Investing and Stock-Market Bubbles  WSJ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdGRaNkVGX1pVRUpIZlU2SGNDQVJkRE9JbVRFc3pVS1VpOXNPM1dwNGFpWFVrWXZBLXV4Skd6RkIxTTNwZEJFdFB5ck1xNzhwdHV5TFpvcm90U3I4RDRIV1pndmltRmFPdEljZ2xYNlVHOE84aGNlV0l5ZUlCNWN5bko2MmpZYXM?oc=5",
@@ -35,11 +179,11 @@
       "published_at": "2026-11-15T17:55:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-11-15T18:26:15.749975"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-11-16T00:44:26.023596"
     },
     {
-      "id": -279426173512561558,
+      "id": -8192446904987721005,
       "title": "US and allies sign accord to protect AI supply chains from China",
       "description": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
       "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
@@ -47,35 +191,11 @@
       "published_at": "2026-11-15T17:47:43",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:22.740439"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:32.567859"
     },
     {
-      "id": 6536868329727508394,
-      "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO ",
-      "description": "US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China",
-      "url": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-11-15T17:15:23",
-      "category": "国际贸易",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:22.740330"
-    },
-    {
-      "id": -1900674186603761099,
-      "title": "Where are the opportunities in the UK stock market? - Yahoo Finance UK",
-      "description": "Where are the opportunities in the UK stock market?  Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZm11aHZKVWQtM1d2Y2NUcEladklaREctQ1hXcG5PNTBWQjVNRzJsc1VoOHhRQjFnLTdUeDRBTGd6NHNrTjBmYWtOTHVVelduRnBCbmE4WkJWNHdJZTZIZWFGQkxORDE1MFdTSWp0OGUwendaZE1ucDZXOVRfdmNTMkwwTmV1aDN0aEpoRA?oc=5",
-      "source": "Google News",
-      "published_at": "2026-11-15T17:06:00",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:15.752182"
-    },
-    {
-      "id": -2319856973310208135,
+      "id": 4010473847126686509,
       "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration ",
       "description": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
       "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
@@ -83,59 +203,35 @@
       "published_at": "2026-11-15T16:56:40",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:21.075192"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:31.318435"
     },
     {
-      "id": -5512894147109362200,
-      "title": "Futures Indicated Lower, Bitcoin Dives. What To Do Now. - Investor's Business Daily",
-      "description": "Futures Indicated Lower, Bitcoin Dives. What To Do Now.  Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
+      "id": -7397308217419798631,
+      "title": "History Says This Dividend Stock Can Protect Your Portfolio if a Stock Market Slump Is Coming - Yahoo Finance",
+      "description": "History Says This Dividend Stock Can Protect Your Portfolio if a Stock Market Slump Is Coming  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa1NiUXZYTzRrME1OSnl4QldRX3FTQjE1bHF3ZXpha2xBbkQtSTFxbFdOU0hwcjJrS0FjVExDZXo2Y1ZWU3RqS2RKUFNLY2tUbm1nVjlaMlZMZU43ZEZEVktUUl9wTmlnbFhLUnVIQlF2ZlYtNEpPWGhsV0h6a004SmtmZFZFb2dYelMyTm9VQlZyTkxaazJadzk4WkpxUllERHc?oc=5",
       "source": "Google News",
-      "published_at": "2026-11-15T16:16:00",
-      "category": "数字货币",
+      "published_at": "2026-11-15T15:35:00",
+      "category": "股市动态",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:15.750160"
+      "fetched_at": "2026-11-16T00:44:26.024537"
     },
     {
-      "id": 6183052124578569428,
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-11-15T14:56:21",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:20.015869"
-    },
-    {
-      "id": -5751605037947336411,
-      "title": "Warren Buffett stock market warning: What history reveals about crashes - Beinsure",
-      "description": "Warren Buffett stock market warning: What history reveals about crashes  Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVY5Y3FTMER1ZkpENjFWSWVzYjhVZjdUYXpjclN1YmFfWWFBV2g2dFNEQU8xYm9tcHRzd3FQc1FFMF9qM2UxdmpVcEZjTzhTQkpiMHFjc3JicFJ0anlndUJnQW5mUExsN1JWeGFveDJnN1NvbVREZHBjRF92T0hQSGNjaFZDbU5UNHk2bG8zWS1MVXBKakJmQnYzbjRvQQ?oc=5",
+      "id": 6687689016444449239,
+      "title": "3 big things we're watching in the stock market in the week ahead - CNBC",
+      "description": "3 big things we're watching in the stock market in the week ahead  CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWJ1OEhiT3IxS0lyWGFiOXRULVRKUGxNZlRpRmZLNDNvVk5JdllEV2dRT2hlcDJ6RExJa2ZvX2VQWlYweTVIMzJQT0dJSDdVWXNWdmdocHdyMUhYa3VJRG9GMGdmMC1DWmZKZDVXeEVqTEZNUUZKOXBMd0tuNEp4MWZiZlh3eG11eVZPOTNaeWhSaWI0RlFtM1ByaE9VUV9DaWdRejhyNWc2ZzFkVFVzR3lyM1hzUQ?oc=5",
       "source": "Google News",
-      "published_at": "2026-11-15T14:54:38",
+      "published_at": "2026-11-15T15:26:20",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:15.750378"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:26.024072"
     },
     {
-      "id": -4706180961124199548,
-      "title": "This week on the stock market: the Anthropic IPO and Nvidia’s earnings - Yahoo Finance UK",
-      "description": "This week on the stock market: the Anthropic IPO and Nvidia’s earnings  Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUVHbXhqTmZkX2RjWTI4amZVbUVDcWo5R2x1cTdtb3JGbWMyWFUwU2NVSW1KQ0VHWF9kUGZLQm9yVFBVTnMwaTRvalVqQ1pyQW9iTTYwRzlsNDdreUpsNEpFcmdPLTM5bHpHbEVHZzAxZ21jQTZIcW5hRkc1UUJTOTJzMnBPNzA?oc=5",
-      "source": "Google News",
-      "published_at": "2026-11-15T14:33:00",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:15.751280"
-    },
-    {
-      "id": 9203083953592190819,
+      "id": -3127460247318484026,
       "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
       "description": "Democrats advocated taxing high earners to shore up Social Security in the runup to the midterms. Plus, a senior deduction is slated to expire in two years.",
       "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
@@ -143,11 +239,11 @@
       "published_at": "2026-11-15T14:30:01",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-11-15T18:26:21.075540"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-11-16T00:44:31.318544"
     },
     {
-      "id": 1565405522600455231,
+      "id": 6663176647233246761,
       "title": "'Massive shoes to fill': Wall Street sours on Nvidia stock after Jensen Huang's exit - Yahoo Finance",
       "description": "'Massive shoes to fill': Wall Street sours on Nvidia stock after Jensen Huang's exit  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUhad2VoUnU5VjNDX3N6UW5WX1FFaFA1eUU2V1kxX3BTQlpVX2twdVVaUHEtTWozYWZBRzRwbHZ6NE1OdHpQWXV2cml5b2R5bGY0bVk1Y19qM0pFcjk1V1NWUFNuX2lHOUlVLXVpeVRJam9mSjdiMTI2OG1KS3FvcmVQVGV0Uzh0TldXa2NLUmhNeTQtZS1oS3dydFJHTWNDcHdDLUtpakNCcV85eDdKTG15M3hqNnZOUko5RVB3aHhvbEJuVVE?oc=5",
@@ -156,10 +252,22 @@
       "category": "股市动态",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:15.750919"
+      "fetched_at": "2026-11-16T00:44:26.024309"
     },
     {
-      "id": 6063550730917752847,
+      "id": -6495293768552082285,
+      "title": "Jensen Huang leaves Nvidia with a $132 billion stake — here's when he can sell and why investors may not know when he does: Chart of the Day - Yahoo Finance",
+      "description": "Jensen Huang leaves Nvidia with a $132 billion stake — here's when he can sell and why investors may not know when he does: Chart of the Day  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNVjJKRThIRnJiTkxmT2NTMlJKbjhMWXhOSlhVcWRDUFNwYXRwUUlwRzJYZ1lJWFpqOVk0RUFqTFRtdmY3cVNscUxMRDVyVFFnLUxfdFoxX29KeW1iODB1d0cwVlVObjlIU3RvaUdDMFpJUzd5OXhfZUZCWkhKZkFRMEl6M3o2S2tIbkVVdngzVE5wcDR2d0Q4eWFqVXZScGlPQmFTTTNsdExXNWNDZXlXdF9UQ3ZfX3lweU1aMU9FOWthV1pYNEJabUNvb0Fna2dnM000dUdJbEFTOWU4UHhtZTExU1VqSi00V2EzUWwyemk3R3FlN3pEeWo1Uy1nU0V5ODhSMlh0SG1pMXpZS2FYLUJ1V1FtLTZDSnFOS3RB?oc=5",
+      "source": "Google News",
+      "published_at": "2026-11-15T13:07:32",
+      "category": "综合财经",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:26.025065"
+    },
+    {
+      "id": -2176861058442460788,
       "title": "Minister backs legal right to job support for young people",
       "description": "The work and pensions secretary said the level of support currently on offer was too vague.",
       "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
@@ -167,11 +275,11 @@
       "published_at": "2026-11-15T13:06:15",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-11-15T18:26:20.015972"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:30.171953"
     },
     {
-      "id": 6119404359510158963,
+      "id": 5593652960037224929,
       "title": "Republicans blame everyone but Trump for midterm drubbing",
       "description": "The party faithful avoid mentioning their leader as they lick their wounds at Heritage Foundation postmortem",
       "url": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7?syn-25a6b1a6=1",
@@ -180,22 +288,10 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:22.741036"
+      "fetched_at": "2026-11-16T00:44:32.568111"
     },
     {
-      "id": -2619539494667335126,
-      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-      "description": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
-      "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-      "source": "CNBC",
-      "published_at": "2026-11-15T13:00:02",
-      "category": "货币政策",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:21.075265"
-    },
-    {
-      "id": 1569433017892575078,
+      "id": -8872717248550640696,
       "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
       "description": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
       "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
@@ -203,23 +299,11 @@
       "published_at": "2026-11-15T12:00:01",
       "category": "国际贸易",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:21.074936"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-11-16T00:44:31.318261"
     },
     {
-      "id": 721758369788625570,
-      "title": "Anthropic’s IPO is the next big test for AI",
-      "description": "Even the most powerful frontier labs must bend to the power of public equity",
-      "url": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-11-15T11:40:44",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:22.740531"
-    },
-    {
-      "id": -5828261618418587641,
+      "id": 7206494954774686587,
       "title": "The Stock Market Is Doing Something for Only the 6th Time in 156 Years, and History Says It's Clear What Comes Next for Stocks - The Motley Fool",
       "description": "The Stock Market Is Doing Something for Only the 6th Time in 156 Years, and History Says It's Clear What Comes Next for Stocks  The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDk0M3pBZFVxN2dFRjVfakVoM3FOeXI2YXY0ODFqbmtkbXZGdVEyaEs5dV8xWnhNd1V0WWZpOG5rc054aFZOR2RNUXpIVV9aUGprbzBjSUNuQXNpdzBtQlFJd2RGZDFUcDNrc3llMkVpcFl4Q1lTbFQ3YzJBbUN2dmFaWTJheVpha0pDcXRQaTJIb0oyZHQ0Z0pzZEdZemg1ME01dVd0TzY3SGlxTER6MnRNVFpSZ1R2M3NKT2h6TGJIM3BGYk5kTzBCYU5kWEtSUk1DeQ?oc=5",
@@ -228,34 +312,10 @@
       "category": "股市动态",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:15.749786"
+      "fetched_at": "2026-11-16T00:44:26.023841"
     },
     {
-      "id": -9076299127216940159,
-      "title": "AI Stock Declines Leave Technology Sector as Key Driver of US Equity Market - Yahoo Finance",
-      "description": "AI Stock Declines Leave Technology Sector as Key Driver of US Equity Market  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
-      "source": "Google News",
-      "published_at": "2026-11-15T11:15:00",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:15.751682"
-    },
-    {
-      "id": 7695882112018504477,
-      "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
-      "description": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
-      "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-11-15T11:00:04",
-      "category": "股市动态",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-11-15T18:26:22.740860"
-    },
-    {
-      "id": -7145515766404839795,
+      "id": 5637342206957803984,
       "title": "From culture war to class war: US Democrats ditch woke politics",
       "description": "The newly emboldened party shifts gears after its sweeping midterm election victory",
       "url": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
@@ -264,34 +324,34 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:22.740943"
+      "fetched_at": "2026-11-16T00:44:32.567914"
     },
     {
-      "id": 3604169746356579332,
-      "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
-      "description": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
-      "source": "Google News",
-      "published_at": "2026-11-15T09:26:02",
-      "category": "经济数据",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-11-15T18:26:15.752017"
+      "id": -678978260625330282,
+      "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+      "description": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
+      "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-11-15T11:00:04",
+      "category": "股市动态",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-11-16T00:44:32.568061"
     },
     {
-      "id": -164752717783845101,
-      "title": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens - Yahoo Finance",
-      "description": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlNXTTlPUTVmVVZ1aWgtYUVSUzduN2FVWUs0eThqODRtV0RjRHV5eE5iQmh6SHJnS0laX1JiU29Vd1M5ZS1WYTNoV1VhM1gzTzY1eFlRN0JWT2JjcXJiZm5JXy1vQzlsUW5YRFp3bmZjQ1p6WUNuV0NlZXBnR3RHLXczcVdFNjNPRmdGa3VyRnhPdXdN?oc=5",
+      "id": -6486711336408735834,
+      "title": "Should you buy Nvidia stock right now? - Yahoo Finance",
+      "description": "Should you buy Nvidia stock right now?  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWk5b2U5UXB0UncwYlJpQWRFZXFLMjZVSE9JS0JtUEVpQ2E3SjBVRS1EdzkwUW9RTWRHbVpEMzhtQldCTXJJZ180aVVUVGg0Q01XN3FhdFMyMGN3TGJoSk1CY1J1Vm9BWEN6dmVpbVotR3NKT3RJNWJJWkY1UllFSUQ1VGtQa0JKV0N4V1J6eHZNc1FwZmk2VmdpbXRJX3BtTWhF?oc=5",
       "source": "Google News",
-      "published_at": "2026-11-15T09:12:17",
+      "published_at": "2026-11-15T11:00:00",
       "category": "股市动态",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:15.751849"
+      "fetched_at": "2026-11-16T00:44:26.024643"
     },
     {
-      "id": -8965381317380331285,
+      "id": 191837988620857647,
       "title": "What might come first: a stock market crash or boom? - Yahoo Finance UK",
       "description": "What might come first: a stock market crash or boom?  Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHAwekVlNkp6SklQTmx2UkpLaloybWRTaHpueUl2VldnWWFiZ1MwcElfSVlxRXl4M3lSWFJjQVpSemVYR3VoRWdQd3dnYlZoRGhRY0FSZkExcjFGd0ZIUWRoYTVXNzJpNmVFU0JfTVNMb1FLYlRmLUxadTAwTVBVbGZMWU0?oc=5",
@@ -299,11 +359,11 @@
       "published_at": "2026-11-15T08:32:27",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:15.749528"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-11-16T00:44:26.023959"
     },
     {
-      "id": 2685578815551170851,
+      "id": -8764789615671772134,
       "title": "How Infantino flew his way out of a Fifa rebellion",
       "description": "Footballing president tours the world to shore up support for re-election after backlash to stake sale plan",
       "url": "https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1",
@@ -311,11 +371,11 @@
       "published_at": "2026-11-15T05:00:13",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:22.740703"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:32.567965"
     },
     {
-      "id": -5396877333965632611,
+      "id": -8854077974633750827,
       "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
       "description": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
       "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
@@ -323,11 +383,11 @@
       "published_at": "2026-11-15T05:00:04",
       "category": "股市动态",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:22.740782"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:32.568013"
     },
     {
-      "id": -6441910934468792027,
+      "id": -1080104495371970071,
       "title": "Nov. 25 Will Be a Critical Day for the Stock Market - Yahoo Finance",
       "description": "Nov. 25 Will Be a Critical Day for the Stock Market  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmZBRDFGMC1LS1dtTVZOU0ZsRUhpWHliUURJZmlqZkFPWENrdUJJbXpBeUM1Q0RISFZtMGRsQ0hjXy1IZEc3cndaVHNGdnc3dUhzSGxtbGFwN0lqUVFXa0Z5U3hCdkgwa2Jrd3h4VFFZbEppQk1yQjRwQ25pNXFYNnlrc0FSdFM2SFJKdjlXSDExaFRa?oc=5",
@@ -335,23 +395,11 @@
       "published_at": "2026-11-15T03:20:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:15.750567"
-    },
-    {
-      "id": 5756510858332584924,
-      "title": "The world according to China",
-      "description": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
-      "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-11-15T03:00:02",
-      "category": "综合财经",
-      "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:22.740620"
+      "fetched_at": "2026-11-16T00:44:26.024749"
     },
     {
-      "id": -5585543054686319131,
+      "id": -7076888896204924328,
       "title": "Beauty advent calendars can cost hundreds but are they value for money?",
       "description": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
       "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
@@ -359,11 +407,11 @@
       "published_at": "2026-11-15T00:01:07",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:20.016062"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:30.172007"
     },
     {
-      "id": 7736230399383757795,
+      "id": 4257415390994870006,
       "title": "SpaceX catches upper stage of Starship rocket in historic first",
       "description": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
       "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
@@ -372,34 +420,22 @@
       "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-11-15T18:26:21.075459"
+      "fetched_at": "2026-11-16T00:44:31.318488"
     },
     {
-      "id": 8409717877576364753,
-      "title": "One router overload brought US air travel to a standstill",
-      "description": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
-      "url": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-11-14T22:57:26",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:22.741119"
-    },
-    {
-      "id": 4670139429901822270,
-      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-      "description": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "id": 3055084785260475991,
+      "title": "$180 million Van Gogh tests the art market and collector confidence ",
+      "description": "The art auctions in New York next week could top $2 billion, as a treasure trove of masterpieces comes to the market for the first time in decades.",
+      "url": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
       "source": "CNBC",
-      "published_at": "2026-11-14T17:46:06",
+      "published_at": "2026-11-14T22:34:07",
       "category": "股市动态",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:21.075618"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-11-16T00:44:31.318642"
     },
     {
-      "id": -3355629286439517716,
+      "id": -343524495282272462,
       "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
       "description": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
       "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
@@ -407,11 +443,11 @@
       "published_at": "2026-11-14T14:54:22",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:21.075700"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:31.318597"
     },
     {
-      "id": 4555273336416362624,
+      "id": -8863348284982149026,
       "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
       "description": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
       "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
@@ -420,22 +456,10 @@
       "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:21.075375"
+      "fetched_at": "2026-11-16T00:44:31.318376"
     },
     {
-      "id": -9011327328073750292,
-      "title": "Prediction: Nov. 18 Will Be a Massive Day for the Stock Market - Yahoo Finance",
-      "description": "Prediction: Nov. 18 Will Be a Massive Day for the Stock Market  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXlDZ3FNZGJ5SldRNnRBNUtmdG04bDFsWm9YdWh2ZHFWelJ1NDNnWmlqUUc3Ymp0RTFpV1RjblV1T1JYbWlPWFNzVGhGZXFzMkdzSmYtanY4b0VTWXc3dTZNQ2c0RWJaNEJaVGo4VU1KYkEzZGZBY1BqdlpBX3NibXhOS1h2aHppV2ZJWnRLUWRqODF0TVUxcWhn?oc=5",
-      "source": "Google News",
-      "published_at": "2026-11-14T09:30:02",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:15.750742"
-    },
-    {
-      "id": 745986941691997094,
+      "id": 2700597348753419652,
       "title": "Microsoft says services fully restored after day-long global outage",
       "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
@@ -444,10 +468,10 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:20.016230"
+      "fetched_at": "2026-11-16T00:44:30.172111"
     },
     {
-      "id": 2181820260453086995,
+      "id": 7512219287032024048,
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
       "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
@@ -455,11 +479,11 @@
       "published_at": "2026-11-13T23:00:31",
       "category": "国际贸易",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:20.016147"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:30.172059"
     },
     {
-      "id": 7842205702925535332,
+      "id": 7622727123750023450,
       "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
       "description": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
@@ -467,11 +491,11 @@
       "published_at": "2026-11-13T19:53:57",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-11-15T18:26:20.016575"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:30.172213"
     },
     {
-      "id": 7254599647463627217,
+      "id": -6052940481606436564,
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
@@ -480,22 +504,10 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:20.016494"
+      "fetched_at": "2026-11-16T00:44:30.172162"
     },
     {
-      "id": 4647995074680259485,
-      "title": "Heat pumps: How much heat does your home really need?",
-      "description": "Knowing how much heat your home loses is important before installing a new heating system.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-11-13T09:29:25",
-      "category": "国际贸易",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:20.016329"
-    },
-    {
-      "id": -7743917054956285049,
+      "id": 1355113542240621568,
       "title": "If a Stock Market Crash Is Coming, Warren Buffett’s 6-Word Advice Is the Smartest Move You Can Make - Yahoo Finance",
       "description": "If a Stock Market Crash Is Coming, Warren Buffett’s 6-Word Advice Is the Smartest Move You Can Make  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGd6NnRDZHRCX1N0d1daUGVTMTNac3RLNThFR2tUak5kcWJGamVnRGNNaUZsSDgxVTdfR205LWhHNW9icVhxRzVoMmFObEpUdXo4dmtEc1dabHFGWkJXVWk4MkNCV1NSNkdhQnRjdkhNUS04YUMyaUNuZmtQUE5ieXdPM2Z1NFlBa0QwMDFwNTVOVkZGYXFzLVVqTlVjZw?oc=5",
@@ -503,11 +515,11 @@
       "published_at": "2026-11-13T07:29:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-11-15T18:26:15.751101"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:26.024430"
     },
     {
-      "id": 5142225142975925091,
+      "id": 6006546616382716742,
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
       "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
@@ -515,23 +527,11 @@
       "published_at": "2026-11-13T03:57:01",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-11-15T18:26:20.016657"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-11-16T00:44:30.172279"
     },
     {
-      "id": -2860935865457757781,
-      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-      "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-11-13T00:13:35",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-11-15T18:26:20.016415"
-    },
-    {
-      "id": 1420808945058856645,
+      "id": 217435340029541114,
       "title": "Is the stock market open on Veterans Day? - Yahoo Finance",
       "description": "Is the stock market open on Veterans Day?  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmw1Y1BTZHdPT1BpakVXMnhWN005Mlo3NHhsblZ4a2FlUUdId2I0NTQtN05RZkZwMjlnUHp1S2F3UTFPZ2NaUV9jUktNZEdwNU5tS3BTOFo4amhhSExiTU5aNHl4alZzTF95Vm94eWJTSktyLUc5SXFSUmQwcl9LbC1CSlJ6cVdSNnFWeFZ6OC0xVF9VWEZKVFJYYkFfZk9IcTA0cXlFUUZSXzJlelkyeW5lRXJHU0E?oc=5",
@@ -539,8 +539,8 @@
       "published_at": "2026-11-10T13:11:39",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-11-15T18:26:15.751507"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-11-16T00:44:26.024851"
     }
   ]
 }

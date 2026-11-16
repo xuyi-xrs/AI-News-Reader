@@ -1,27 +1,25 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
+    "✓ 综合财经: Japan's economy unexpectedly contracts in third-quarter as e...",
+    "✓ 综合财经: Johnson & Johnson looking to buy eye disease biotech for up ...",
     "✓ 货币政策: 'We slept here': Flight delays linger but schedule is back o...",
-    "✓ 综合财经: Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outsid...",
-    "✓ 综合财经: US and allies sign accord to protect AI supply chains from C...",
-    "✓ 国际贸易: Bessent says Nvidia needs ‘shake-up’ with external CEO ...",
-    "✓ 综合财经: Trump breaks silence about FAA nationwide ground stop, blame..."
+    "✓ 综合财经: Suspected China spy linked to Nvidia's ex-boss left in 2025,...",
+    "✓ 综合财经: Jensen Huang discusses comeback as Nvidia CEO with allies..."
   ],
-  "positive_count": 11,
-  "negative_count": 4,
-  "neutral_count": 15,
+  "positive_count": 12,
+  "negative_count": 2,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-15T18:26:24.857260",
+  "analyzed_at": "2026-11-16T00:44:34.724706",
   "categories_distribution": {
-    "货币政策": 2,
-    "综合财经": 21,
+    "综合财经": 25,
     "股市动态": 16,
-    "国际贸易": 4,
-    "数字货币": 1,
-    "经济数据": 1
+    "货币政策": 1,
+    "国际贸易": 3
   },
   "ai_provider": "fallback_rules"
 }
