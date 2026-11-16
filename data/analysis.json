@@ -1,25 +1,27 @@
 {
-  "temperature_score": 66.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 45.0,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✓ 综合财经: Japan's economy unexpectedly contracts in third-quarter as e...",
-    "✓ 综合财经: Johnson & Johnson looking to buy eye disease biotech for up ...",
-    "✓ 货币政策: 'We slept here': Flight delays linger but schedule is back o...",
-    "✓ 综合财经: Suspected China spy linked to Nvidia's ex-boss left in 2025,...",
-    "✓ 综合财经: Jensen Huang discusses comeback as Nvidia CEO with allies..."
+    "✓ 综合财经: Brussels to propose €45bn Ukraine loan borrowed against EU b...",
+    "✗ 综合财经: What happens when the migrants stop coming?...",
+    "✗ 股市动态: Stocks decline in Asia as investor concerns over Nvidia fall...",
+    "✗ 股市动态: Accounting student’s AI cheating sparks South Korean exam fu...",
+    "✗ 股市动态: Dow Jones Futures: Techs Fall As Jensen Huang Mulls Nvidia R..."
   ],
-  "positive_count": 12,
-  "negative_count": 2,
-  "neutral_count": 16,
+  "positive_count": 5,
+  "negative_count": 8,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-16T00:44:34.724706",
+  "analyzed_at": "2026-11-16T08:04:19.221648",
   "categories_distribution": {
-    "综合财经": 25,
-    "股市动态": 16,
-    "货币政策": 1,
-    "国际贸易": 3
+    "股市动态": 17,
+    "综合财经": 20,
+    "外汇市场": 1,
+    "国际贸易": 3,
+    "经济数据": 3,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
