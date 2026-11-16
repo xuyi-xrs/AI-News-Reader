@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-16T02:35:23.097279",
+  "updated_at": "2026-11-16T05:00:17.649994",
   "analysis": [
     {
       "code": "159770",
       "name": "机器人ETF",
       "sentiment": {
-        "score": 57,
-        "sentiment": "偏多",
-        "emoji": "😊"
+        "score": 44,
+        "sentiment": "中性",
+        "emoji": "😐"
       },
       "signal": {
-        "action": "建议买入",
-        "action_code": "buy",
-        "confidence": 75,
-        "buy_signals": 3,
-        "sell_signals": 0
+        "action": "建议持有",
+        "action_code": "hold",
+        "confidence": 60,
+        "buy_signals": 0,
+        "sell_signals": 2
       },
       "risks": [
         {
-          "level": "low",
-          "type": "常规风险",
-          "description": "当前无明显技术风险，但仍需关注市场整体走势和政策变化"
+          "level": "medium",
+          "type": "估值风险",
+          "description": "价格突破布林带上轨，短期涨幅过大，注意回调风险"
         }
       ],
       "realtime": {
@@ -28,33 +28,17 @@
         "name": "机器人AI",
         "open": 0.882,
         "pre_close": 0.888,
-        "current": 0.87,
+        "current": 0.872,
         "high": 0.882,
         "low": 0.858,
-        "volume": 72683400,
-        "amount": 63042789.5,
+        "volume": 97544258,
+        "amount": 84795304.902,
         "date": "2026-11-16",
-        "time": "10:35:03",
-        "change": -0.018,
-        "change_percent": -2.03
+        "time": "11:30:00",
+        "change": -0.016,
+        "change_percent": -1.8
       },
-      "indicators": {
-        "ma5": 0.904,
-        "ma10": 0.901,
-        "ma20": 0.894,
-        "rsi": 48.09,
-        "macd": {
-          "dif": 0.0085,
-          "dea": 0.0068,
-          "macd": 0.0034
-        },
-        "bollinger": {
-          "upper": 0.941,
-          "middle": 0.894,
-          "lower": 0.847
-        },
-        "volume_change": -47.47
-      }
+      "indicators": {}
     },
     {
       "code": "515860",
@@ -83,15 +67,15 @@
         "name": "科技ETF嘉实",
         "open": 1.645,
         "pre_close": 1.657,
-        "current": 1.626,
+        "current": 1.631,
         "high": 1.645,
         "low": 1.622,
-        "volume": 1300800,
-        "amount": 2119708.0,
+        "volume": 2445500,
+        "amount": 3983497.0,
         "date": "2026-11-16",
-        "time": "10:35:13",
-        "change": -0.031,
-        "change_percent": -1.87
+        "time": "13:00:07",
+        "change": -0.026,
+        "change_percent": -1.57
       },
       "indicators": {}
     }
@@ -99,8 +83,8 @@
   "ai_analysis": null,
   "summary": {
     "total_etfs": 2,
-    "buy_count": 1,
-    "hold_count": 1,
+    "buy_count": 0,
+    "hold_count": 2,
     "sell_count": 0
   }
 }

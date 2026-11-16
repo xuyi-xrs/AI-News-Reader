@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T02:35:22.988600",
+  "updated_at": "2026-11-16T05:00:17.544913",
   "etfs": [
     {
       "code": "159770",
@@ -10,137 +10,20 @@
         "name": "机器人AI",
         "open": 0.882,
         "pre_close": 0.888,
-        "current": 0.87,
+        "current": 0.872,
         "high": 0.882,
         "low": 0.858,
-        "volume": 72683400,
-        "amount": 63042789.5,
+        "volume": 97544258,
+        "amount": 84795304.902,
         "date": "2026-11-16",
-        "time": "10:35:03",
-        "change": -0.018,
-        "change_percent": -2.03
+        "time": "11:30:00",
+        "change": -0.016,
+        "change_percent": -1.8
       },
-      "historical": [
-        {
-          "date": "2026-11-03",
-          "open": 0.872,
-          "close": 0.861,
-          "high": 0.883,
-          "low": 0.856,
-          "volume": 1711398,
-          "amount": 149244096.124,
-          "change_percent": -1.94
-        },
-        {
-          "date": "2026-11-04",
-          "open": 0.86,
-          "close": 0.905,
-          "high": 0.907,
-          "low": 0.85,
-          "volume": 2386724,
-          "amount": 210234595.8,
-          "change_percent": 5.11
-        },
-        {
-          "date": "2026-11-05",
-          "open": 0.894,
-          "close": 0.923,
-          "high": 0.934,
-          "low": 0.892,
-          "volume": 1578567,
-          "amount": 144465534.978,
-          "change_percent": 1.99
-        },
-        {
-          "date": "2026-11-06",
-          "open": 0.899,
-          "close": 0.895,
-          "high": 0.91,
-          "low": 0.887,
-          "volume": 1740939,
-          "amount": 156490602.5,
-          "change_percent": -3.03
-        },
-        {
-          "date": "2026-11-09",
-          "open": 0.907,
-          "close": 0.908,
-          "high": 0.931,
-          "low": 0.901,
-          "volume": 1398395,
-          "amount": 128053463.6,
-          "change_percent": 1.45
-        },
-        {
-          "date": "2026-11-10",
-          "open": 0.919,
-          "close": 0.924,
-          "high": 0.938,
-          "low": 0.918,
-          "volume": 1483445,
-          "amount": 137791152.0,
-          "change_percent": 1.76
-        },
-        {
-          "date": "2026-11-11",
-          "open": 0.921,
-          "close": 0.938,
-          "high": 0.943,
-          "low": 0.918,
-          "volume": 1460690,
-          "amount": 136526033.25,
-          "change_percent": 1.52
-        },
-        {
-          "date": "2026-11-12",
-          "open": 0.938,
-          "close": 0.9,
-          "high": 0.938,
-          "low": 0.897,
-          "volume": 1817542,
-          "amount": 166666379.6,
-          "change_percent": -4.05
-        },
-        {
-          "date": "2026-11-13",
-          "open": 0.9,
-          "close": 0.888,
-          "high": 0.912,
-          "low": 0.882,
-          "volume": 1383641,
-          "amount": 124114933.7,
-          "change_percent": -1.33
-        },
-        {
-          "date": "2026-11-16",
-          "open": 0.882,
-          "close": 0.87,
-          "high": 0.882,
-          "low": 0.858,
-          "volume": 726834,
-          "amount": 63042789.5,
-          "change_percent": -2.03
-        }
-      ],
-      "indicators": {
-        "ma5": 0.904,
-        "ma10": 0.901,
-        "ma20": 0.894,
-        "rsi": 48.09,
-        "macd": {
-          "dif": 0.0085,
-          "dea": 0.0068,
-          "macd": 0.0034
-        },
-        "bollinger": {
-          "upper": 0.941,
-          "middle": 0.894,
-          "lower": 0.847
-        },
-        "volume_change": -47.47
-      },
+      "historical": [],
+      "indicators": {},
       "news": [],
-      "updated_at": "2026-11-16T02:35:15.288631"
+      "updated_at": "2026-11-16T05:00:09.623315"
     },
     {
       "code": "515860",
@@ -151,20 +34,20 @@
         "name": "科技ETF嘉实",
         "open": 1.645,
         "pre_close": 1.657,
-        "current": 1.626,
+        "current": 1.631,
         "high": 1.645,
         "low": 1.622,
-        "volume": 1300800,
-        "amount": 2119708.0,
+        "volume": 2445500,
+        "amount": 3983497.0,
         "date": "2026-11-16",
-        "time": "10:35:13",
-        "change": -0.031,
-        "change_percent": -1.87
+        "time": "13:00:07",
+        "change": -0.026,
+        "change_percent": -1.57
       },
       "historical": [],
       "indicators": {},
       "news": [],
-      "updated_at": "2026-11-16T02:35:22.988464"
+      "updated_at": "2026-11-16T05:00:17.544839"
     }
   ]
 }
