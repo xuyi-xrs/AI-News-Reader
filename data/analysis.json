@@ -1,27 +1,27 @@
 {
-  "temperature_score": 45.0,
+  "temperature_score": 43.33,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比9/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✓ 综合财经: Brussels to propose €45bn Ukraine loan borrowed against EU b...",
-    "✗ 综合财经: What happens when the migrants stop coming?...",
-    "✗ 股市动态: Stocks decline in Asia as investor concerns over Nvidia fall...",
-    "✗ 股市动态: Accounting student’s AI cheating sparks South Korean exam fu...",
-    "✗ 股市动态: Dow Jones Futures: Techs Fall As Jensen Huang Mulls Nvidia R..."
+    "✗ 股市动态: Nvidia fallout: Commerce cracks down on third-country loopho...",
+    "✗ 数字货币: Bitcoin slides to $62,000 following liquidation cascade, the...",
+    "✓ 货币政策: 'We slept here': Flight delays linger as airlines recover fr...",
+    "✗ 股市动态: US tech stocks set to open lower amid Nvidia fallout...",
+    "✗ 股市动态: A major NFT marketplace is shutting down—5 years after the b..."
   ],
   "positive_count": 5,
-  "negative_count": 8,
-  "neutral_count": 17,
+  "negative_count": 9,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-16T08:04:19.221648",
+  "analyzed_at": "2026-11-16T14:41:09.337184",
   "categories_distribution": {
     "股市动态": 17,
+    "数字货币": 1,
+    "货币政策": 2,
     "综合财经": 20,
-    "外汇市场": 1,
-    "国际贸易": 3,
-    "经济数据": 3,
-    "货币政策": 1
+    "经济数据": 2,
+    "国际贸易": 3
   },
   "ai_provider": "fallback_rules"
 }
