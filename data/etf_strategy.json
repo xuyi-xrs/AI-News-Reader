@@ -1,52 +1,68 @@
 {
-  "updated_at": "2026-11-16T09:17:40.973452",
+  "updated_at": "2026-11-17T02:30:32.873785",
   "analysis": [
     {
       "code": "159770",
       "name": "机器人ETF",
       "sentiment": {
-        "score": 37,
-        "sentiment": "偏空",
-        "emoji": "😟"
+        "score": 54,
+        "sentiment": "偏多",
+        "emoji": "😊"
       },
       "signal": {
-        "action": "建议持有",
-        "action_code": "hold",
-        "confidence": 60,
-        "buy_signals": 0,
-        "sell_signals": 2
+        "action": "建议买入",
+        "action_code": "buy",
+        "confidence": 75,
+        "buy_signals": 3,
+        "sell_signals": 0
       },
       "risks": [
         {
-          "level": "medium",
-          "type": "估值风险",
-          "description": "价格突破布林带上轨，短期涨幅过大，注意回调风险"
+          "level": "low",
+          "type": "常规风险",
+          "description": "当前无明显技术风险，但仍需关注市场整体走势和政策变化"
         }
       ],
       "realtime": {
         "code": "159770",
         "name": "机器人AI",
-        "open": 0.882,
-        "pre_close": 0.888,
-        "current": 0.86,
-        "high": 0.882,
-        "low": 0.853,
-        "volume": 146445258,
-        "amount": 126871652.402,
-        "date": "2026-11-16",
-        "time": "15:35:45",
-        "change": -0.028,
-        "change_percent": -3.15
+        "open": 0.85,
+        "pre_close": 0.86,
+        "current": 0.847,
+        "high": 0.859,
+        "low": 0.838,
+        "volume": 88976200,
+        "amount": 75296211.5,
+        "date": "2026-11-17",
+        "time": "10:30:12",
+        "change": -0.013,
+        "change_percent": -1.51
       },
-      "indicators": {}
+      "indicators": {
+        "ma5": 0.887,
+        "ma10": 0.899,
+        "ma20": 0.892,
+        "rsi": 38.08,
+        "macd": {
+          "dif": 0.0058,
+          "dea": 0.0046,
+          "macd": 0.0023
+        },
+        "bollinger": {
+          "upper": 0.944,
+          "middle": 0.892,
+          "lower": 0.84
+        },
+        "volume_change": -39.24
+      }
     },
     {
       "code": "515860",
       "name": "信创ETF",
       "sentiment": {
-        "score": 37,
-        "sentiment": "偏空",
-        "emoji": "😟"
+        "score": 44,
+        "sentiment": "中性",
+        "emoji": "😐"
       },
       "signal": {
         "action": "建议持有",
@@ -65,17 +81,17 @@
       "realtime": {
         "code": "515860",
         "name": "科技ETF嘉实",
-        "open": 1.645,
-        "pre_close": 1.657,
-        "current": 1.606,
-        "high": 1.645,
-        "low": 1.6,
-        "volume": 3199100,
-        "amount": 5200818.0,
-        "date": "2026-11-16",
-        "time": "15:00:02",
-        "change": -0.051,
-        "change_percent": -3.08
+        "open": 1.605,
+        "pre_close": 1.606,
+        "current": 1.602,
+        "high": 1.605,
+        "low": 1.59,
+        "volume": 981000,
+        "amount": 1567663.0,
+        "date": "2026-11-17",
+        "time": "10:30:19",
+        "change": -0.004,
+        "change_percent": -0.25
       },
       "indicators": {}
     }
@@ -83,8 +99,8 @@
   "ai_analysis": null,
   "summary": {
     "total_etfs": 2,
-    "buy_count": 0,
-    "hold_count": 2,
+    "buy_count": 1,
+    "hold_count": 1,
     "sell_count": 0
   }
 }
