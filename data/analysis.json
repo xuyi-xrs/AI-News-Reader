@@ -1,26 +1,28 @@
 {
-  "temperature_score": 40.0,
+  "temperature_score": 46.67,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比11/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比7/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✓ 国际贸易: OpenAI inks agreements with four independent evaluators to b...",
-    "✓ 股市动态: Prediction: Nvidia Stock Will Beat the Market Over the Next ...",
-    "✗ 股市动态: The Stock Market’s Biggest Risk Isn’t a Crash. It’s What Inv...",
-    "✗ 股市动态: Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street ...",
-    "✗ 股市动态: US tech stocks slide amid Nvidia fallout..."
+    "✓ 综合财经: Aged 16-24 and looking for work? Use our look-up to find out...",
+    "✗ 股市动态: Stock Market Today, Nov. 16: IREN Slides as Neocloud Weaknes...",
+    "✓ 股市动态: Aschenbrenner’s Situational Awareness made AI bets again bef...",
+    "✓ 外汇市场: CNBC's The China Connection newsletter: As Nike and Lululemo...",
+    "✓ 货币政策: Trump’s accounts traded up to $97.5 million in Nvidia as Hua..."
   ],
   "positive_count": 5,
-  "negative_count": 11,
-  "neutral_count": 14,
+  "negative_count": 7,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-16T18:41:13.395117",
+  "analyzed_at": "2026-11-17T00:36:34.899236",
   "categories_distribution": {
-    "综合财经": 23,
-    "国际贸易": 3,
-    "股市动态": 17,
-    "经济数据": 1,
-    "货币政策": 1
+    "综合财经": 18,
+    "股市动态": 18,
+    "外汇市场": 1,
+    "货币政策": 3,
+    "大宗商品": 2,
+    "经济数据": 2,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
