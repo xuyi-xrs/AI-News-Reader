@@ -2,26 +2,25 @@
   "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Stock market drops amid continued Nvidia fallout - The Washi...",
-    "✓ 综合财经: Iran escalates threats as third U.S. carrier arrives in Midd...",
-    "✗ 股市动态: Tech sell-off deepens as Nvidia results loom...",
-    "✗ 综合财经: Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs...",
-    "✓ 综合财经: Aged 16-24 and looking for work? Use our look-up to find out..."
+    "✓ 综合财经: Ukraine damages Putin’s prized Crimea bridge as Zelenskyy la...",
+    "✗ 股市动态: AI grapples with the return of the Antichrist...",
+    "✓ 综合财经: Disney beats fourth-quarter estimates, targets $3 billion in...",
+    "✗ 股市动态: Why Is Intel Stock Falling 3.1% in Pre-Market Trading? - Yah...",
+    "✓ 国际贸易: Nvidia creates committee to oversee compliance with US chip ..."
   ],
-  "positive_count": 6,
-  "negative_count": 5,
-  "neutral_count": 19,
+  "positive_count": 5,
+  "negative_count": 4,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-17T06:54:07.135432",
+  "analyzed_at": "2026-11-17T12:44:39.910493",
   "categories_distribution": {
     "综合财经": 19,
-    "经济数据": 1,
-    "股市动态": 16,
-    "国际贸易": 3,
-    "外汇市场": 2,
-    "货币政策": 4
+    "股市动态": 15,
+    "货币政策": 4,
+    "国际贸易": 6,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
