@@ -1,44 +1,40 @@
 {
-  "temperature_score": 55.0,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
+  "temperature_score": 43.3,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
   "investment_advice": {
-    "overall_rating": "中性观望",
-    "risk_level": "中高风险",
-    "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻9条，消极新闻6条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "overall_rating": "谨慎看空",
+    "risk_level": "高风险",
+    "recommendation": "建议减持",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较大挑战（消极新闻8条，占比26.7%）。多项负面因素叠加，市场情绪悲观，建议谨慎对待，适度降低仓位。",
     "key_opportunities": [
-      "估值处于相对合理区间",
-      "长期基本面仍然稳固"
+      "估值可能已经反映部分负面因素",
+      "危机中可能孕育转机"
     ],
     "key_risks": [
-      "短期业绩压力较大",
-      "监管政策影响持续",
-      "市场竞争加剧",
-      "宏观经济环境不确定"
+      "监管压力持续加大",
+      "核心业务增长受阻",
+      "市场份额流失风险",
+      "投资者信心不足",
+      "股价可能继续承压"
     ],
     "action_items": [
-      "建议暂时观望，不建议新增仓位",
-      "已持有者可考虑减持至5-10%仓位",
-      "设置严格止损，建议在下跌10%时止损",
-      "等待明确的转机信号再考虑入场"
+      "建议减持至3-5%以下仓位或清仓",
+      "避免抄底，等待明确的底部信号",
+      "关注政策面和基本面的重大变化",
+      "可考虑转向其他更稳健的投资标的"
     ]
   },
   "key_factors": [
-    {
-      "type": "positive",
-      "category": "云服务",
-      "title": "Tencent Cloud and Teleport Collaborate to Advance AI-Powered Cross-Border Logist"
-    },
     {
       "type": "positive",
       "category": "AI技术",
       "title": "Moonshot, Tencent and Zhipu trim hacking skills from new Chinese AI models - Sta"
     },
     {
-      "type": "positive",
+      "type": "negative",
       "category": "AI技术",
-      "title": "Tencent Marks 28th Anniversary With Internal Letter, Casting AI Transformation a"
+      "title": "Tencent launches lower-cost Hy4 Flash AI model - Tech in Asia"
     },
     {
       "type": "negative",
@@ -51,61 +47,65 @@
       "title": "Tencent Launches Hy4 Flash as a Lower-Cost Multimodal Model - Unite.AI"
     },
     {
-      "type": "positive",
-      "category": "股市表现",
-      "title": "Tencent Shares Slid Even Though Profit Rose - Yahoo Finance"
-    },
-    {
-      "type": "positive",
-      "category": "综合动态",
-      "title": "Tencent and Shenzhen Media Group Power APEC News - Content + Technology"
+      "type": "negative",
+      "category": "AI技术",
+      "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in "
     },
     {
       "type": "positive",
       "category": "AI技术",
       "title": "The AI start-ups fixing India's broken roads and messy land records"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout"
     }
   ],
-  "positive_count": 9,
-  "negative_count": 6,
-  "neutral_count": 15,
+  "positive_count": 4,
+  "negative_count": 8,
+  "neutral_count": 18,
   "analyzed_news_count": 50,
-  "analyzed_at": "2026-11-17T00:51:39.675913",
+  "analyzed_at": "2026-11-17T07:03:32.907899",
   "categories_distribution": {
-    "云服务": 3,
+    "云服务": 2,
     "AI技术": 30,
     "股市表现": 4,
-    "综合动态": 1,
-    "游戏业务": 2,
+    "综合动态": 2,
+    "游戏业务": 3,
     "元宇宙": 8,
-    "社交平台": 1,
-    "政策监管": 1
+    "社交平台": 1
   },
   "category_sentiment": {
     "云服务": {
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
       "neutral": 1
     },
     "AI技术": {
-      "positive": 6,
-      "negative": 5,
-      "neutral": 13
+      "positive": 4,
+      "negative": 7,
+      "neutral": 12
     },
     "股市表现": {
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
-      "neutral": 0
+      "neutral": 1
     },
     "综合动态": {
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
-      "neutral": 0
+      "neutral": 2
     },
     "游戏业务": {
       "positive": 0,
       "negative": 0,
-      "neutral": 1
+      "neutral": 2
     },
     "元宇宙": {
       "positive": 0,
