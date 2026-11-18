@@ -1,26 +1,27 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 国际贸易: Japan exports in October surge 20.5%, beating estimates on r...",
-    "✓ 综合财经: Nvidia says it won't reinstate Huang as firm reports bumper ...",
-    "✗ 股市动态: AAOI Stock Tumbles After-Hours On Fresh $550M At-The-Market ...",
-    "✓ 综合财经: Nvidia insists Huang will not return as CEO as it reports st...",
-    "✓ 综合财经: Widespread outages hit banks, air travel, the NSA and Apple,..."
+    "✓ 综合财经: Security flaw found in Java, world's third-largest programmi...",
+    "✗ 综合财经: Iran says army targets U.S. drone and missile sites in Kuwai...",
+    "✓ 经济数据: Wall Street expects corporate earnings growth to halve next ...",
+    "✓ 综合财经: Jeff Bezos says he was 'heavily involved' in casting Robert ...",
+    "✗ 股市动态: China’s Xi calls for removing trade and investment barriers ..."
   ],
-  "positive_count": 9,
-  "negative_count": 7,
+  "positive_count": 11,
+  "negative_count": 5,
   "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-18T00:43:51.806000",
+  "analyzed_at": "2026-11-18T06:53:54.429708",
   "categories_distribution": {
-    "国际贸易": 5,
-    "综合财经": 20,
-    "外汇市场": 1,
+    "综合财经": 22,
+    "国际贸易": 2,
+    "货币政策": 3,
+    "经济数据": 1,
     "股市动态": 16,
-    "货币政策": 3
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
