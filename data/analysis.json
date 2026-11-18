@@ -1,26 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Security flaw found in Java, world's third-largest programmi...",
-    "✗ 综合财经: Iran says army targets U.S. drone and missile sites in Kuwai...",
-    "✓ 经济数据: Wall Street expects corporate earnings growth to halve next ...",
-    "✓ 综合财经: Jeff Bezos says he was 'heavily involved' in casting Robert ...",
-    "✗ 股市动态: China’s Xi calls for removing trade and investment barriers ..."
+    "✓ 经济数据: Target posts best sales growth in five years, raises guidanc...",
+    "✓ 股市动态: Lowe's posts strong online sales, raises outlook despite slo...",
+    "✓ 经济数据: Energy bills forecast to go up by £443 a year from January a...",
+    "✓ 股市动态: Stock Market Correction: 2 AI Stocks With 130% and 160% Upsi...",
+    "✓ 综合财经: Security flaw found in Java, world's third-largest programmi..."
   ],
-  "positive_count": 11,
-  "negative_count": 5,
-  "neutral_count": 14,
+  "positive_count": 7,
+  "negative_count": 0,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-18T06:53:54.429708",
+  "analyzed_at": "2026-11-18T12:51:03.160709",
   "categories_distribution": {
-    "综合财经": 22,
-    "国际贸易": 2,
-    "货币政策": 3,
-    "经济数据": 1,
+    "货币政策": 4,
+    "综合财经": 20,
+    "经济数据": 3,
     "股市动态": 16,
+    "国际贸易": 1,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
