@@ -6,7 +6,7 @@
     "overall_rating": "谨慎看好",
     "risk_level": "中等风险",
     "recommendation": "建议持有",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻11条，消极新闻5条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻9条，消极新闻3条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
     "key_opportunities": [
       "核心业务保持稳定增长",
       "新业务布局逐步显现成效",
@@ -33,11 +33,6 @@
     {
       "type": "positive",
       "category": "数字内容",
-      "title": "Tencent Music Entertainment Group reports results for the quarter ended Septembe"
-    },
-    {
-      "type": "positive",
-      "category": "数字内容",
       "title": "Tencent Music Entertainment Group Q3 Earnings Call Highlights - Yahoo Finance"
     },
     {
@@ -47,52 +42,69 @@
     },
     {
       "type": "negative",
-      "category": "数字内容",
-      "title": "Tencent Music doubles down on K-pop content with an early-release window for mus"
-    },
-    {
-      "type": "negative",
       "category": "AI技术",
       "title": "Tencent extends losses to eighth straight session (TCEHY:OTCMKTS) - Seeking Alph"
     },
     {
       "type": "positive",
       "category": "数字内容",
-      "title": "Tencent Music Q3 revenue falls short of estimates, earnings beat (TME:NYSE) - Se"
+      "title": "Blackpink’s Jisoo Gets Early Release Window on Tencent Music as Revenue Rises 5."
     },
     {
       "type": "positive",
-      "category": "数字内容",
-      "title": "Blackpink’s Jisoo Gets Early Release Window on Tencent Music as Revenue Rises 5."
+      "category": "云服务",
+      "title": "Tencent Cloud and Teleport Collaborate to Advance AI-Powered Cross-Border Logist"
+    },
+    {
+      "type": "positive",
+      "category": "云服务",
+      "title": "Tencent Cloud Completes Enterprise Data Platform Consolidation for Makro - The F"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Security flaw found in Java, world's third-largest programming language "
     }
   ],
-  "positive_count": 11,
-  "negative_count": 5,
-  "neutral_count": 14,
+  "positive_count": 9,
+  "negative_count": 3,
+  "neutral_count": 18,
   "analyzed_news_count": 50,
-  "analyzed_at": "2026-11-18T00:57:55.379261",
+  "analyzed_at": "2026-11-18T07:02:44.238881",
   "categories_distribution": {
-    "数字内容": 8,
-    "AI技术": 31,
+    "数字内容": 6,
     "游戏业务": 3,
+    "AI技术": 32,
+    "云服务": 2,
+    "综合动态": 1,
     "股市表现": 1,
-    "元宇宙": 7
+    "元宇宙": 5
   },
   "category_sentiment": {
     "数字内容": {
-      "positive": 7,
-      "negative": 1,
-      "neutral": 0
-    },
-    "AI技术": {
       "positive": 4,
-      "negative": 4,
-      "neutral": 12
+      "negative": 0,
+      "neutral": 2
     },
     "游戏业务": {
       "positive": 0,
       "negative": 0,
       "neutral": 2
+    },
+    "AI技术": {
+      "positive": 3,
+      "negative": 3,
+      "neutral": 13
+    },
+    "云服务": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "综合动态": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
     }
   }
 }
