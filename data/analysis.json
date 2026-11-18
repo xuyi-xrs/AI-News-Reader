@@ -1,26 +1,26 @@
 {
-  "temperature_score": 43.33,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 53.33,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Kalshi takes down controversial Trump 'mention' markets at C...",
-    "✓ 综合财经: Former Nvidia CEO Jensen Huang says he’s open to returning i...",
-    "✗ 综合财经: U.S. officially loses measles elimination status amid ongoin...",
-    "✗ 股市动态: US tech stocks slide ahead of Nvidia results...",
-    "✓ 综合财经: Nvidia stopped disclosing Singapore sales as revenues hit $1..."
+    "✓ 国际贸易: Japan exports in October surge 20.5%, beating estimates on r...",
+    "✓ 综合财经: Nvidia says it won't reinstate Huang as firm reports bumper ...",
+    "✗ 股市动态: AAOI Stock Tumbles After-Hours On Fresh $550M At-The-Market ...",
+    "✓ 综合财经: Nvidia insists Huang will not return as CEO as it reports st...",
+    "✓ 综合财经: Widespread outages hit banks, air travel, the NSA and Apple,..."
   ],
-  "positive_count": 4,
-  "negative_count": 8,
-  "neutral_count": 18,
+  "positive_count": 9,
+  "negative_count": 7,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-17T18:44:01.690638",
+  "analyzed_at": "2026-11-18T00:43:51.806000",
   "categories_distribution": {
-    "股市动态": 17,
+    "国际贸易": 5,
     "综合财经": 20,
-    "货币政策": 4,
-    "国际贸易": 3,
-    "外汇市场": 1
+    "外汇市场": 1,
+    "股市动态": 16,
+    "货币政策": 3
   },
   "ai_provider": "fallback_rules"
 }
