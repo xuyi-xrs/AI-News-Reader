@@ -1,12 +1,12 @@
 {
-  "temperature_score": 58.3,
+  "temperature_score": 56.7,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻11条，消极新闻6条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻11条，消极新闻7条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -28,12 +28,7 @@
     {
       "type": "positive",
       "category": "数字内容",
-      "title": "Tencent Music Stocks Jump 6.64% as Membership Revenue Climbs 9.2% - TradingView"
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Tencent minimizes impact of US restrictions on AI chips - marketscreener.com"
+      "title": "Blackpink’s Jisoo Gets Early Release Window on Tencent Music as Revenue Rises 5."
     },
     {
       "type": "negative",
@@ -53,6 +48,11 @@
     {
       "type": "negative",
       "category": "AI技术",
+      "title": "Tencent Stocks Fall 3.53% as AI Spending Drives RMB69.1 Billion Cash Outflow - T"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
       "title": "Tencent’s Sales Miss Estimates in Setback for Founder’s AI Push - Bloomberg.com"
     },
     {
@@ -67,18 +67,19 @@
     }
   ],
   "positive_count": 11,
-  "negative_count": 6,
-  "neutral_count": 13,
+  "negative_count": 7,
+  "neutral_count": 12,
   "analyzed_news_count": 50,
-  "analyzed_at": "2026-11-18T18:47:58.005934",
+  "analyzed_at": "2026-11-19T00:57:12.306990",
   "categories_distribution": {
     "数字内容": 1,
-    "AI技术": 32,
+    "AI技术": 31,
     "云服务": 4,
-    "综合动态": 3,
-    "游戏业务": 3,
+    "综合动态": 2,
+    "股市表现": 3,
     "元宇宙": 6,
-    "股市表现": 1
+    "政策监管": 1,
+    "游戏业务": 2
   },
   "category_sentiment": {
     "数字内容": {
@@ -87,19 +88,19 @@
       "neutral": 0
     },
     "AI技术": {
-      "positive": 6,
+      "positive": 8,
       "negative": 6,
-      "neutral": 11
+      "neutral": 10
     },
     "云服务": {
-      "positive": 3,
+      "positive": 2,
       "negative": 0,
-      "neutral": 0
+      "neutral": 1
     },
     "综合动态": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 2
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
     }
   }
 }
