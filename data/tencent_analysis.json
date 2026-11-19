@@ -1,49 +1,34 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
-    "overall_rating": "谨慎看好",
-    "risk_level": "中等风险",
-    "recommendation": "建议持有",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻11条，消极新闻5条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
+    "overall_rating": "中性观望",
+    "risk_level": "中高风险",
+    "recommendation": "建议观望",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻8条，消极新闻5条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
-      "核心业务保持稳定增长",
-      "新业务布局逐步显现成效",
-      "技术创新持续推进"
+      "估值处于相对合理区间",
+      "长期基本面仍然稳固"
     ],
     "key_risks": [
-      "行业竞争压力增大",
-      "监管环境存在不确定性",
-      "部分业务增长放缓"
+      "短期业绩压力较大",
+      "监管政策影响持续",
+      "市场竞争加剧",
+      "宏观经济环境不确定"
     ],
     "action_items": [
-      "建议维持当前仓位，观察后续发展",
-      "密切关注政策动向和竞争格局变化",
-      "设置止损点，建议在下跌15%时考虑减仓",
-      "等待更明确的投资信号再做调整"
+      "建议暂时观望，不建议新增仓位",
+      "已持有者可考虑减持至5-10%仓位",
+      "设置严格止损，建议在下跌10%时止损",
+      "等待明确的转机信号再考虑入场"
     ]
   },
   "key_factors": [
     {
       "type": "positive",
-      "category": "数字内容",
-      "title": "Tencent Music Entertainment Group Stock 12‑Month Price Target Raised to $11.98, "
-    },
-    {
-      "type": "positive",
-      "category": "数字内容",
-      "title": "Blackpink’s Jisoo Gets Early Release Window on Tencent Music as Revenue Rises 5."
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Tencent Q3 revenues rise 8% as AI spending drives free cash flow into negative t"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Tencent’s profit squeeze exposes China’s AI spending dilemma - The Japan Times"
+      "category": "股市表现",
+      "title": "Tencent Holdings Ltd Stock 12‑Month Price Target Cut to HKD 587.05, Implies 57% "
     },
     {
       "type": "negative",
@@ -64,40 +49,49 @@
       "type": "negative",
       "category": "综合动态",
       "title": "Chinese web giant Tencent says new US GPU ban ‘sets everyone back in China’ - Th"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York Cit"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-we"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "Chinese tech firms fear AI hits from US curbs after Nvidia fallout - Boston 25 N"
     }
   ],
-  "positive_count": 11,
+  "positive_count": 8,
   "negative_count": 5,
-  "neutral_count": 14,
-  "analyzed_news_count": 51,
-  "analyzed_at": "2026-11-19T13:02:01.410149",
+  "neutral_count": 17,
+  "analyzed_news_count": 52,
+  "analyzed_at": "2026-11-19T18:52:48.228226",
   "categories_distribution": {
-    "数字内容": 2,
-    "AI技术": 33,
-    "云服务": 1,
-    "股市表现": 4,
-    "游戏业务": 3,
-    "综合动态": 3,
-    "元宇宙": 4,
-    "政策监管": 1
+    "股市表现": 6,
+    "云服务": 2,
+    "金融科技": 1,
+    "游戏业务": 4,
+    "AI技术": 34,
+    "综合动态": 2,
+    "元宇宙": 3
   },
   "category_sentiment": {
-    "数字内容": {
-      "positive": 2,
+    "股市表现": {
+      "positive": 1,
       "negative": 0,
-      "neutral": 0
-    },
-    "AI技术": {
-      "positive": 8,
-      "negative": 4,
-      "neutral": 10
+      "neutral": 1
     },
     "云服务": {
       "positive": 1,
       "negative": 0,
-      "neutral": 0
+      "neutral": 1
     },
-    "股市表现": {
+    "金融科技": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
@@ -105,12 +99,17 @@
     "游戏业务": {
       "positive": 0,
       "negative": 0,
-      "neutral": 1
+      "neutral": 2
+    },
+    "AI技术": {
+      "positive": 6,
+      "negative": 4,
+      "neutral": 11
     },
     "综合动态": {
       "positive": 0,
       "negative": 1,
-      "neutral": 2
+      "neutral": 1
     }
   }
 }
