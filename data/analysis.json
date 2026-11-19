@@ -1,26 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Read Jim Cramer’s full interview with Nvidia’s Colette Kress...",
-    "✓ 股市动态: Anthropic IPO: AI lab considers increasing the offering as i...",
-    "✓ 综合财经: Vance scraps schedule to address tech outages as Trump admin...",
-    "✗ 综合财经: Democrats nominate Hakeem Jeffries as US House Speaker...",
-    "✗ 股市动态: Has a Stock Market Crash Started? Here's What Sobering Lesso..."
+    "✗ 综合财经: Kash Patel skips House hearing after Mar-a-Lago gala with $5...",
+    "✓ 股市动态: Palo Alto inks $4.5 billion deal for AI startup Applied Comp...",
+    "✓ 数字货币: City firms told to tighten cyber defences as AI exposes vuln...",
+    "✓ 综合财经: McDonald's sex abuse: 'They were waiting for the younger gir...",
+    "✓ 股市动态: Big bets against AI debt, from CoreWeave to Oracle and the M..."
   ],
-  "positive_count": 8,
-  "negative_count": 4,
-  "neutral_count": 18,
+  "positive_count": 11,
+  "negative_count": 2,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-18T18:39:47.619726",
+  "analyzed_at": "2026-11-19T00:45:28.243194",
   "categories_distribution": {
-    "股市动态": 19,
-    "综合财经": 18,
-    "国际贸易": 2,
-    "货币政策": 2,
+    "综合财经": 16,
+    "股市动态": 21,
+    "数字货币": 1,
     "经济数据": 3,
+    "货币政策": 2,
+    "国际贸易": 1,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
