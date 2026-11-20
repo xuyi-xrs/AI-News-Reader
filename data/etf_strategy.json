@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-19T07:49:45.190192",
+  "updated_at": "2026-11-20T02:30:15.735543",
   "analysis": [
     {
       "code": "159770",
       "name": "机器人ETF",
       "sentiment": {
-        "score": 34,
-        "sentiment": "偏空",
-        "emoji": "😟"
+        "score": 22,
+        "sentiment": "看空",
+        "emoji": "📉"
       },
       "signal": {
         "action": "建议减仓",
         "action_code": "reduce",
         "confidence": 70,
-        "buy_signals": 0,
+        "buy_signals": 2,
         "sell_signals": 4
       },
       "risks": [
@@ -26,49 +26,49 @@
       "realtime": {
         "code": "159770",
         "name": "机器人AI",
-        "open": 0.827,
-        "pre_close": 0.831,
-        "current": 0.827,
-        "high": 0.838,
-        "low": 0.82,
-        "volume": 93106300,
-        "amount": 77036208.6,
-        "date": "2026-11-19",
-        "time": "15:35:45",
-        "change": -0.004,
-        "change_percent": -0.48
+        "open": 0.811,
+        "pre_close": 0.827,
+        "current": 0.807,
+        "high": 0.815,
+        "low": 0.796,
+        "volume": 61390100,
+        "amount": 49342608.1,
+        "date": "2026-11-20",
+        "time": "10:29:54",
+        "change": -0.02,
+        "change_percent": -2.42
       },
       "indicators": {
-        "ma5": 0.849,
-        "ma10": 0.881,
-        "ma20": 0.888,
-        "rsi": 44.09,
+        "ma5": 0.833,
+        "ma10": 0.872,
+        "ma20": 0.883,
+        "rsi": 37.37,
         "macd": {
-          "dif": -0.0024,
-          "dea": -0.0019,
-          "macd": -0.0009
+          "dif": -0.0077,
+          "dea": -0.0061,
+          "macd": -0.0031
         },
         "bollinger": {
-          "upper": 0.952,
-          "middle": 0.888,
-          "lower": 0.825
+          "upper": 0.954,
+          "middle": 0.883,
+          "lower": 0.811
         },
-        "volume_change": -16.61
+        "volume_change": -34.06
       }
     },
     {
       "code": "515860",
       "name": "信创ETF",
       "sentiment": {
-        "score": 34,
-        "sentiment": "偏空",
-        "emoji": "😟"
+        "score": 22,
+        "sentiment": "看空",
+        "emoji": "📉"
       },
       "signal": {
         "action": "建议减仓",
         "action_code": "reduce",
         "confidence": 70,
-        "buy_signals": 0,
+        "buy_signals": 1,
         "sell_signals": 4
       },
       "risks": [
@@ -76,39 +76,44 @@
           "level": "high",
           "type": "趋势风险",
           "description": "均线呈空头排列，下跌趋势明显，不建议抄底"
+        },
+        {
+          "level": "medium",
+          "type": "流动性风险",
+          "description": "成交量萎缩71.9%，市场观望情绪浓厚"
         }
       ],
       "realtime": {
         "code": "515860",
         "name": "科技ETF嘉实",
-        "open": 1.597,
-        "pre_close": 1.614,
-        "current": 1.608,
-        "high": 1.616,
-        "low": 1.591,
-        "volume": 3477600,
-        "amount": 5568179.0,
-        "date": "2026-11-19",
-        "time": "15:00:03",
-        "change": -0.006,
-        "change_percent": -0.37
+        "open": 1.579,
+        "pre_close": 1.608,
+        "current": 1.567,
+        "high": 1.607,
+        "low": 1.565,
+        "volume": 975900,
+        "amount": 1534719.0,
+        "date": "2026-11-20",
+        "time": "10:30:04",
+        "change": -0.041,
+        "change_percent": -2.55
       },
       "indicators": {
-        "ma5": 1.618,
-        "ma10": 1.657,
-        "ma20": 1.689,
-        "rsi": 44.69,
+        "ma5": 1.6,
+        "ma10": 1.646,
+        "ma20": 1.676,
+        "rsi": 37.35,
         "macd": {
-          "dif": -0.0588,
-          "dea": -0.0471,
-          "macd": -0.0235
+          "dif": -0.0608,
+          "dea": -0.0486,
+          "macd": -0.0243
         },
         "bollinger": {
-          "upper": 1.806,
-          "middle": 1.689,
-          "lower": 1.571
+          "upper": 1.788,
+          "middle": 1.676,
+          "lower": 1.563
         },
-        "volume_change": 5.19
+        "volume_change": -71.94
       }
     }
   ],
