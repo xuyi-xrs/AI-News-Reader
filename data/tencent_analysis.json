@@ -1,12 +1,12 @@
 {
-  "temperature_score": 56.7,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻8条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻3条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -27,13 +27,8 @@
   "key_factors": [
     {
       "type": "positive",
-      "category": "股市表现",
-      "title": "Tencent Holdings Ltd Stock 12‑Month Price Target Cut to HKD 586.45, Implies 57% "
-    },
-    {
-      "type": "positive",
-      "category": "数字内容",
-      "title": "Blackpink’s Jisoo Gets Early Release Window on Tencent Music as Revenue Rises 5."
+      "category": "AI技术",
+      "title": "Together AI adds Tencent Hy4 with image input and a million-token context window"
     },
     {
       "type": "negative",
@@ -53,52 +48,41 @@
     {
       "type": "negative",
       "category": "AI技术",
-      "title": "Tencent's Sales Miss Estimates in Setback for Founder's AI Push - Yahoo Finance"
-    },
-    {
-      "type": "negative",
-      "category": "综合动态",
-      "title": "Chinese web giant Tencent says new US GPU ban ‘sets everyone back in China’ - Th"
+      "title": "AI is changing software engineering — and some developers miss the struggle"
     },
     {
       "type": "positive",
       "category": "AI技术",
       "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-we"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes"
     }
   ],
-  "positive_count": 8,
-  "negative_count": 4,
-  "neutral_count": 18,
+  "positive_count": 6,
+  "negative_count": 3,
+  "neutral_count": 21,
   "analyzed_news_count": 53,
-  "analyzed_at": "2026-11-20T00:52:04.569825",
+  "analyzed_at": "2026-11-20T07:02:16.037583",
   "categories_distribution": {
-    "股市表现": 5,
-    "数字内容": 1,
     "云服务": 2,
+    "AI技术": 37,
     "金融科技": 1,
-    "AI技术": 36,
-    "游戏业务": 3,
-    "综合动态": 2,
-    "元宇宙": 3
+    "数字内容": 1,
+    "元宇宙": 4,
+    "股市表现": 3,
+    "游戏业务": 5
   },
   "category_sentiment": {
-    "股市表现": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 1
-    },
-    "数字内容": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
     "云服务": {
       "positive": 1,
-      "negative": 0,
-      "neutral": 1
-    },
-    "金融科技": {
-      "positive": 0,
       "negative": 0,
       "neutral": 1
     },
@@ -107,15 +91,30 @@
       "negative": 3,
       "neutral": 13
     },
-    "游戏业务": {
+    "金融科技": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "综合动态": {
+    "数字内容": {
       "positive": 0,
-      "negative": 1,
+      "negative": 0,
       "neutral": 1
+    },
+    "元宇宙": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "股市表现": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "游戏业务": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3
     }
   }
 }
