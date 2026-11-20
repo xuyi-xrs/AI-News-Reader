@@ -1,26 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极8条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Anthropic shares soar in stock market debut - The Washington...",
-    "✓ 综合财经: Netflix, Amazon, Fox to bid for 2030 men's World Cup rights;...",
-    "✓ 综合财经: Amid recent banking outages, should you start carrying cash ...",
-    "✓ 综合财经: Amazon launches in-app push against Mamdani-backed delivery ...",
-    "✓ 股市动态: 3 Celebrities Stand to Gain From Anthropic's Stock-Market De..."
+    "✓ 经济数据: Japan core inflation soars to highest this year as energy su...",
+    "✓ 股市动态: Anthropic IPO Live Updates: Company Value Surges in Stock Ma...",
+    "✓ 综合财经: Airbnb's divisive new house rules come into force...",
+    "✓ 股市动态: Tens of thousands of UK fridges secured from hackers in secr...",
+    "✓ 股市动态: Anthropic was supposed to save the AI trade. What went wrong..."
   ],
-  "positive_count": 9,
-  "negative_count": 3,
-  "neutral_count": 18,
+  "positive_count": 10,
+  "negative_count": 8,
+  "neutral_count": 12,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-19T18:46:05.512440",
+  "analyzed_at": "2026-11-20T00:37:04.466564",
   "categories_distribution": {
-    "综合财经": 19,
+    "经济数据": 2,
     "股市动态": 21,
-    "货币政策": 1,
-    "外汇市场": 2,
-    "经济数据": 1
+    "综合财经": 19,
+    "国际贸易": 2,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
