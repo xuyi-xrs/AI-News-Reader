@@ -1,12 +1,12 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 53.3,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻3条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻7条，消极新闻5条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -25,6 +25,11 @@
     ]
   },
   "key_factors": [
+    {
+      "type": "positive",
+      "category": "云服务",
+      "title": "Tencent Cloud and The MUI Group to explore collaboration on digital transformati"
+    },
     {
       "type": "positive",
       "category": "AI技术",
@@ -46,57 +51,52 @@
       "title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows - WSJ"
     },
     {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ mar"
+    },
+    {
       "type": "negative",
       "category": "AI技术",
-      "title": "AI is changing software engineering — and some developers miss the struggle"
+      "title": "Anthropic shares fall 8% in premarket amid AI selloff as Nvidia, AMD shares drop"
     },
     {
-      "type": "positive",
+      "type": "negative",
       "category": "AI技术",
-      "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-we"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes"
+      "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs "
     }
   ],
-  "positive_count": 6,
-  "negative_count": 3,
-  "neutral_count": 21,
-  "analyzed_news_count": 53,
-  "analyzed_at": "2026-11-20T07:02:16.037583",
+  "positive_count": 7,
+  "negative_count": 5,
+  "neutral_count": 18,
+  "analyzed_news_count": 52,
+  "analyzed_at": "2026-11-20T12:57:42.073032",
   "categories_distribution": {
-    "云服务": 2,
-    "AI技术": 37,
+    "社交平台": 1,
+    "云服务": 3,
+    "游戏业务": 6,
     "金融科技": 1,
-    "数字内容": 1,
     "元宇宙": 4,
-    "股市表现": 3,
-    "游戏业务": 5
+    "AI技术": 34,
+    "股市表现": 3
   },
   "category_sentiment": {
-    "云服务": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 1
-    },
-    "AI技术": {
-      "positive": 5,
-      "negative": 3,
-      "neutral": 13
-    },
-    "金融科技": {
+    "社交平台": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "数字内容": {
+    "云服务": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 1
+    },
+    "游戏业务": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    "金融科技": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
@@ -106,15 +106,15 @@
       "negative": 0,
       "neutral": 1
     },
+    "AI技术": {
+      "positive": 5,
+      "negative": 5,
+      "neutral": 9
+    },
     "股市表现": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
-    },
-    "游戏业务": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 3
     }
   }
 }
