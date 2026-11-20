@@ -1,11 +1,66 @@
 {
-  "updated_at": "2026-11-20T04:29:03.418533",
+  "updated_at": "2026-11-20T07:48:43.322013",
   "analysis": [
     {
       "code": "159770",
       "name": "机器人ETF",
       "sentiment": {
-        "score": 29,
+        "score": 22,
+        "sentiment": "看空",
+        "emoji": "📉"
+      },
+      "signal": {
+        "action": "建议卖出",
+        "action_code": "sell",
+        "confidence": 85,
+        "buy_signals": 2,
+        "sell_signals": 5
+      },
+      "risks": [
+        {
+          "level": "high",
+          "type": "趋势风险",
+          "description": "均线呈空头排列，下跌趋势明显，不建议抄底"
+        }
+      ],
+      "realtime": {
+        "code": "159770",
+        "name": "机器人AI",
+        "open": 0.811,
+        "pre_close": 0.827,
+        "current": 0.794,
+        "high": 0.817,
+        "low": 0.793,
+        "volume": 141054753,
+        "amount": 113344559.889,
+        "date": "2026-11-20",
+        "time": "15:35:45",
+        "change": -0.033,
+        "change_percent": -3.99
+      },
+      "indicators": {
+        "ma5": 0.83,
+        "ma10": 0.871,
+        "ma20": 0.882,
+        "rsi": 35.71,
+        "macd": {
+          "dif": -0.0087,
+          "dea": -0.007,
+          "macd": -0.0035
+        },
+        "bollinger": {
+          "upper": 0.956,
+          "middle": 0.882,
+          "lower": 0.808
+        },
+        "volume_change": 51.5
+      }
+    },
+    {
+      "code": "515860",
+      "name": "信创ETF",
+      "sentiment": {
+        "score": 22,
         "sentiment": "看空",
         "emoji": "📉"
       },
@@ -24,91 +79,36 @@
         }
       ],
       "realtime": {
-        "code": "159770",
-        "name": "机器人AI",
-        "open": 0.811,
-        "pre_close": 0.827,
-        "current": 0.811,
-        "high": 0.817,
-        "low": 0.796,
-        "volume": 87898153,
-        "amount": 70833880.889,
-        "date": "2026-11-20",
-        "time": "11:30:00",
-        "change": -0.016,
-        "change_percent": -1.93
-      },
-      "indicators": {
-        "ma5": 0.834,
-        "ma10": 0.873,
-        "ma20": 0.883,
-        "rsi": 37.91,
-        "macd": {
-          "dif": -0.0073,
-          "dea": -0.0059,
-          "macd": -0.0029
-        },
-        "bollinger": {
-          "upper": 0.954,
-          "middle": 0.883,
-          "lower": 0.812
-        },
-        "volume_change": -5.59
-      }
-    },
-    {
-      "code": "515860",
-      "name": "信创ETF",
-      "sentiment": {
-        "score": 29,
-        "sentiment": "看空",
-        "emoji": "📉"
-      },
-      "signal": {
-        "action": "建议减仓",
-        "action_code": "reduce",
-        "confidence": 70,
-        "buy_signals": 1,
-        "sell_signals": 4
-      },
-      "risks": [
-        {
-          "level": "high",
-          "type": "趋势风险",
-          "description": "均线呈空头排列，下跌趋势明显，不建议抄底"
-        }
-      ],
-      "realtime": {
         "code": "515860",
         "name": "科技ETF嘉实",
         "open": 1.579,
         "pre_close": 1.608,
-        "current": 1.58,
+        "current": 1.555,
         "high": 1.607,
-        "low": 1.563,
-        "volume": 1811900,
-        "amount": 2847730.0,
+        "low": 1.555,
+        "volume": 2359500,
+        "amount": 3705656.0,
         "date": "2026-11-20",
-        "time": "11:30:00",
-        "change": -0.028,
-        "change_percent": -1.74
+        "time": "15:00:01",
+        "change": -0.053,
+        "change_percent": -3.3
       },
       "indicators": {
-        "ma5": 1.602,
-        "ma10": 1.647,
-        "ma20": 1.677,
-        "rsi": 38.54,
+        "ma5": 1.597,
+        "ma10": 1.645,
+        "ma20": 1.675,
+        "rsi": 36.32,
         "macd": {
-          "dif": -0.0598,
-          "dea": -0.0478,
-          "macd": -0.0239
+          "dif": -0.0618,
+          "dea": -0.0494,
+          "macd": -0.0247
         },
         "bollinger": {
-          "upper": 1.787,
-          "middle": 1.677,
-          "lower": 1.566
+          "upper": 1.79,
+          "middle": 1.675,
+          "lower": 1.56
         },
-        "volume_change": -47.9
+        "volume_change": -32.15
       }
     }
   ],
