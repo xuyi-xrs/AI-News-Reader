@@ -33,6 +33,11 @@
     {
       "type": "positive",
       "category": "AI技术",
+      "title": "Tencent (SEHK:700) Stock Faces Q3 Results Margin Strain Despite Solid Revenue - "
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
       "title": "Tencent publishes Hy4 Flash weights for developers to run and further train - Su"
     },
     {
@@ -59,25 +64,19 @@
       "type": "negative",
       "category": "AI技术",
       "title": "Trump threatens ban on US firms building AI data centres overseas"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains movi"
     }
   ],
   "positive_count": 7,
   "negative_count": 7,
   "neutral_count": 16,
   "analyzed_news_count": 50,
-  "analyzed_at": "2026-11-21T06:57:08.316170",
+  "analyzed_at": "2026-11-21T12:45:44.917374",
   "categories_distribution": {
     "社交平台": 1,
     "云服务": 2,
-    "AI技术": 35,
+    "AI技术": 36,
     "股市表现": 4,
     "游戏业务": 4,
-    "综合动态": 1,
     "元宇宙": 3
   },
   "category_sentiment": {
@@ -94,7 +93,7 @@
     "AI技术": {
       "positive": 5,
       "negative": 7,
-      "neutral": 10
+      "neutral": 11
     },
     "股市表现": {
       "positive": 0,
@@ -105,11 +104,6 @@
       "positive": 0,
       "negative": 0,
       "neutral": 3
-    },
-    "综合动态": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
     }
   }
 }
