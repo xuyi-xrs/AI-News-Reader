@@ -1,24 +1,25 @@
 {
-  "temperature_score": 40.0,
+  "temperature_score": 38.33,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比9/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
+    "✗ 综合财经: Navy budget pick has family investments in Trump Jr-linked c...",
+    "✓ 股市动态: S&P 500 correction: Five forces behind the market sell-off...",
     "✗ 股市动态: U.S. stocks slump into correction territory amid tech and AI...",
-    "✓ 大宗商品: Oil shipped through Hormuz falls as Iranian strikes increase...",
-    "✗ 股市动态: President Trump blames Democrats for stock market losses whi...",
-    "✗ 股市动态: Wall Street suffers historic losses as Dow, S&P 500 plunge i...",
-    "✗ 股市动态: Stock market selloff pushes mortgage rates down - RealEstate..."
+    "✗ 股市动态: An early breakdown in the polar vortex is threatening alread...",
+    "✗ 股市动态: President Trump blames Democrats for stock market losses whi..."
   ],
   "positive_count": 2,
-  "negative_count": 8,
-  "neutral_count": 20,
+  "negative_count": 9,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-21T06:49:27.794354",
+  "analyzed_at": "2026-11-21T12:37:39.356533",
   "categories_distribution": {
-    "综合财经": 16,
-    "股市动态": 27,
-    "大宗商品": 1,
+    "综合财经": 17,
+    "大宗商品": 2,
+    "股市动态": 24,
+    "经济数据": 1,
     "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
