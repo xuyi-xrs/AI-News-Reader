@@ -1,25 +1,25 @@
 {
-  "temperature_score": 50.0,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 46.67,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比7/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
+    "✓ 股市动态: Top Wall Street analysts favor these 3 dividend stocks for s...",
+    "✗ 股市动态: The Nasdaq is in freefall. Here's one stock to look at...",
+    "✗ 股市动态: Did Anthropic and its bankers get a key call wrong after IPO...",
     "✗ 股市动态: 10% drop for stock market unnerving but not that unusual - T...",
-    "✓ 股市动态: Tech suppliers raise AI server prices up to 45% months after...",
-    "✗ 综合财经: Private equity backers flag fresh concerns about sell-to-you...",
-    "✗ 股市动态: If a Stock Market Crash Is Coming, Warren Buffett Says This ...",
-    "✗ 股市动态: If a Stock Market Crash Is Coming, Warren Buffett Says This ..."
+    "✓ 股市动态: Tech suppliers raise AI server prices up to 45% months after..."
   ],
-  "positive_count": 6,
-  "negative_count": 6,
+  "positive_count": 5,
+  "negative_count": 7,
   "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-22T06:47:39.452933",
+  "analyzed_at": "2026-11-22T12:36:04.766363",
   "categories_distribution": {
-    "股市动态": 19,
-    "综合财经": 21,
-    "国际贸易": 2,
-    "大宗商品": 1,
+    "股市动态": 22,
+    "经济数据": 1,
+    "综合财经": 18,
+    "国际贸易": 3,
     "货币政策": 1
   },
   "ai_provider": "fallback_rules"
