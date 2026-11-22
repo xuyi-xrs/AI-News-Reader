@@ -1,12 +1,12 @@
 {
-  "temperature_score": 46.7,
+  "temperature_score": 48.3,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻5条，消极新闻7条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻5条，消极新闻6条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -52,11 +52,6 @@
     },
     {
       "type": "negative",
-      "category": "综合动态",
-      "title": "Chinese web giant Tencent says new US GPU ban ‘sets everyone back in China’ - Th"
-    },
-    {
-      "type": "negative",
       "category": "AI技术",
       "title": "Trump threatens ban on US firms building AI data centres overseas"
     },
@@ -64,20 +59,25 @@
       "type": "positive",
       "category": "AI技术",
       "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains movi"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overal"
     }
   ],
   "positive_count": 5,
-  "negative_count": 7,
-  "neutral_count": 18,
+  "negative_count": 6,
+  "neutral_count": 19,
   "analyzed_news_count": 48,
-  "analyzed_at": "2026-11-22T12:44:54.570905",
+  "analyzed_at": "2026-11-22T18:38:44.489174",
   "categories_distribution": {
     "云服务": 2,
-    "AI技术": 32,
+    "AI技术": 33,
     "股市表现": 3,
     "金融科技": 1,
     "游戏业务": 4,
-    "综合动态": 2,
+    "综合动态": 1,
     "元宇宙": 4
   },
   "category_sentiment": {
@@ -89,7 +89,7 @@
     "AI技术": {
       "positive": 3,
       "negative": 6,
-      "neutral": 12
+      "neutral": 13
     },
     "股市表现": {
       "positive": 0,
@@ -108,7 +108,7 @@
     },
     "综合动态": {
       "positive": 0,
-      "negative": 1,
+      "negative": 0,
       "neutral": 1
     }
   }
