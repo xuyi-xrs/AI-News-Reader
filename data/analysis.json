@@ -1,27 +1,27 @@
 {
-  "temperature_score": 46.67,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比6/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 53.33,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
+    "✓ 股市动态: Stock market correction? This chief investment officer sees ...",
+    "✓ 综合财经: Violence erupts in Sinaloa after Mexico captures alleged dru...",
     "✓ 综合财经: Amazon closes in on $7.5bn deal to buy AI start-up Decart...",
     "✓ 综合财经: Trump says there could be a 'positive spin' from the latest ...",
-    "✗ 综合财经: Navy budget pick has family investments in Trump Jr-linked c...",
-    "✓ 综合财经: Tech outages are fueling a new doomsday economy...",
-    "✗ 股市动态: A 10% drop for the stock market is unnerving, but it’s not t..."
+    "✗ 综合财经: Navy budget pick has family investments in Trump Jr-linked c..."
   ],
-  "positive_count": 4,
-  "negative_count": 6,
+  "positive_count": 6,
+  "negative_count": 4,
   "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-21T18:29:55.154198",
+  "analyzed_at": "2026-11-22T00:31:57.419824",
   "categories_distribution": {
     "股市动态": 19,
     "综合财经": 20,
     "国际贸易": 2,
     "大宗商品": 1,
     "货币政策": 1,
-    "经济数据": 2
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
