@@ -1,27 +1,26 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Stock market correction? This chief investment officer sees ...",
-    "✓ 综合财经: Violence erupts in Sinaloa after Mexico captures alleged dru...",
-    "✓ 综合财经: Amazon closes in on $7.5bn deal to buy AI start-up Decart...",
-    "✓ 综合财经: Trump says there could be a 'positive spin' from the latest ...",
-    "✗ 综合财经: Navy budget pick has family investments in Trump Jr-linked c..."
+    "✗ 股市动态: 10% drop for stock market unnerving but not that unusual - T...",
+    "✓ 股市动态: Tech suppliers raise AI server prices up to 45% months after...",
+    "✗ 综合财经: Private equity backers flag fresh concerns about sell-to-you...",
+    "✗ 股市动态: If a Stock Market Crash Is Coming, Warren Buffett Says This ...",
+    "✗ 股市动态: If a Stock Market Crash Is Coming, Warren Buffett Says This ..."
   ],
   "positive_count": 6,
-  "negative_count": 4,
-  "neutral_count": 20,
+  "negative_count": 6,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-22T00:31:57.419824",
+  "analyzed_at": "2026-11-22T06:47:39.452933",
   "categories_distribution": {
     "股市动态": 19,
-    "综合财经": 20,
+    "综合财经": 21,
     "国际贸易": 2,
     "大宗商品": 1,
-    "货币政策": 1,
-    "经济数据": 1
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
