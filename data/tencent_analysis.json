@@ -1,12 +1,12 @@
 {
-  "temperature_score": 48.3,
+  "temperature_score": 46.7,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻7条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻8条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -26,90 +26,77 @@
   },
   "key_factors": [
     {
-      "type": "positive",
-      "category": "云服务",
-      "title": "Tencent Cloud and The MUI Group to explore collaboration on digital transformati"
-    },
-    {
-      "type": "positive",
-      "category": "数字内容",
-      "title": "Blackpink’s Jisoo Gets Early Release Window on Tencent Music as Revenue Rises 5."
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Alibaba and Tencent put their faith in Chinese chips as U.S. curbs threatens to "
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Tencent’s Sales Miss Estimates in Setback for Founder’s AI Push - Bloomberg.com"
-    },
-    {
-      "type": "positive",
-      "category": "云服务",
-      "title": "Tencent says new US chip curbs won't hurt cloud revenue, may slow model training"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows - WSJ"
-    },
-    {
-      "type": "negative",
-      "category": "综合动态",
-      "title": "Chinese web giant Tencent says new US GPU ban ‘sets everyone back in China’ - Th"
-    },
-    {
       "type": "negative",
       "category": "AI技术",
       "title": "Trump threatens ban on US firms building AI data centres overseas"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains movi"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overal"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "Lagarde says EU funds should take first losses on chip plants, data centers"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs "
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "AI is changing software engineering — and some developers miss the struggle"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "Tech Now"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Tech Now"
     }
   ],
   "positive_count": 6,
-  "negative_count": 7,
-  "neutral_count": 17,
-  "analyzed_news_count": 48,
-  "analyzed_at": "2026-11-22T00:48:48.546921",
+  "negative_count": 8,
+  "neutral_count": 16,
+  "analyzed_news_count": 33,
+  "analyzed_at": "2026-11-22T06:57:36.343988",
   "categories_distribution": {
-    "云服务": 2,
-    "数字内容": 1,
-    "AI技术": 32,
-    "股市表现": 4,
     "游戏业务": 4,
-    "综合动态": 2,
-    "元宇宙": 3
+    "AI技术": 23,
+    "元宇宙": 4,
+    "股市表现": 2
   },
   "category_sentiment": {
-    "云服务": {
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0
-    },
-    "数字内容": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "AI技术": {
-      "positive": 3,
-      "negative": 6,
-      "neutral": 12
-    },
-    "股市表现": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
     "游戏业务": {
       "positive": 0,
       "negative": 0,
       "neutral": 3
     },
-    "综合动态": {
+    "AI技术": {
+      "positive": 5,
+      "negative": 6,
+      "neutral": 11
+    },
+    "元宇宙": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 2
+    },
+    "股市表现": {
       "positive": 0,
-      "negative": 1,
-      "neutral": 1
+      "negative": 2,
+      "neutral": 0
     }
   }
 }
