@@ -1,12 +1,12 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 56.7,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻6条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻9条，消极新闻5条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -31,6 +31,16 @@
       "title": "Tencent Cloud Explores AI and Cloud Collaboration with Malaysia’s MUI Group - Th"
     },
     {
+      "type": "positive",
+      "category": "云服务",
+      "title": "Tencent Cloud and The MUI Group to explore collaboration on digital transformati"
+    },
+    {
+      "type": "positive",
+      "category": "元宇宙",
+      "title": "WeMM-Ecom-9B Weights Are Up, Tencent Still Silent - OrcaRouter"
+    },
+    {
       "type": "negative",
       "category": "AI技术",
       "title": "Alibaba and Tencent put their faith in Chinese chips as U.S. curbs threatens to "
@@ -51,70 +61,48 @@
       "title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows - WSJ"
     },
     {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing"
-    },
-    {
       "type": "positive",
       "category": "AI技术",
-      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's c"
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Trump threatens ban on US firms building AI data centres overseas"
+      "title": "Futures rally after Wall Street's nightmare week "
     }
   ],
-  "positive_count": 6,
-  "negative_count": 6,
-  "neutral_count": 18,
-  "analyzed_news_count": 47,
-  "analyzed_at": "2026-11-23T07:20:45.413481",
+  "positive_count": 9,
+  "negative_count": 5,
+  "neutral_count": 16,
+  "analyzed_news_count": 48,
+  "analyzed_at": "2026-11-23T13:04:09.114036",
   "categories_distribution": {
-    "云服务": 2,
-    "社交平台": 1,
-    "AI技术": 32,
-    "元宇宙": 5,
-    "股市表现": 3,
-    "综合动态": 1,
-    "游戏业务": 3
+    "云服务": 4,
+    "元宇宙": 6,
+    "游戏业务": 4,
+    "AI技术": 30,
+    "股市表现": 4
   },
   "category_sentiment": {
     "云服务": {
-      "positive": 2,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 1
+    },
+    "元宇宙": {
+      "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "社交平台": {
+    "游戏业务": {
       "positive": 0,
       "negative": 0,
-      "neutral": 1
+      "neutral": 3
     },
     "AI技术": {
-      "positive": 4,
-      "negative": 6,
-      "neutral": 12
-    },
-    "元宇宙": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
+      "positive": 5,
+      "negative": 5,
+      "neutral": 11
     },
     "股市表现": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
-    },
-    "综合动态": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "游戏业务": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 2
     }
   }
 }
