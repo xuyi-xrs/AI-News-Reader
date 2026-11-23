@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T02:33:24.935587",
+  "updated_at": "2026-11-23T04:42:05.519522",
   "etfs": [
     {
       "code": "159770",
@@ -10,20 +10,20 @@
         "name": "机器人AI",
         "open": 0.779,
         "pre_close": 0.794,
-        "current": 0.795,
-        "high": 0.81,
+        "current": 0.808,
+        "high": 0.814,
         "low": 0.779,
-        "volume": 77433200,
-        "amount": 61825248.9,
+        "volume": 111336000,
+        "amount": 89104034.4,
         "date": "2026-11-23",
-        "time": "10:33:03",
-        "change": 0.001,
-        "change_percent": 0.13
+        "time": "11:30:00",
+        "change": 0.014,
+        "change_percent": 1.76
       },
       "historical": [],
       "indicators": {},
       "news": [],
-      "updated_at": "2026-11-23T02:33:16.096947"
+      "updated_at": "2026-11-23T04:41:57.325800"
     },
     {
       "code": "515860",
@@ -34,20 +34,20 @@
         "name": "科技ETF嘉实",
         "open": 1.541,
         "pre_close": 1.555,
-        "current": 1.536,
-        "high": 1.55,
-        "low": 1.536,
-        "volume": 1086800,
-        "amount": 1677782.0,
+        "current": 1.561,
+        "high": 1.563,
+        "low": 1.533,
+        "volume": 1396400,
+        "amount": 2158761.0,
         "date": "2026-11-23",
-        "time": "10:33:13",
-        "change": -0.019,
-        "change_percent": -1.22
+        "time": "11:30:00",
+        "change": 0.006,
+        "change_percent": 0.39
       },
       "historical": [],
       "indicators": {},
       "news": [],
-      "updated_at": "2026-11-23T02:33:24.935356"
+      "updated_at": "2026-11-23T04:42:05.519400"
     }
   ]
 }
