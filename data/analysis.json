@@ -2,25 +2,23 @@
   "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: How Asian countries are looking to prop up markets as AI dow...",
-    "✓ 股市动态: Asian regulators rush to support sagging markets as AI trade...",
-    "✓ 综合财经: The Gulf’s ‘new normal’...",
-    "✓ 经济数据: Immigrants’ income growth outstrips Spaniards’ under Pedro S...",
-    "✗ 股市动态: Wall Street set to rebound after AI stock sell-off..."
+    "✓ 股市动态: Anthropic, Nvidia shares rise in premarket trading after maj...",
+    "✓ 股市动态: Nvidia stock jumps as DC makes stunning u-turn on Jensen Hua...",
+    "✗ 股市动态: Capita shares plunge 70% as boss quits after civil service p...",
+    "✓ 货币政策: Treasury yields jump as stock futures rebound, investors awa...",
+    "✓ 股市动态: Wall Street set to rebound after AI stock sell-off..."
   ],
-  "positive_count": 9,
-  "negative_count": 5,
-  "neutral_count": 16,
+  "positive_count": 6,
+  "negative_count": 2,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-23T07:04:12.785074",
+  "analyzed_at": "2026-11-23T12:53:26.065196",
   "categories_distribution": {
-    "股市动态": 5,
     "综合财经": 22,
-    "经济数据": 1,
-    "大宗商品": 1,
-    "国际贸易": 1
+    "股市动态": 22,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
