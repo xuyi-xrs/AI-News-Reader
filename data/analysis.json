@@ -1,24 +1,26 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: South Korea’s stock market tumbles as AI bubble fears mount ...",
-    "✓ 股市动态: Stock market today: Dow futures jump 700 points and Nasdaq s...",
-    "✗ 综合财经: San Francisco is enjoying an AI boom, but worries about a cr...",
-    "✓ 综合财经: Energy bills will soar - here's how you can ease the pain...",
-    "✓ 股市动态: US Stock Futures Open Higher After Tech Selloff: Markets Wra..."
+    "✗ 股市动态: How Asian countries are looking to prop up markets as AI dow...",
+    "✓ 股市动态: Asian regulators rush to support sagging markets as AI trade...",
+    "✓ 综合财经: The Gulf’s ‘new normal’...",
+    "✓ 经济数据: Immigrants’ income growth outstrips Spaniards’ under Pedro S...",
+    "✗ 股市动态: Wall Street set to rebound after AI stock sell-off..."
   ],
-  "positive_count": 8,
-  "negative_count": 6,
+  "positive_count": 9,
+  "negative_count": 5,
   "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-23T00:37:24.487110",
+  "analyzed_at": "2026-11-23T07:04:12.785074",
   "categories_distribution": {
-    "综合财经": 23,
-    "股市动态": 17,
-    "国际贸易": 2
+    "股市动态": 5,
+    "综合财经": 22,
+    "经济数据": 1,
+    "大宗商品": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
