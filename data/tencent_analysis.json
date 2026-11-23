@@ -1,12 +1,12 @@
 {
-  "temperature_score": 51.7,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻8条，消极新闻7条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻6条，消极新闻6条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -31,21 +31,6 @@
       "title": "Tencent Cloud Explores AI and Cloud Collaboration with Malaysia’s MUI Group - Th"
     },
     {
-      "type": "positive",
-      "category": "云服务",
-      "title": "Tencent Cloud and The MUI Group to explore collaboration on digital transformati"
-    },
-    {
-      "type": "positive",
-      "category": "数字内容",
-      "title": "Blackpink’s Jisoo Gets Early Release Window on Tencent Music as Revenue Rises 5."
-    },
-    {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Tencent details Hy4 safety tests as AI misuse concerns grow - Tech in Asia"
-    },
-    {
       "type": "negative",
       "category": "AI技术",
       "title": "Alibaba and Tencent put their faith in Chinese chips as U.S. curbs threatens to "
@@ -64,38 +49,64 @@
       "type": "positive",
       "category": "AI技术",
       "title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows - WSJ"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's c"
+    },
+    {
+      "type": "negative",
+      "category": "AI技术",
+      "title": "Trump threatens ban on US firms building AI data centres overseas"
     }
   ],
-  "positive_count": 8,
-  "negative_count": 7,
-  "neutral_count": 15,
-  "analyzed_news_count": 48,
-  "analyzed_at": "2026-11-23T00:53:00.477004",
+  "positive_count": 6,
+  "negative_count": 6,
+  "neutral_count": 18,
+  "analyzed_news_count": 47,
+  "analyzed_at": "2026-11-23T07:20:45.413481",
   "categories_distribution": {
-    "云服务": 3,
-    "数字内容": 1,
-    "AI技术": 33,
+    "云服务": 2,
+    "社交平台": 1,
+    "AI技术": 32,
+    "元宇宙": 5,
     "股市表现": 3,
-    "游戏业务": 4,
-    "元宇宙": 4
+    "综合动态": 1,
+    "游戏业务": 3
   },
   "category_sentiment": {
     "云服务": {
-      "positive": 3,
+      "positive": 2,
       "negative": 0,
       "neutral": 0
     },
-    "数字内容": {
-      "positive": 1,
+    "社交平台": {
+      "positive": 0,
       "negative": 0,
-      "neutral": 0
+      "neutral": 1
     },
     "AI技术": {
       "positive": 4,
-      "negative": 7,
-      "neutral": 11
+      "negative": 6,
+      "neutral": 12
+    },
+    "元宇宙": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
     },
     "股市表现": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "综合动态": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
@@ -103,7 +114,7 @@
     "游戏业务": {
       "positive": 0,
       "negative": 0,
-      "neutral": 3
+      "neutral": 2
     }
   }
 }
