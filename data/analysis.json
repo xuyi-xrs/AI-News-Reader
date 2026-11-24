@@ -1,28 +1,26 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Drugmaker Insmed shares rally 14% after Sanofi agrees to buy...",
-    "✓ 股市动态: Nvidia Rally Can’t Hide the Market’s AI Problems - Barron's...",
-    "✓ 经济数据: Best Buy reports comparable sales growth of 6.1%, highest in...",
-    "✓ 货币政策: Some U.S. food banks see demand top pandemic levels...",
-    "✗ 综合财经: U.S. court clears the way for Army’s planned ammunition deto..."
+    "✓ 经济数据: Consumer confidence shoots up after Democrats' midterm victo...",
+    "✓ 综合财经: Faisal Islam: Fears over the AI boom haven't gone away...",
+    "✗ 股市动态: Anthropic sinks 8%, falling below $83 IPO price, but analyst...",
+    "✓ 股市动态: Nvidia shares slide as Trump's role in Jensen Huang's comeba...",
+    "✗ 股市动态: Trump readies raft of new tariffs on major economies..."
   ],
-  "positive_count": 10,
+  "positive_count": 6,
   "negative_count": 3,
-  "neutral_count": 17,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-24T12:53:54.793234",
+  "analyzed_at": "2026-11-24T18:43:42.101879",
   "categories_distribution": {
-    "股市动态": 21,
-    "综合财经": 17,
     "经济数据": 2,
-    "货币政策": 1,
-    "国际贸易": 2,
-    "大宗商品": 1,
-    "外汇市场": 1
+    "综合财经": 18,
+    "股市动态": 23,
+    "外汇市场": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
