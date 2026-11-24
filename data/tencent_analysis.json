@@ -1,12 +1,12 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 58.3,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "中性观望",
     "risk_level": "中高风险",
     "recommendation": "建议观望",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻8条，消极新闻5条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻9条，消极新闻4条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
       "估值处于相对合理区间",
       "长期基本面仍然稳固"
@@ -31,19 +31,19 @@
       "title": "October 2026 mobile game charts: Top Lords takes off, Tencent falls 11% and AI l"
     },
     {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Tencent Hy4 on Together AI: Open-Weight Inference Gets Multimodal - The Futurum "
-    },
-    {
-      "type": "positive",
-      "category": "元宇宙",
-      "title": "Hy MT3 vs Tencent Hy MT2 1.8B: Is the Upgrade Real? - OrcaRouter"
-    },
-    {
       "type": "negative",
       "category": "社交平台",
       "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks"
+    },
+    {
+      "type": "positive",
+      "category": "社交平台",
+      "title": "Chinese police contacted members of WeChat group after they discussed Melbourne "
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Tencent Hy4 on Together AI: Open-Weight Inference Gets Multimodal - The Futurum "
     },
     {
       "type": "negative",
@@ -56,28 +56,28 @@
       "title": "Tencent says new US chip curbs won't hurt cloud revenue, may slow model training"
     },
     {
-      "type": "negative",
-      "category": "社交平台",
-      "title": "U.S. Government Bans TikTok And WeChat Downloads Beginning Sunday - Legal 500"
-    },
-    {
       "type": "positive",
       "category": "游戏业务",
       "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away"
     }
   ],
-  "positive_count": 8,
-  "negative_count": 5,
+  "positive_count": 9,
+  "negative_count": 4,
   "neutral_count": 17,
   "analyzed_news_count": 50,
-  "analyzed_at": "2026-11-24T13:04:44.955705",
+  "analyzed_at": "2026-11-24T18:52:30.057475",
   "categories_distribution": {
     "游戏业务": 4,
-    "AI技术": 29,
-    "元宇宙": 8,
     "社交平台": 4,
+    "元宇宙": 8,
+    "AI技术": 28,
     "云服务": 1,
-    "股市表现": 4
+    "股市表现": 5
   },
   "category_sentiment": {
     "游戏业务": {
@@ -85,20 +85,20 @@
       "negative": 1,
       "neutral": 0
     },
-    "AI技术": {
-      "positive": 5,
-      "negative": 2,
-      "neutral": 10
+    "社交平台": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 2
     },
     "元宇宙": {
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
       "neutral": 4
     },
-    "社交平台": {
-      "positive": 0,
+    "AI技术": {
+      "positive": 6,
       "negative": 2,
-      "neutral": 2
+      "neutral": 10
     },
     "云服务": {
       "positive": 1,
