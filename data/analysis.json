@@ -1,27 +1,25 @@
 {
-  "temperature_score": 71.67,
+  "temperature_score": 78.33,
   "sentiment": "乐观",
   "sentiment_emoji": "😊",
-  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比13/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
+  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比17/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
   "key_factors": [
-    "✓ 综合财经: Nvidia reinstates Jensen Huang as chief executive...",
-    "✓ 综合财经: Trump administration proposes rule that could curb ESG inves...",
-    "✓ 综合财经: CrowdStrike to buy Zscaler in $44 billion deal as AI superch...",
-    "✓ 股市动态: Nvidia shares up nearly 33% and tech stocks rally after Jens...",
-    "✓ 外汇市场: Wall Street soars as Nvidia reinstates Huang, dollar jumps -..."
+    "✓ 股市动态:  Nvidia partner and supplier stocks in Asia jump after Jense...",
+    "✓ 综合财经: AI adoption grows in Asia, but measuring the gains remains t...",
+    "✓ 股市动态: Nvidia adds nearly $1tn to market value after it reinstates ...",
+    "✓ 股市动态: Nvidia surge: What investors should do with the stock and th...",
+    "✓ 股市动态: Stock market surges as Nvidia reinstates Jensen Huang as CEO..."
   ],
-  "positive_count": 13,
+  "positive_count": 17,
   "negative_count": 0,
-  "neutral_count": 17,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-23T18:43:59.732026",
+  "analyzed_at": "2026-11-24T00:41:11.157205",
   "categories_distribution": {
+    "股市动态": 26,
     "综合财经": 17,
-    "股市动态": 24,
-    "外汇市场": 1,
-    "国际贸易": 1,
-    "大宗商品": 1,
-    "经济数据": 1
+    "货币政策": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
