@@ -1,12 +1,12 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 61.7,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "谨慎看好",
     "risk_level": "中等风险",
     "recommendation": "建议持有",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻10条，消极新闻4条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻10条，消极新闻3条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
     "key_opportunities": [
       "核心业务保持稳定增长",
       "新业务布局逐步显现成效",
@@ -27,13 +27,8 @@
   "key_factors": [
     {
       "type": "positive",
-      "category": "云服务",
-      "title": "Tencent Cloud Explores AI and Cloud Collaboration with Malaysia’s MUI Group - Th"
-    },
-    {
-      "type": "positive",
-      "category": "元宇宙",
-      "title": "WeMM-Ecom-9B Weights Are Up, Tencent Still Silent - OrcaRouter"
+      "category": "AI技术",
+      "title": "Tencent (SEHK:700) Stock Faces Q3 Results Margin Strain Despite Solid Revenue - "
     },
     {
       "type": "negative",
@@ -63,47 +58,48 @@
     {
       "type": "positive",
       "category": "AI技术",
-      "title": "Amazon to acquire AI startup Decart's chip software, hire founders"
+      "title": "AI adoption grows in Asia, but measuring the gains remains tricky"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's c"
     }
   ],
   "positive_count": 10,
-  "negative_count": 4,
-  "neutral_count": 16,
-  "analyzed_news_count": 48,
-  "analyzed_at": "2026-11-23T18:54:02.378470",
+  "negative_count": 3,
+  "neutral_count": 17,
+  "analyzed_news_count": 50,
+  "analyzed_at": "2026-11-24T00:55:25.251401",
   "categories_distribution": {
-    "云服务": 4,
+    "云服务": 2,
     "社交平台": 1,
-    "元宇宙": 4,
+    "AI技术": 35,
     "游戏业务": 4,
-    "AI技术": 30,
-    "股市表现": 5
+    "股市表现": 6,
+    "元宇宙": 1,
+    "综合动态": 1
   },
   "category_sentiment": {
     "云服务": {
-      "positive": 2,
+      "positive": 1,
       "negative": 0,
-      "neutral": 2
+      "neutral": 1
     },
     "社交平台": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "元宇宙": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
+    "AI技术": {
+      "positive": 8,
+      "negative": 3,
+      "neutral": 12
     },
     "游戏业务": {
       "positive": 1,
       "negative": 0,
       "neutral": 2
-    },
-    "AI技术": {
-      "positive": 6,
-      "negative": 4,
-      "neutral": 10
     },
     "股市表现": {
       "positive": 0,
