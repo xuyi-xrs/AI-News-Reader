@@ -1,39 +1,49 @@
 {
-  "temperature_score": 65.0,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
-    "overall_rating": "谨慎看好",
-    "risk_level": "中等风险",
-    "recommendation": "建议持有",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻11条，消极新闻2条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
+    "overall_rating": "中性观望",
+    "risk_level": "中高风险",
+    "recommendation": "建议观望",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯当前面临较多不确定性（积极新闻8条，消极新闻5条）。市场情绪偏谨慎，建议保持观望态度，等待更清晰的方向信号。",
     "key_opportunities": [
-      "核心业务保持稳定增长",
-      "新业务布局逐步显现成效",
-      "技术创新持续推进"
+      "估值处于相对合理区间",
+      "长期基本面仍然稳固"
     ],
     "key_risks": [
-      "行业竞争压力增大",
-      "监管环境存在不确定性",
-      "部分业务增长放缓"
+      "短期业绩压力较大",
+      "监管政策影响持续",
+      "市场竞争加剧",
+      "宏观经济环境不确定"
     ],
     "action_items": [
-      "建议维持当前仓位，观察后续发展",
-      "密切关注政策动向和竞争格局变化",
-      "设置止损点，建议在下跌15%时考虑减仓",
-      "等待更明确的投资信号再做调整"
+      "建议暂时观望，不建议新增仓位",
+      "已持有者可考虑减持至5-10%仓位",
+      "设置严格止损，建议在下跌10%时止损",
+      "等待明确的转机信号再考虑入场"
     ]
   },
   "key_factors": [
     {
-      "type": "positive",
-      "category": "云服务",
-      "title": "Tencent Cloud Explores AI and Cloud Collaboration with Malaysia’s MUI Group - Th"
+      "type": "negative",
+      "category": "游戏业务",
+      "title": "October 2026 mobile game charts: Top Lords takes off, Tencent falls 11% and AI l"
     },
     {
       "type": "positive",
       "category": "AI技术",
-      "title": "Tencent (SEHK:700) Stock Faces Q3 Results Margin Strain Despite Solid Revenue - "
+      "title": "Tencent Hy4 on Together AI: Open-Weight Inference Gets Multimodal - The Futurum "
+    },
+    {
+      "type": "positive",
+      "category": "元宇宙",
+      "title": "Hy MT3 vs Tencent Hy MT2 1.8B: Is the Upgrade Real? - OrcaRouter"
+    },
+    {
+      "type": "negative",
+      "category": "社交平台",
+      "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks"
     },
     {
       "type": "negative",
@@ -46,62 +56,57 @@
       "title": "Tencent says new US chip curbs won't hurt cloud revenue, may slow model training"
     },
     {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows - WSJ"
+      "type": "negative",
+      "category": "社交平台",
+      "title": "U.S. Government Bans TikTok And WeChat Downloads Beginning Sunday - Legal 500"
     },
     {
       "type": "positive",
       "category": "游戏业务",
       "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "AI adoption grows in Asia, but measuring the gains remains tricky"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price "
     }
   ],
-  "positive_count": 11,
-  "negative_count": 2,
+  "positive_count": 8,
+  "negative_count": 5,
   "neutral_count": 17,
   "analyzed_news_count": 50,
-  "analyzed_at": "2026-11-24T07:03:25.419549",
+  "analyzed_at": "2026-11-24T13:04:44.955705",
   "categories_distribution": {
-    "云服务": 2,
-    "AI技术": 34,
-    "元宇宙": 6,
-    "股市表现": 4,
-    "游戏业务": 3,
-    "综合动态": 1
+    "游戏业务": 4,
+    "AI技术": 29,
+    "元宇宙": 8,
+    "社交平台": 4,
+    "云服务": 1,
+    "股市表现": 4
   },
   "category_sentiment": {
-    "云服务": {
-      "positive": 2,
-      "negative": 0,
+    "游戏业务": {
+      "positive": 1,
+      "negative": 1,
       "neutral": 0
     },
     "AI技术": {
-      "positive": 8,
+      "positive": 5,
       "negative": 2,
-      "neutral": 12
+      "neutral": 10
     },
     "元宇宙": {
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 3
+      "neutral": 4
+    },
+    "社交平台": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 2
+    },
+    "云服务": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
     },
     "股市表现": {
       "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "游戏业务": {
-      "positive": 1,
       "negative": 0,
       "neutral": 1
     }
