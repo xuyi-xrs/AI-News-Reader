@@ -1,26 +1,27 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Consumer confidence shoots up after Democrats' midterm victo...",
-    "✓ 综合财经: Faisal Islam: Fears over the AI boom haven't gone away...",
-    "✗ 股市动态: Anthropic sinks 8%, falling below $83 IPO price, but analyst...",
-    "✓ 股市动态: Nvidia shares slide as Trump's role in Jensen Huang's comeba...",
-    "✗ 股市动态: Trump readies raft of new tariffs on major economies..."
+    "✗ 股市动态: 'I only use the washing machine on a Sunday' - how we're kee...",
+    "✓ 综合财经: Households braced for soaring energy bills with new price ca...",
+    "✓ 股市动态: Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as D...",
+    "✓ 综合财经: Dell earnings beat on AI strength, company authorizes $25 bi...",
+    "✗ 股市动态: The stock market is hardly cheap, even taking recent decline..."
   ],
-  "positive_count": 6,
-  "negative_count": 3,
-  "neutral_count": 21,
+  "positive_count": 5,
+  "negative_count": 5,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-24T18:43:42.101879",
+  "analyzed_at": "2026-11-25T00:44:21.314070",
   "categories_distribution": {
-    "经济数据": 2,
-    "综合财经": 18,
-    "股市动态": 23,
+    "股市动态": 20,
     "外汇市场": 1,
-    "国际贸易": 1
+    "综合财经": 17,
+    "货币政策": 2,
+    "国际贸易": 1,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
