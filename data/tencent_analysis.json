@@ -1,12 +1,12 @@
 {
-  "temperature_score": 61.7,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "谨慎看好",
     "risk_level": "中等风险",
     "recommendation": "建议持有",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻10条，消极新闻3条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻10条，消极新闻1条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
     "key_opportunities": [
       "核心业务保持稳定增长",
       "新业务布局逐步显现成效",
@@ -28,7 +28,12 @@
     {
       "type": "positive",
       "category": "股市表现",
-      "title": "Michael Burry Says Nvidia's ‘Precarious Normal’ Returns With Jensen Huang Back A"
+      "title": "Naspers earnings boosted by Tencent despite drag from food delivery investments "
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Prosus Posts Lower Net Profit on Smaller Gain From Tencent Stock Sales - WSJ"
     },
     {
       "type": "negative",
@@ -46,64 +51,71 @@
       "title": "Tencent Hy4 on Together AI: Open-Weight Inference Gets Multimodal - The Futurum "
     },
     {
-      "type": "negative",
-      "category": "AI技术",
-      "title": "Alibaba and Tencent put their faith in Chinese chips as U.S. curbs threatens to "
-    },
-    {
       "type": "positive",
       "category": "云服务",
       "title": "Tencent says new US chip curbs won't hurt cloud revenue, may slow model training"
     },
     {
-      "type": "negative",
-      "category": "社交平台",
-      "title": "U.S. Government Bans TikTok And WeChat Downloads Beginning Sunday - Legal 500"
-    },
-    {
       "type": "positive",
       "category": "游戏业务",
       "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'"
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says"
     }
   ],
   "positive_count": 10,
-  "negative_count": 3,
-  "neutral_count": 17,
-  "analyzed_news_count": 50,
-  "analyzed_at": "2026-11-25T00:59:25.521370",
+  "negative_count": 1,
+  "neutral_count": 19,
+  "analyzed_news_count": 51,
+  "analyzed_at": "2026-11-25T07:06:48.785047",
   "categories_distribution": {
-    "社交平台": 6,
-    "AI技术": 30,
-    "股市表现": 6,
+    "云服务": 2,
+    "社交平台": 4,
+    "股市表现": 4,
+    "AI技术": 31,
     "元宇宙": 5,
-    "云服务": 1,
+    "金融科技": 1,
+    "综合动态": 2,
     "游戏业务": 2
   },
   "category_sentiment": {
+    "云服务": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
     "社交平台": {
       "positive": 1,
-      "negative": 2,
-      "neutral": 3
-    },
-    "AI技术": {
-      "positive": 6,
       "negative": 1,
-      "neutral": 12
+      "neutral": 2
     },
     "股市表现": {
       "positive": 1,
       "negative": 0,
-      "neutral": 1
+      "neutral": 0
+    },
+    "AI技术": {
+      "positive": 6,
+      "negative": 0,
+      "neutral": 11
     },
     "元宇宙": {
       "positive": 0,
       "negative": 0,
+      "neutral": 2
+    },
+    "金融科技": {
+      "positive": 0,
+      "negative": 0,
       "neutral": 1
     },
-    "云服务": {
-      "positive": 1,
+    "综合动态": {
+      "positive": 0,
       "negative": 0,
-      "neutral": 0
+      "neutral": 2
     },
     "游戏业务": {
       "positive": 1,
