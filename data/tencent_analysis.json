@@ -33,6 +33,16 @@
     {
       "type": "positive",
       "category": "AI技术",
+      "title": "Prosus CEO Expresses Strong Confidence in Tencent as a Contender in the AI Race "
+    },
+    {
+      "type": "positive",
+      "category": "股市表现",
+      "title": "Naspers earnings boosted by Tencent despite drag from food delivery investments "
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
       "title": "Prosus Posts Lower Net Profit on Smaller Gain From Tencent Stock Sales - WSJ"
     },
     {
@@ -52,48 +62,32 @@
     },
     {
       "type": "positive",
-      "category": "云服务",
-      "title": "Tencent says new US chip curbs won't hurt cloud revenue, may slow model training"
-    },
-    {
-      "type": "positive",
       "category": "游戏业务",
       "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says"
     }
   ],
   "positive_count": 10,
   "negative_count": 1,
   "neutral_count": 19,
   "analyzed_news_count": 51,
-  "analyzed_at": "2026-11-25T07:06:48.785047",
+  "analyzed_at": "2026-11-25T13:09:08.757520",
   "categories_distribution": {
-    "云服务": 2,
     "社交平台": 4,
-    "股市表现": 4,
-    "AI技术": 31,
-    "元宇宙": 5,
+    "股市表现": 6,
+    "AI技术": 30,
+    "元宇宙": 6,
     "金融科技": 1,
-    "综合动态": 2,
-    "游戏业务": 2
+    "游戏业务": 3,
+    "综合动态": 1
   },
   "category_sentiment": {
-    "云服务": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 1
-    },
     "社交平台": {
       "positive": 1,
       "negative": 1,
       "neutral": 2
     },
     "股市表现": {
-      "positive": 1,
+      "positive": 2,
       "negative": 0,
       "neutral": 0
     },
@@ -105,22 +99,22 @@
     "元宇宙": {
       "positive": 0,
       "negative": 0,
-      "neutral": 2
+      "neutral": 3
     },
     "金融科技": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "综合动态": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 2
-    },
     "游戏业务": {
       "positive": 1,
       "negative": 0,
-      "neutral": 0
+      "neutral": 1
+    },
+    "综合动态": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
     }
   }
 }
