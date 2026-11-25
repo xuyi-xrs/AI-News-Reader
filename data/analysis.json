@@ -1,27 +1,27 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: 'I only use the washing machine on a Sunday' - how we're kee...",
-    "✓ 综合财经: Households braced for soaring energy bills with new price ca...",
-    "✓ 股市动态: Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as D...",
-    "✓ 综合财经: Dell earnings beat on AI strength, company authorizes $25 bi...",
-    "✗ 股市动态: The stock market is hardly cheap, even taking recent decline..."
+    "✓ 数字货币: Crypto talent will return ‘when AI implodes,’ Arthur Hayes s...",
+    "✓ 外汇市场: A French crisis would be a threat — and opportunity — for Eu...",
+    "✓ 外汇市场: Europe must not accept ‘hybrid’ warfare as normal, defence c...",
+    "✓ 经济数据: ‘Ready for any storm’: UAE minister optimistic on economy as...",
+    "✗ 股市动态: Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. T..."
   ],
-  "positive_count": 5,
-  "negative_count": 5,
-  "neutral_count": 20,
+  "positive_count": 8,
+  "negative_count": 6,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-25T00:44:21.314070",
+  "analyzed_at": "2026-11-25T06:53:41.639133",
   "categories_distribution": {
     "股市动态": 20,
-    "外汇市场": 1,
-    "综合财经": 17,
-    "货币政策": 2,
-    "国际贸易": 1,
-    "大宗商品": 1
+    "数字货币": 1,
+    "综合财经": 16,
+    "外汇市场": 3,
+    "经济数据": 2,
+    "国际贸易": 2
   },
   "ai_provider": "fallback_rules"
 }
