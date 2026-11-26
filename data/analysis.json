@@ -1,27 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: U.S. tariff-hike threats pile pressure on partners to sign t...",
-    "✓ 股市动态: Global stocks climb after volatile US trading over AI risks...",
-    "✓ 股市动态: Global stocks rally as investors shrug off U.S. tariffs and ...",
-    "✓ 综合财经: Norse Atlantic suspends all flights as it faces potential co...",
-    "✗ 股市动态: Switzerland’s biggest bank set for showdown with lawmakers a..."
+    "✓ 经济数据: Trump demands probe into ‘record setting error’ after third-...",
+    "✓ 货币政策: Pablo Hernández de Cos wins race for ECB presidency...",
+    "✗ 综合财经: Andrew Bailey says unreleased AI models have raised encrypti...",
+    "✓ 综合财经: Israel’s Eisenkot takes steps towards replacing Netanyahu...",
+    "✓ 股市动态: Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets W..."
   ],
-  "positive_count": 10,
-  "negative_count": 4,
+  "positive_count": 11,
+  "negative_count": 3,
   "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-26T12:55:51.454018",
+  "analyzed_at": "2026-11-26T18:41:27.489480",
   "categories_distribution": {
-    "股市动态": 22,
-    "综合财经": 16,
-    "经济数据": 3,
-    "外汇市场": 1,
+    "经济数据": 6,
+    "综合财经": 18,
     "大宗商品": 1,
-    "国际贸易": 2
+    "货币政策": 5,
+    "股市动态": 14
   },
   "ai_provider": "fallback_rules"
 }
