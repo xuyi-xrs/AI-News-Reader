@@ -28,17 +28,22 @@
     {
       "type": "positive",
       "category": "数字内容",
-      "title": "Tencent Music Entertainment Group Sponsored ADR (TME) Just Flashed Golden Cross "
+      "title": "Wall Street Analysts Think Tencent Music Entertainment Group (TME) Could Surge 2"
     },
     {
       "type": "positive",
-      "category": "AI技术",
-      "title": "Tencent (SEHK:700) Stock May Be Reasonable As AI Costs Rise - Yahoo Finance"
+      "category": "数字内容",
+      "title": "Tencent Music Entertainment Group Sponsored ADR (TME) Just Flashed Golden Cross "
     },
     {
       "type": "positive",
       "category": "股市表现",
       "title": "Naspers earnings boosted by Tencent despite drag from food delivery investments "
+    },
+    {
+      "type": "positive",
+      "category": "AI技术",
+      "title": "Tencent (SEHK:700) Stock May Be Reasonable As AI Costs Rise - Yahoo Finance"
     },
     {
       "type": "positive",
@@ -52,13 +57,8 @@
     },
     {
       "type": "positive",
-      "category": "AI技术",
-      "title": "Tencent Hy4 on Together AI: Open-Weight Inference Gets Multimodal - The Futurum "
-    },
-    {
-      "type": "positive",
-      "category": "社交平台",
-      "title": "Unauthorised accounts tied to WeChat Pay wallets trigger suspicion - Macau Busin"
+      "category": "云服务",
+      "title": "Tencent says new US chip curbs won't hurt cloud revenue, may slow model training"
     },
     {
       "type": "positive",
@@ -69,50 +69,56 @@
   "positive_count": 13,
   "negative_count": 0,
   "neutral_count": 17,
-  "analyzed_news_count": 51,
-  "analyzed_at": "2026-11-25T18:45:21.182113",
+  "analyzed_news_count": 50,
+  "analyzed_at": "2026-11-26T00:58:51.780536",
   "categories_distribution": {
-    "数字内容": 1,
-    "社交平台": 4,
-    "AI技术": 33,
-    "股市表现": 5,
+    "数字内容": 2,
+    "社交平台": 3,
+    "AI技术": 32,
     "元宇宙": 4,
-    "游戏业务": 3,
-    "综合动态": 1
+    "金融科技": 1,
+    "股市表现": 4,
+    "云服务": 1,
+    "游戏业务": 3
   },
   "category_sentiment": {
     "数字内容": {
-      "positive": 1,
+      "positive": 2,
       "negative": 0,
       "neutral": 0
     },
     "社交平台": {
-      "positive": 2,
+      "positive": 1,
       "negative": 0,
       "neutral": 2
     },
     "AI技术": {
-      "positive": 8,
+      "positive": 7,
       "negative": 0,
       "neutral": 12
-    },
-    "股市表现": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
     },
     "元宇宙": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "游戏业务": {
-      "positive": 1,
+    "金融科技": {
+      "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "综合动态": {
-      "positive": 0,
+    "股市表现": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "云服务": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "游戏业务": {
+      "positive": 1,
       "negative": 0,
       "neutral": 1
     }
