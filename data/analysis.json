@@ -1,27 +1,25 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Israeli judges advise prosecutors to drop some charges again...",
-    "✓ 综合财经: US Treasury financial crime watchdog hit by suspected cyber ...",
-    "✓ 经济数据: Stock Market Today, Nov. 25: SpaceX Gets Historic FCC Approv...",
-    "✗ 股市动态: US stocks fall further as fears over AI intensify...",
-    "✗ 综合财经: Poundland collapses putting 11,000 jobs at risk..."
+    "✓ 股市动态: Software stocks spared in tech rout as AI narrative shifts...",
+    "✓ 国际贸易: Nvidia halts chip shipments to south-east Asia...",
+    "✓ 综合财经: Angry young men turn against their elders in ‘two Spains’ el...",
+    "✓ 股市动态: South Korea's Kospi leads gains as tech rebound lifts Asia m...",
+    "✓ 股市动态: Stocks advance in Asia after volatile US trading over AI ris..."
   ],
-  "positive_count": 9,
-  "negative_count": 4,
-  "neutral_count": 17,
+  "positive_count": 10,
+  "negative_count": 1,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-26T00:43:39.237763",
+  "analyzed_at": "2026-11-26T06:53:26.005906",
   "categories_distribution": {
+    "股市动态": 20,
     "综合财经": 17,
-    "股市动态": 17,
-    "货币政策": 3,
-    "经济数据": 5,
-    "外汇市场": 1,
-    "数字货币": 1
+    "国际贸易": 4,
+    "经济数据": 4
   },
   "ai_provider": "fallback_rules"
 }
