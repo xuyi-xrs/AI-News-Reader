@@ -1,12 +1,12 @@
 {
-  "temperature_score": 68.3,
+  "temperature_score": 66.7,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
   "investment_advice": {
     "overall_rating": "谨慎看好",
     "risk_level": "中等风险",
     "recommendation": "建议持有",
-    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻11条，消极新闻0条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
+    "detailed_analysis": "基于最新30条新闻分析，腾讯整体表现稳健（积极新闻11条，消极新闻1条）。虽然面临一些挑战，但核心业务基本面良好，具备中长期投资价值。",
     "key_opportunities": [
       "核心业务保持稳定增长",
       "新业务布局逐步显现成效",
@@ -26,9 +26,9 @@
   },
   "key_factors": [
     {
-      "type": "positive",
-      "category": "股市表现",
-      "title": "Hong Kong Stock Broker Ratings Roundup: Li Auto Out of Favor, Tencent Price Targ"
+      "type": "negative",
+      "category": "游戏业务",
+      "title": "Tencent Is Shutting Down League of Legends Esports Manager in China - The Esport"
     },
     {
       "type": "positive",
@@ -52,6 +52,11 @@
     },
     {
       "type": "positive",
+      "category": "AI技术",
+      "title": "Tencent Hy4 on Together AI: Open-Weight Inference Gets Multimodal - The Futurum "
+    },
+    {
+      "type": "positive",
       "category": "云服务",
       "title": "Tencent says new US chip curbs won't hurt cloud revenue, may slow model training"
     },
@@ -59,53 +64,53 @@
       "type": "positive",
       "category": "游戏业务",
       "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'"
-    },
-    {
-      "type": "positive",
-      "category": "AI技术",
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish "
     }
   ],
   "positive_count": 11,
-  "negative_count": 0,
-  "neutral_count": 19,
-  "analyzed_news_count": 50,
-  "analyzed_at": "2026-11-26T13:06:58.952161",
+  "negative_count": 1,
+  "neutral_count": 18,
+  "analyzed_news_count": 49,
+  "analyzed_at": "2026-11-26T18:51:19.652872",
   "categories_distribution": {
-    "社交平台": 4,
-    "股市表现": 6,
+    "社交平台": 3,
     "AI技术": 30,
-    "金融科技": 1,
+    "游戏业务": 4,
     "元宇宙": 4,
+    "金融科技": 1,
+    "股市表现": 5,
     "云服务": 1,
-    "综合动态": 1,
-    "游戏业务": 3
+    "综合动态": 1
   },
   "category_sentiment": {
     "社交平台": {
       "positive": 1,
       "negative": 0,
-      "neutral": 3
-    },
-    "股市表现": {
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0
+      "neutral": 2
     },
     "AI技术": {
-      "positive": 6,
+      "positive": 7,
       "negative": 0,
       "neutral": 12
     },
-    "金融科技": {
-      "positive": 0,
-      "negative": 0,
+    "游戏业务": {
+      "positive": 1,
+      "negative": 1,
       "neutral": 1
     },
     "元宇宙": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
+    },
+    "金融科技": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "股市表现": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
     },
     "云服务": {
       "positive": 1,
@@ -114,11 +119,6 @@
     },
     "综合动态": {
       "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "游戏业务": {
-      "positive": 1,
       "negative": 0,
       "neutral": 1
     }
