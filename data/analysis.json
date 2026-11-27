@@ -1,28 +1,27 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极3条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Explainer: What is China's 'national team' and can it stop t...",
-    "✗ 股市动态: The Tech Download: Will Jensen Huang’s return be the spark t...",
-    "✓ 股市动态: US tech stocks set to jump at open as volatile trading takes...",
-    "✓ 股市动态: SpaceX shares jump 4% amid tech rally and after Musk says he...",
-    "✓ 股市动态: Chinese shares soar after Beijing signals more support..."
+    "✓ 股市动态: SpaceX shares jump over 4% amid tech rally and after Musk sa...",
+    "✓ 外汇市场: Budget airline Norse Atlantic files for bankruptcy in Europe...",
+    "✓ 国际贸易: OpenAI countersues Apple for stealing trade secrets  ...",
+    "✓ 股市动态: US tech stocks rise in latest market swing...",
+    "✓ 综合财经: Mélenchon takes aim at Germany in Berlin campaign stop..."
   ],
-  "positive_count": 3,
-  "negative_count": 3,
-  "neutral_count": 24,
+  "positive_count": 10,
+  "negative_count": 2,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-27T12:52:33.811245",
+  "analyzed_at": "2026-11-27T18:41:10.036162",
   "categories_distribution": {
-    "股市动态": 21,
+    "股市动态": 20,
+    "外汇市场": 1,
+    "国际贸易": 3,
     "综合财经": 15,
     "经济数据": 3,
-    "货币政策": 2,
-    "外汇市场": 1,
-    "国际贸易": 2,
-    "大宗商品": 1
+    "货币政策": 2
   },
   "ai_provider": "fallback_rules"
 }
