@@ -1,26 +1,26 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 国际贸易: OpenAI countersues Apple for stealing trade secrets  ...",
     "✗ 股市动态: S&P cuts France outlook to negative ...",
+    "✓ 股市动态: Gold and Silver Jump as Beijing Vows to Support China's Stoc...",
     "✓ 股市动态: Wells Fargo (WFC) Beats Stock Market Upswing: What Investors...",
     "✓ 股市动态: Netflix (NFLX) Beats Stock Market Upswing: What Investors Ne...",
     "✓ 股市动态: JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What..."
   ],
-  "positive_count": 13,
-  "negative_count": 5,
-  "neutral_count": 12,
+  "positive_count": 8,
+  "negative_count": 4,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-28T00:45:10.149127",
+  "analyzed_at": "2026-11-28T06:51:31.378928",
   "categories_distribution": {
-    "股市动态": 24,
-    "国际贸易": 3,
-    "经济数据": 2,
+    "综合财经": 15,
+    "股市动态": 23,
+    "经济数据": 3,
     "外汇市场": 1,
-    "综合财经": 14,
+    "国际贸易": 2,
     "货币政策": 1
   },
   "ai_provider": "fallback_rules"
