@@ -2,26 +2,26 @@
   "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: SpaceX shares jump over 4% amid tech rally and after Musk sa...",
-    "✓ 外汇市场: Budget airline Norse Atlantic files for bankruptcy in Europe...",
     "✓ 国际贸易: OpenAI countersues Apple for stealing trade secrets  ...",
-    "✓ 股市动态: US tech stocks rise in latest market swing...",
-    "✓ 综合财经: Mélenchon takes aim at Germany in Berlin campaign stop..."
+    "✗ 股市动态: S&P cuts France outlook to negative ...",
+    "✓ 股市动态: Wells Fargo (WFC) Beats Stock Market Upswing: What Investors...",
+    "✓ 股市动态: Netflix (NFLX) Beats Stock Market Upswing: What Investors Ne...",
+    "✓ 股市动态: JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What..."
   ],
-  "positive_count": 10,
-  "negative_count": 2,
-  "neutral_count": 18,
+  "positive_count": 13,
+  "negative_count": 5,
+  "neutral_count": 12,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-11-27T18:41:10.036162",
+  "analyzed_at": "2026-11-28T00:45:10.149127",
   "categories_distribution": {
-    "股市动态": 20,
-    "外汇市场": 1,
+    "股市动态": 24,
     "国际贸易": 3,
-    "综合财经": 15,
-    "经济数据": 3,
-    "货币政策": 2
+    "经济数据": 2,
+    "外汇市场": 1,
+    "综合财经": 14,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
