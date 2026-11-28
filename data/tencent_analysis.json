@@ -48,12 +48,12 @@
     {
       "type": "positive",
       "category": "AI技术",
-      "title": "Tencent (SEHK:700) Stock May Be Reasonable As AI Costs Rise - Yahoo Finance"
+      "title": "Prosus Posts Lower Net Profit on Smaller Gain From Tencent Stock Sales - WSJ"
     },
     {
       "type": "positive",
-      "category": "AI技术",
-      "title": "Prosus Posts Lower Net Profit on Smaller Gain From Tencent Stock Sales - WSJ"
+      "category": "股市表现",
+      "title": "Michael Burry Says Nvidia's ‘Precarious Normal’ Returns With Jensen Huang Back A"
     },
     {
       "type": "positive",
@@ -70,25 +70,31 @@
   "negative_count": 1,
   "neutral_count": 16,
   "analyzed_news_count": 48,
-  "analyzed_at": "2026-11-28T06:59:30.058714",
+  "analyzed_at": "2026-11-28T12:51:51.663903",
   "categories_distribution": {
+    "云服务": 1,
     "数字内容": 2,
-    "AI技术": 31,
+    "AI技术": 30,
     "社交平台": 3,
     "元宇宙": 4,
     "金融科技": 1,
+    "股市表现": 3,
     "游戏业务": 3,
-    "综合动态": 1,
-    "股市表现": 3
+    "政策监管": 1
   },
   "category_sentiment": {
+    "云服务": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
     "数字内容": {
       "positive": 2,
       "negative": 0,
       "neutral": 0
     },
     "AI技术": {
-      "positive": 9,
+      "positive": 8,
       "negative": 1,
       "neutral": 10
     },
@@ -107,15 +113,15 @@
       "negative": 0,
       "neutral": 1
     },
+    "股市表现": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
     "游戏业务": {
       "positive": 0,
       "negative": 0,
       "neutral": 2
-    },
-    "综合动态": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
     }
   }
 }
